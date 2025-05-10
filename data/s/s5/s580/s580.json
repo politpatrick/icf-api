@@ -1,0 +1,14 @@
+{
+  "code": "s580",
+  "kind": "fourdigit",
+  "preferred": "Struktur der endokrinen Drüsen",
+  "definition": null,
+  "children": [
+    "s5800",
+    "s5801",
+    "s5802",
+    "s5803",
+    "s5808",
+    "s5809"
+  ]
+}

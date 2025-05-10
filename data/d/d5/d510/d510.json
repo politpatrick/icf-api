@@ -1,0 +1,13 @@
+{
+  "code": "d510",
+  "kind": "fourdigit",
+  "preferred": "Sich waschen",
+  "definition": null,
+  "children": [
+    "d5100",
+    "d5101",
+    "d5102",
+    "d5108",
+    "d5109"
+  ]
+}

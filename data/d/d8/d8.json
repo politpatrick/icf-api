@@ -1,0 +1,13 @@
+{
+  "code": "d8",
+  "kind": "chapter",
+  "preferred": "Bedeutende Lebensbereiche",
+  "definition": null,
+  "children": [
+    "d810-d839",
+    "d840-d859",
+    "d860-d879",
+    "d898",
+    "d899"
+  ]
+}

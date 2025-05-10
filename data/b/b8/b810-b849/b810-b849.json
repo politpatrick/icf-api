@@ -1,0 +1,13 @@
+{
+  "code": "b810-b849",
+  "kind": "block",
+  "preferred": "Funktionen der Haut",
+  "definition": null,
+  "children": [
+    "b810",
+    "b820",
+    "b830",
+    "b840",
+    "b849"
+  ]
+}

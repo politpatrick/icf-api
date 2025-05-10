@@ -1,0 +1,16 @@
+{
+  "code": "s810",
+  "kind": "fourdigit",
+  "preferred": "Struktur der Hautregionen",
+  "definition": null,
+  "children": [
+    "s8100",
+    "s8101",
+    "s8102",
+    "s8103",
+    "s8104",
+    "s8105",
+    "s8108",
+    "s8109"
+  ]
+}

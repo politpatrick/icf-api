@@ -1,0 +1,13 @@
+{
+  "code": "b167",
+  "kind": "fourdigit",
+  "preferred": "Kognitiv-sprachliche Funktionen",
+  "definition": null,
+  "children": [
+    "b1670",
+    "b1671",
+    "b1672",
+    "b1678",
+    "b1679"
+  ]
+}

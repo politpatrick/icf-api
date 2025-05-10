@@ -1,0 +1,13 @@
+{
+  "code": "d845",
+  "kind": "fourdigit",
+  "preferred": "Eine Arbeit erhalten, behalten und beenden",
+  "definition": null,
+  "children": [
+    "d8450",
+    "d8451",
+    "d8452",
+    "d8458",
+    "d8459"
+  ]
+}

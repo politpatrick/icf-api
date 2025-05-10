@@ -1,0 +1,22 @@
+{
+  "code": "e1",
+  "kind": "chapter",
+  "preferred": "Produkte und Technologien",
+  "definition": null,
+  "children": [
+    "e110",
+    "e115",
+    "e120",
+    "e125",
+    "e130",
+    "e135",
+    "e140",
+    "e145",
+    "e150",
+    "e155",
+    "e160",
+    "e165",
+    "e198",
+    "e199"
+  ]
+}

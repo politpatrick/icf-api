@@ -1,0 +1,13 @@
+{
+  "code": "d610",
+  "kind": "fourdigit",
+  "preferred": "Wohnraum beschaffen",
+  "definition": null,
+  "children": [
+    "d6100",
+    "d6101",
+    "d6102",
+    "d6108",
+    "d6109"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "s250",
+  "kind": "fourdigit",
+  "preferred": "Struktur des Mittelohres",
+  "definition": null,
+  "children": [
+    "s2500",
+    "s2501",
+    "s2502",
+    "s2508",
+    "s2509"
+  ]
+}

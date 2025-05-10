@@ -1,0 +1,12 @@
+{
+  "code": "d355",
+  "kind": "fourdigit",
+  "preferred": "Diskussion",
+  "definition": null,
+  "children": [
+    "d3550",
+    "d3551",
+    "d3558",
+    "d3559"
+  ]
+}

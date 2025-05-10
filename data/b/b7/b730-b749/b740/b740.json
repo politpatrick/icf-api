@@ -1,0 +1,13 @@
+{
+  "code": "b740",
+  "kind": "fourdigit",
+  "preferred": "Funktionen der Muskelausdauer",
+  "definition": null,
+  "children": [
+    "b7400",
+    "b7401",
+    "b7402",
+    "b7408",
+    "b7409"
+  ]
+}

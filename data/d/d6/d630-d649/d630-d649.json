@@ -1,0 +1,11 @@
+{
+  "code": "d630-d649",
+  "kind": "block",
+  "preferred": "Haushaltsaufgaben",
+  "definition": null,
+  "children": [
+    "d630",
+    "d640",
+    "d649"
+  ]
+}

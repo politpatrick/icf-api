@@ -1,0 +1,13 @@
+{
+  "code": "d460",
+  "kind": "fourdigit",
+  "preferred": "Sich in verschiedenen Umgebungen fortbewegen",
+  "definition": null,
+  "children": [
+    "d4600",
+    "d4601",
+    "d4602",
+    "d4608",
+    "d4609"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "s710",
+  "kind": "fourdigit",
+  "preferred": "Struktur der Kopf- und Halsregion",
+  "definition": null,
+  "children": [
+    "s7100",
+    "s7101",
+    "s7102",
+    "s7103",
+    "s7104",
+    "s7105",
+    "s7108",
+    "s7109"
+  ]
+}

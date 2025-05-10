@@ -1,0 +1,17 @@
+{
+  "code": "b510",
+  "kind": "fourdigit",
+  "preferred": "Funktionen der Nahrungsaufnahme",
+  "definition": null,
+  "children": [
+    "b5100",
+    "b5101",
+    "b5102",
+    "b5103",
+    "b5104",
+    "b5105",
+    "b5106",
+    "b5108",
+    "b5109"
+  ]
+}

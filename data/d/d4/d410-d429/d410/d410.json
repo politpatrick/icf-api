@@ -1,0 +1,17 @@
+{
+  "code": "d410",
+  "kind": "fourdigit",
+  "preferred": "Eine elementare Körperposition wechseln",
+  "definition": null,
+  "children": [
+    "d4100",
+    "d4101",
+    "d4102",
+    "d4103",
+    "d4104",
+    "d4105",
+    "d4106",
+    "d4108",
+    "d4109"
+  ]
+}

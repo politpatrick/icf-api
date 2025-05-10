@@ -1,0 +1,13 @@
+{
+  "code": "e",
+  "kind": "component",
+  "preferred": "Umweltfaktoren",
+  "definition": "Umweltfaktoren bilden die materielle, soziale und einstellungsbezogene Umwelt, in der Menschen leben und ihr Dasein entfalten.",
+  "children": [
+    "e1",
+    "e2",
+    "e3",
+    "e4",
+    "e5"
+  ]
+}

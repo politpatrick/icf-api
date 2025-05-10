@@ -1,0 +1,13 @@
+{
+  "code": "b235",
+  "kind": "fourdigit",
+  "preferred": "Vestibuläre Funktionen",
+  "definition": null,
+  "children": [
+    "b2350",
+    "b2351",
+    "b2352",
+    "b2358",
+    "b2359"
+  ]
+}

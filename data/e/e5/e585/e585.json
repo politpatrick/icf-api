@@ -1,0 +1,13 @@
+{
+  "code": "e585",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Bildungs- und Ausbildungswesens",
+  "definition": null,
+  "children": [
+    "e5850",
+    "e5851",
+    "e5852",
+    "e5858",
+    "e5859"
+  ]
+}

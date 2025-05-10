@@ -1,0 +1,14 @@
+{
+  "code": "d450",
+  "kind": "fourdigit",
+  "preferred": "Gehen",
+  "definition": null,
+  "children": [
+    "d4500",
+    "d4501",
+    "d4502",
+    "d4503",
+    "d4508",
+    "d4509"
+  ]
+}

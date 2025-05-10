@@ -1,0 +1,13 @@
+{
+  "code": "b440",
+  "kind": "fourdigit",
+  "preferred": "Atmungsfunktionen",
+  "definition": null,
+  "children": [
+    "b4400",
+    "b4401",
+    "b4402",
+    "b4408",
+    "b4409"
+  ]
+}

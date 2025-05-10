@@ -1,0 +1,14 @@
+{
+  "code": "b410",
+  "kind": "fourdigit",
+  "preferred": "Herzfunktionen",
+  "definition": null,
+  "children": [
+    "b4100",
+    "b4101",
+    "b4102",
+    "b4103",
+    "b4108",
+    "b4109"
+  ]
+}

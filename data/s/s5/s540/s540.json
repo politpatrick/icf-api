@@ -1,0 +1,12 @@
+{
+  "code": "s540",
+  "kind": "fourdigit",
+  "preferred": "Struktur des Darms",
+  "definition": null,
+  "children": [
+    "s5400",
+    "s5401",
+    "s5408",
+    "s5409"
+  ]
+}

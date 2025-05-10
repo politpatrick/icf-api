@@ -1,0 +1,13 @@
+{
+  "code": "d470",
+  "kind": "fourdigit",
+  "preferred": "Transportmittel benutzen",
+  "definition": null,
+  "children": [
+    "d4700",
+    "d4701",
+    "d4702",
+    "d4708",
+    "d4709"
+  ]
+}

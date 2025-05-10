@@ -1,0 +1,12 @@
+{
+  "code": "d860-d879",
+  "kind": "block",
+  "preferred": "Wirtschaftliches Leben",
+  "definition": null,
+  "children": [
+    "d860",
+    "d865",
+    "d870",
+    "d879"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "e155",
+  "kind": "fourdigit",
+  "preferred": "Entwurf, Konstruktion sowie Bauprodukte und Technologien von privaten Gebäuden",
+  "definition": null,
+  "children": [
+    "e1550",
+    "e1551",
+    "e1552",
+    "e1558",
+    "e1559"
+  ]
+}

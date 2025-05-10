@@ -1,0 +1,13 @@
+{
+  "code": "e580",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Gesundheitswesens",
+  "definition": null,
+  "children": [
+    "e5800",
+    "e5801",
+    "e5802",
+    "e5808",
+    "e5809"
+  ]
+}

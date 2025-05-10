@@ -1,0 +1,13 @@
+{
+  "code": "d530",
+  "kind": "fourdigit",
+  "preferred": "Die Toilette benutzen",
+  "definition": null,
+  "children": [
+    "d5300",
+    "d5301",
+    "d5302",
+    "d5308",
+    "d5309"
+  ]
+}

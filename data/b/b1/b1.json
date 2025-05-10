@@ -1,0 +1,12 @@
+{
+  "code": "b1",
+  "kind": "chapter",
+  "preferred": "Mentale Funktionen",
+  "definition": null,
+  "children": [
+    "b140-b189",
+    "b110-b139",
+    "b198",
+    "b199"
+  ]
+}

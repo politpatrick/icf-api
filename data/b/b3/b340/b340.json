@@ -1,0 +1,12 @@
+{
+  "code": "b340",
+  "kind": "fourdigit",
+  "preferred": "Alternative stimmliche Äußerungen",
+  "definition": null,
+  "children": [
+    "b3400",
+    "b3401",
+    "b3408",
+    "b3409"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "e210",
+  "kind": "fourdigit",
+  "preferred": "Physikalische Geographie",
+  "definition": null,
+  "children": [
+    "e2100",
+    "e2101",
+    "e2108",
+    "e2109"
+  ]
+}

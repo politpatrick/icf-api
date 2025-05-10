@@ -1,0 +1,14 @@
+{
+  "code": "s1200",
+  "kind": "fivedigit",
+  "preferred": "Struktur des Rückenmarks",
+  "definition": null,
+  "children": [
+    "s12000",
+    "s12001",
+    "s12002",
+    "s12003",
+    "s12008",
+    "s12009"
+  ]
+}

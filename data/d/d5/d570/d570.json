@@ -1,0 +1,13 @@
+{
+  "code": "d570",
+  "kind": "fourdigit",
+  "preferred": "Auf seine Gesundheit achten",
+  "definition": null,
+  "children": [
+    "d5700",
+    "d5701",
+    "d5702",
+    "d5708",
+    "d5709"
+  ]
+}

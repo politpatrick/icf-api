@@ -1,0 +1,12 @@
+{
+  "code": "e240",
+  "kind": "fourdigit",
+  "preferred": "Licht",
+  "definition": null,
+  "children": [
+    "e2400",
+    "e2401",
+    "e2408",
+    "e2409"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "b152",
+  "kind": "fourdigit",
+  "preferred": "Emotionale Funktionen",
+  "definition": null,
+  "children": [
+    "b1520",
+    "b1521",
+    "b1522",
+    "b1528",
+    "b1529"
+  ]
+}

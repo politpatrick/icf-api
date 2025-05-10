@@ -1,0 +1,14 @@
+{
+  "code": "d210",
+  "kind": "fourdigit",
+  "preferred": "Eine Einzelaufgabe übernehmen",
+  "definition": null,
+  "children": [
+    "d2100",
+    "d2101",
+    "d2102",
+    "d2103",
+    "d2108",
+    "d2109"
+  ]
+}

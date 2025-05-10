@@ -1,0 +1,12 @@
+{
+  "code": "d420",
+  "kind": "fourdigit",
+  "preferred": "Sich verlagern",
+  "definition": null,
+  "children": [
+    "d4200",
+    "d4201",
+    "d4208",
+    "d4209"
+  ]
+}

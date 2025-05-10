@@ -1,0 +1,16 @@
+{
+  "code": "e225",
+  "kind": "fourdigit",
+  "preferred": "Klima",
+  "definition": null,
+  "children": [
+    "e2250",
+    "e2251",
+    "e2252",
+    "e2253",
+    "e2254",
+    "e2255",
+    "e2258",
+    "e2259"
+  ]
+}

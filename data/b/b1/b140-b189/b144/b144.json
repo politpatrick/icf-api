@@ -1,0 +1,13 @@
+{
+  "code": "b144",
+  "kind": "fourdigit",
+  "preferred": "Funktionen des Gedächtnisses",
+  "definition": null,
+  "children": [
+    "b1440",
+    "b1441",
+    "b1442",
+    "b1448",
+    "b1449"
+  ]
+}

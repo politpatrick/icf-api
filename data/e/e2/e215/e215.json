@@ -1,0 +1,12 @@
+{
+  "code": "e215",
+  "kind": "fourdigit",
+  "preferred": "Bevölkerung",
+  "definition": null,
+  "children": [
+    "e2150",
+    "e2151",
+    "e2158",
+    "e2159"
+  ]
+}

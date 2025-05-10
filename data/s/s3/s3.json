@@ -1,0 +1,14 @@
+{
+  "code": "s3",
+  "kind": "chapter",
+  "preferred": "Strukturen, die an der Stimme und dem Sprechen beteiligt sind",
+  "definition": null,
+  "children": [
+    "s310",
+    "s320",
+    "s330",
+    "s340",
+    "s398",
+    "s399"
+  ]
+}

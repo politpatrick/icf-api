@@ -1,0 +1,13 @@
+{
+  "code": "e570",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze der sozialen Sicherheit",
+  "definition": null,
+  "children": [
+    "e5700",
+    "e5701",
+    "e5702",
+    "e5708",
+    "e5709"
+  ]
+}

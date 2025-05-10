@@ -1,0 +1,17 @@
+{
+  "code": "s110",
+  "kind": "fourdigit",
+  "preferred": "Strukur des Gehirns",
+  "definition": null,
+  "children": [
+    "s1100",
+    "s1101",
+    "s1102",
+    "s1103",
+    "s1104",
+    "s1105",
+    "s1106",
+    "s1108",
+    "s1109"
+  ]
+}

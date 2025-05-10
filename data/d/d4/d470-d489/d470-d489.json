@@ -1,0 +1,12 @@
+{
+  "code": "d470-d489",
+  "kind": "block",
+  "preferred": "Sich mit Transportmitteln fortbewegen",
+  "definition": null,
+  "children": [
+    "d470",
+    "d475",
+    "d480",
+    "d489"
+  ]
+}

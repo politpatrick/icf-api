@@ -1,0 +1,14 @@
+{
+  "code": "d4",
+  "kind": "chapter",
+  "preferred": "Mobilität",
+  "definition": null,
+  "children": [
+    "d410-d429",
+    "d430-d449",
+    "d450-d469",
+    "d470-d489",
+    "d498",
+    "d499"
+  ]
+}

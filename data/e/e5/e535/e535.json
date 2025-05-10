@@ -1,0 +1,13 @@
+{
+  "code": "e535",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Kommunikationswesens",
+  "definition": null,
+  "children": [
+    "e5350",
+    "e5351",
+    "e5352",
+    "e5358",
+    "e5359"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "e130",
+  "kind": "fourdigit",
+  "preferred": "Produkte und Technologien für Bildung/Ausbildung",
+  "definition": null,
+  "children": [
+    "e1300",
+    "e1301",
+    "e1308",
+    "e1309"
+  ]
+}

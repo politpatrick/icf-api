@@ -1,0 +1,12 @@
+{
+  "code": "e135",
+  "kind": "fourdigit",
+  "preferred": "Produkte und Technologien für die Erwerbstätigkeit",
+  "definition": null,
+  "children": [
+    "e1350",
+    "e1351",
+    "e1358",
+    "e1359"
+  ]
+}

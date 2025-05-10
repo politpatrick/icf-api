@@ -1,0 +1,11 @@
+{
+  "code": "d710-d729",
+  "kind": "block",
+  "preferred": "Allgemeine interpersonelle Interaktionen",
+  "definition": null,
+  "children": [
+    "d710",
+    "d720",
+    "d729"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "s610",
+  "kind": "fourdigit",
+  "preferred": "Struktur der ableitenden Harnwege",
+  "definition": null,
+  "children": [
+    "s6100",
+    "s6101",
+    "s6102",
+    "s6103",
+    "s6108",
+    "s6109"
+  ]
+}

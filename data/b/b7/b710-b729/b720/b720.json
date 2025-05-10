@@ -1,0 +1,14 @@
+{
+  "code": "b720",
+  "kind": "fourdigit",
+  "preferred": "Funktionen der Beweglichkeit der Knochen",
+  "definition": null,
+  "children": [
+    "b7200",
+    "b7201",
+    "b7202",
+    "b7203",
+    "b7208",
+    "b7209"
+  ]
+}

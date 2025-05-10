@@ -1,0 +1,12 @@
+{
+  "code": "e220",
+  "kind": "fourdigit",
+  "preferred": "Flora und Fauna",
+  "definition": null,
+  "children": [
+    "e2200",
+    "e2201",
+    "e2208",
+    "e2209"
+  ]
+}

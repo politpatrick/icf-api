@@ -1,0 +1,12 @@
+{
+  "code": "d620",
+  "kind": "fourdigit",
+  "preferred": "Waren und Dienstleistungen des täglichen Bedarfs beschaffen",
+  "definition": null,
+  "children": [
+    "d6200",
+    "d6201",
+    "d6208",
+    "d6209"
+  ]
+}

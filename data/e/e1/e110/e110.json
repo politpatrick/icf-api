@@ -1,0 +1,12 @@
+{
+  "code": "e110",
+  "kind": "fourdigit",
+  "preferred": "Produkte und Substanzen für den persönlichen Verbrauch",
+  "definition": null,
+  "children": [
+    "e1100",
+    "e1101",
+    "e1108",
+    "e1109"
+  ]
+}

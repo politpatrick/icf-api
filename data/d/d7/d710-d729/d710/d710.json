@@ -1,0 +1,16 @@
+{
+  "code": "d710",
+  "kind": "fourdigit",
+  "preferred": "Elementare interpersonelle Aktivitäten",
+  "definition": null,
+  "children": [
+    "d7100",
+    "d7101",
+    "d7102",
+    "d7103",
+    "d7104",
+    "d7105",
+    "d7108",
+    "d7109"
+  ]
+}

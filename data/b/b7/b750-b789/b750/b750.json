@@ -1,0 +1,13 @@
+{
+  "code": "b750",
+  "kind": "fourdigit",
+  "preferred": "Funktionen der motorischen Reflexe",
+  "definition": null,
+  "children": [
+    "b7500",
+    "b7501",
+    "b7502",
+    "b7508",
+    "b7509"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "e140",
+  "kind": "fourdigit",
+  "preferred": "Produkte und Technologien für Kultur, Freizeit und Sport",
+  "definition": null,
+  "children": [
+    "e1400",
+    "e1401",
+    "e1408",
+    "e1409"
+  ]
+}

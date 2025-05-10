@@ -1,0 +1,13 @@
+{
+  "code": "e530",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Versorgungswesens",
+  "definition": null,
+  "children": [
+    "e5300",
+    "e5301",
+    "e5302",
+    "e5308",
+    "e5309"
+  ]
+}

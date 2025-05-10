@@ -1,0 +1,18 @@
+{
+  "code": "s5",
+  "kind": "chapter",
+  "preferred": "Mit dem Verdauungs-, Stoffwechsel und endokrinen System in Zusammenhang stehende Strukturen",
+  "definition": null,
+  "children": [
+    "s510",
+    "s520",
+    "s530",
+    "s540",
+    "s550",
+    "s560",
+    "s570",
+    "s580",
+    "s598",
+    "s599"
+  ]
+}

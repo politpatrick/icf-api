@@ -1,0 +1,16 @@
+{
+  "code": "d430",
+  "kind": "fourdigit",
+  "preferred": "Gegenstände anheben und tragen",
+  "definition": null,
+  "children": [
+    "d4300",
+    "d4301",
+    "d4302",
+    "d4303",
+    "d4304",
+    "d4305",
+    "d4308",
+    "d4309"
+  ]
+}

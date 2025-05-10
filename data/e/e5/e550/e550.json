@@ -1,0 +1,13 @@
+{
+  "code": "e550",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze der Rechtspflege",
+  "definition": null,
+  "children": [
+    "e5500",
+    "e5501",
+    "e5502",
+    "e5508",
+    "e5509"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "d310-d329",
+  "kind": "block",
+  "preferred": "Kommunizieren als Empfänger",
+  "definition": null,
+  "children": [
+    "d310",
+    "d315",
+    "d320",
+    "d325",
+    "d329"
+  ]
+}

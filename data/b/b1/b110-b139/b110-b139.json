@@ -1,0 +1,16 @@
+{
+  "code": "b110-b139",
+  "kind": "block",
+  "preferred": "Globale mentale Funktionen",
+  "definition": null,
+  "children": [
+    "b110",
+    "b114",
+    "b117",
+    "b122",
+    "b126",
+    "b130",
+    "b134",
+    "b139"
+  ]
+}

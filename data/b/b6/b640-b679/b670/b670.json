@@ -1,0 +1,13 @@
+{
+  "code": "b670",
+  "kind": "fourdigit",
+  "preferred": "Mit den Genital- und reproduktiven Funktionen verbundene Empfindungen",
+  "definition": null,
+  "children": [
+    "b6700",
+    "b6701",
+    "b6702",
+    "b6708",
+    "b6709"
+  ]
+}

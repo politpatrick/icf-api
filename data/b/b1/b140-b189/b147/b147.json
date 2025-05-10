@@ -1,0 +1,12 @@
+{
+  "code": "b147",
+  "kind": "fourdigit",
+  "preferred": "Psychomotorische Funktionen",
+  "definition": null,
+  "children": [
+    "b1470",
+    "b1471",
+    "b1478",
+    "b1479"
+  ]
+}

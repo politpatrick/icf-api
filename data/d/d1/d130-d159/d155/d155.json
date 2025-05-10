@@ -1,0 +1,12 @@
+{
+  "code": "d155",
+  "kind": "fourdigit",
+  "preferred": "Sich Fertigkeiten aneignen",
+  "definition": null,
+  "children": [
+    "d1550",
+    "d1551",
+    "d1558",
+    "d1559"
+  ]
+}

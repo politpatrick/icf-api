@@ -1,0 +1,12 @@
+{
+  "code": "b310",
+  "kind": "fourdigit",
+  "preferred": "Funktionen der Stimme",
+  "definition": null,
+  "children": [
+    "b3100",
+    "b3101",
+    "b3108",
+    "b3109"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "code": "e4",
+  "kind": "chapter",
+  "preferred": "Einstellungen",
+  "definition": null,
+  "children": [
+    "e410",
+    "e415",
+    "e420",
+    "e425",
+    "e430",
+    "e435",
+    "e440",
+    "e445",
+    "e450",
+    "e455",
+    "e460",
+    "e465",
+    "e498",
+    "e499"
+  ]
+}

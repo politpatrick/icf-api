@@ -1,0 +1,17 @@
+{
+  "code": "d650",
+  "kind": "fourdigit",
+  "preferred": "Haushaltsgegenstände pflegen",
+  "definition": null,
+  "children": [
+    "d6500",
+    "d6501",
+    "d6502",
+    "d6503",
+    "d6504",
+    "d6505",
+    "d6506",
+    "d6508",
+    "d6509"
+  ]
+}

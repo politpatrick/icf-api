@@ -1,0 +1,14 @@
+{
+  "code": "b270",
+  "kind": "fourdigit",
+  "preferred": "Sinnesfunktionen bezüglich Temperatur und anderer Reize",
+  "definition": null,
+  "children": [
+    "b2700",
+    "b2701",
+    "b2702",
+    "b2703",
+    "b2708",
+    "b2709"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "d410-d429",
+  "kind": "block",
+  "preferred": "Die Körperposition ändern und aufrecht erhalten",
+  "definition": null,
+  "children": [
+    "d410",
+    "d415",
+    "d420",
+    "d429"
+  ]
+}

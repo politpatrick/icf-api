@@ -1,0 +1,12 @@
+{
+  "code": "d630",
+  "kind": "fourdigit",
+  "preferred": "Mahlzeiten vorbereiten",
+  "definition": null,
+  "children": [
+    "d6300",
+    "d6301",
+    "d6308",
+    "d6309"
+  ]
+}

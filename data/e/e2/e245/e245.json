@@ -1,0 +1,12 @@
+{
+  "code": "e245",
+  "kind": "fourdigit",
+  "preferred": "Zeitbezogene Veränderungen",
+  "definition": null,
+  "children": [
+    "e2450",
+    "e2451",
+    "e2458",
+    "e2459"
+  ]
+}

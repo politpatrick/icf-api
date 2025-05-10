@@ -1,0 +1,14 @@
+{
+  "code": "b515",
+  "kind": "fourdigit",
+  "preferred": "Verdauungsfunktionen",
+  "definition": null,
+  "children": [
+    "b5150",
+    "b5151",
+    "b5152",
+    "b5153",
+    "b5158",
+    "b5159"
+  ]
+}

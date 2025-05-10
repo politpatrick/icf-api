@@ -1,0 +1,15 @@
+{
+  "code": "b230",
+  "kind": "fourdigit",
+  "preferred": "Funktionen des Hörens (Hörsinn)",
+  "definition": null,
+  "children": [
+    "b2300",
+    "b2301",
+    "b2302",
+    "b2303",
+    "b2304",
+    "b2308",
+    "b2309"
+  ]
+}

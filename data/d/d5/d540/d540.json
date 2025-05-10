@@ -1,0 +1,15 @@
+{
+  "code": "d540",
+  "kind": "fourdigit",
+  "preferred": "Sich kleiden",
+  "definition": null,
+  "children": [
+    "d5400",
+    "d5401",
+    "d5402",
+    "d5403",
+    "d5404",
+    "d5408",
+    "d5409"
+  ]
+}

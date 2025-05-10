@@ -1,0 +1,11 @@
+{
+  "code": "b430-b439",
+  "kind": "block",
+  "preferred": "Funktionen des hämatologischen und des Immunsystems",
+  "definition": null,
+  "children": [
+    "b430",
+    "b435",
+    "b439"
+  ]
+}

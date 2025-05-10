@@ -1,0 +1,14 @@
+{
+  "code": "b540",
+  "kind": "fourdigit",
+  "preferred": "Allgemeine Stoffwechselfunktionen",
+  "definition": null,
+  "children": [
+    "b5400",
+    "b5401",
+    "b5402",
+    "b5403",
+    "b5408",
+    "b5409"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "d430-d449",
+  "kind": "block",
+  "preferred": "Gegenstände tragen, bewegen und handhaben",
+  "definition": null,
+  "children": [
+    "d430",
+    "d435",
+    "d440",
+    "d445",
+    "d449"
+  ]
+}

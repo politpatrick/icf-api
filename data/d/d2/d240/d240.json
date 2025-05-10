@@ -1,0 +1,13 @@
+{
+  "code": "d240",
+  "kind": "fourdigit",
+  "preferred": "Mit Stress und anderen psychischen Anforderungen umgehen",
+  "definition": null,
+  "children": [
+    "d2400",
+    "d2401",
+    "d2402",
+    "d2408",
+    "d2409"
+  ]
+}

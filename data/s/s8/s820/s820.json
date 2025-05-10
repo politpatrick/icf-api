@@ -1,0 +1,12 @@
+{
+  "code": "s820",
+  "kind": "fourdigit",
+  "preferred": "Struktur der Hautanhangsgebilde",
+  "definition": null,
+  "children": [
+    "s8200",
+    "s8201",
+    "s8208",
+    "s8209"
+  ]
+}

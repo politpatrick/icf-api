@@ -1,0 +1,14 @@
+{
+  "code": "d440",
+  "kind": "fourdigit",
+  "preferred": "Feinmotorischer Handgebrauch",
+  "definition": null,
+  "children": [
+    "d4400",
+    "d4401",
+    "d4402",
+    "d4403",
+    "d4408",
+    "d4409"
+  ]
+}

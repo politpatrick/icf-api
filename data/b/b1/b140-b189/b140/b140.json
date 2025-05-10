@@ -1,0 +1,14 @@
+{
+  "code": "b140",
+  "kind": "fourdigit",
+  "preferred": "Funktionen der Aufmerksamkeit",
+  "definition": null,
+  "children": [
+    "b1400",
+    "b1401",
+    "b1402",
+    "b1403",
+    "b1408",
+    "b1409"
+  ]
+}

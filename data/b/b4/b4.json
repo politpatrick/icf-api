@@ -1,0 +1,14 @@
+{
+  "code": "b4",
+  "kind": "chapter",
+  "preferred": "Funktionen des kardiovaskulären, hämatologischen, Immun- und Atmungssystems",
+  "definition": null,
+  "children": [
+    "b410-b429",
+    "b430-b439",
+    "b440-b449",
+    "b450-b469",
+    "b498",
+    "b499"
+  ]
+}

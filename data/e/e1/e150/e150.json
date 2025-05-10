@@ -1,0 +1,13 @@
+{
+  "code": "e150",
+  "kind": "fourdigit",
+  "preferred": "Entwurf, Konstruktion sowie Bauprodukte und Technologien von öffentlichen Gebäuden",
+  "definition": null,
+  "children": [
+    "e1500",
+    "e1501",
+    "e1502",
+    "e1508",
+    "e1509"
+  ]
+}

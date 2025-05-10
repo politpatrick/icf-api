@@ -1,0 +1,16 @@
+{
+  "code": "d920",
+  "kind": "fourdigit",
+  "preferred": "Erholung und Freizeit",
+  "definition": null,
+  "children": [
+    "d9200",
+    "d9201",
+    "d9202",
+    "d9203",
+    "d9204",
+    "d9205",
+    "d9208",
+    "d9209"
+  ]
+}

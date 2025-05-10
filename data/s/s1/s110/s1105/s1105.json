@@ -1,0 +1,12 @@
+{
+  "code": "s1105",
+  "kind": "fivedigit",
+  "preferred": "Struktur des Hirnstamms",
+  "definition": null,
+  "children": [
+    "s11050",
+    "s11051",
+    "s11058",
+    "s11059"
+  ]
+}

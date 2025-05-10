@@ -1,0 +1,17 @@
+{
+  "code": "d",
+  "kind": "component",
+  "preferred": "Aktivitäten und Partizipation",
+  "definition": "Eine Aktivität ist die Durchführung einer Aufgabe oder einer Handlung (Aktion) durch einen Menschen.",
+  "children": [
+    "d1",
+    "d2",
+    "d3",
+    "d4",
+    "d5",
+    "d6",
+    "d7",
+    "d8",
+    "d9"
+  ]
+}

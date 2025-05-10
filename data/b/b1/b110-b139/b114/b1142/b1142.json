@@ -1,0 +1,12 @@
+{
+  "code": "b1142",
+  "kind": "fivedigit",
+  "preferred": "Orientierung zur Person",
+  "definition": null,
+  "children": [
+    "b11420",
+    "b11421",
+    "b11428",
+    "b11429"
+  ]
+}

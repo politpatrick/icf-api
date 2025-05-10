@@ -1,0 +1,14 @@
+{
+  "code": "e160",
+  "kind": "fourdigit",
+  "preferred": "Produkte und Technologien der Flächennutzung",
+  "definition": null,
+  "children": [
+    "e1600",
+    "e1601",
+    "e1602",
+    "e1603",
+    "e1608",
+    "e1609"
+  ]
+}

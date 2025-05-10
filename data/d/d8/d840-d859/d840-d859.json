@@ -1,0 +1,13 @@
+{
+  "code": "d840-d859",
+  "kind": "block",
+  "preferred": "Arbeit und Beschäftigung",
+  "definition": null,
+  "children": [
+    "d840",
+    "d845",
+    "d850",
+    "d855",
+    "d859"
+  ]
+}

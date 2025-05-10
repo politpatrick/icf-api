@@ -1,0 +1,12 @@
+{
+  "code": "e250",
+  "kind": "fourdigit",
+  "preferred": "Laute und Geräusche",
+  "definition": null,
+  "children": [
+    "e2500",
+    "e2501",
+    "e2508",
+    "e2509"
+  ]
+}

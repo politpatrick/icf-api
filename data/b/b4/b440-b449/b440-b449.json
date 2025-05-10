@@ -1,0 +1,11 @@
+{
+  "code": "b440-b449",
+  "kind": "block",
+  "preferred": "Funktionen des Atmungssystems",
+  "definition": null,
+  "children": [
+    "b440",
+    "b445",
+    "b449"
+  ]
+}

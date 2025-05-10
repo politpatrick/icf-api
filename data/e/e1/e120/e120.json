@@ -1,0 +1,12 @@
+{
+  "code": "e120",
+  "kind": "fourdigit",
+  "preferred": "Produkte und Technologien zur persönlichen Mobilität drinnen und draußen und zum Transport",
+  "definition": null,
+  "children": [
+    "e1200",
+    "e1201",
+    "e1208",
+    "e1209"
+  ]
+}

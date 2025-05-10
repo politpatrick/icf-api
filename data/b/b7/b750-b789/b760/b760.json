@@ -1,0 +1,14 @@
+{
+  "code": "b760",
+  "kind": "fourdigit",
+  "preferred": "Funktionen der Kontrolle von Willkürbewegungen",
+  "definition": null,
+  "children": [
+    "b7600",
+    "b7601",
+    "b7602",
+    "b7603",
+    "b7608",
+    "b7609"
+  ]
+}

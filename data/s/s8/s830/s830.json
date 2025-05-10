@@ -1,0 +1,12 @@
+{
+  "code": "s830",
+  "kind": "fourdigit",
+  "preferred": "Struktur der Nägel",
+  "definition": null,
+  "children": [
+    "s8300",
+    "s8301",
+    "s8308",
+    "s8309"
+  ]
+}

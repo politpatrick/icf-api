@@ -1,0 +1,14 @@
+{
+  "code": "s740",
+  "kind": "fourdigit",
+  "preferred": "Struktur der Beckenregion",
+  "definition": null,
+  "children": [
+    "s7400",
+    "s7401",
+    "s7402",
+    "s7403",
+    "s7408",
+    "s7409"
+  ]
+}

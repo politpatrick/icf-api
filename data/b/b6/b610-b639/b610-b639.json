@@ -1,0 +1,12 @@
+{
+  "code": "b610-b639",
+  "kind": "block",
+  "preferred": "Funktionen der Harnbildung und Harnausscheidung",
+  "definition": null,
+  "children": [
+    "b610",
+    "b620",
+    "b630",
+    "b639"
+  ]
+}

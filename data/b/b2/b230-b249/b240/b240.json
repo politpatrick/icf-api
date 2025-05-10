@@ -1,0 +1,16 @@
+{
+  "code": "b240",
+  "kind": "fourdigit",
+  "preferred": "Mit den Hör- und vestibulären Funktionen verbundene Empfindungen",
+  "definition": null,
+  "children": [
+    "b2400",
+    "b2401",
+    "b2402",
+    "b2403",
+    "b2404",
+    "b2405",
+    "b2408",
+    "b2409"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "b525",
+  "kind": "fourdigit",
+  "preferred": "Defäkationsfunktionen",
+  "definition": null,
+  "children": [
+    "b5250",
+    "b5251",
+    "b5252",
+    "b5253",
+    "b5254",
+    "b5258",
+    "b5259"
+  ]
+}

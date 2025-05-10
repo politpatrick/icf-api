@@ -1,0 +1,12 @@
+{
+  "code": "b230-b249",
+  "kind": "block",
+  "preferred": "Hör- und Vestibularfunktionen",
+  "definition": null,
+  "children": [
+    "b230",
+    "b235",
+    "b240",
+    "b249"
+  ]
+}

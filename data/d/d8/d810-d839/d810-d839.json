@@ -1,0 +1,14 @@
+{
+  "code": "d810-d839",
+  "kind": "block",
+  "preferred": "Erziehung/Bildung",
+  "definition": null,
+  "children": [
+    "d810",
+    "d815",
+    "d820",
+    "d825",
+    "d830",
+    "d839"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "e260",
+  "kind": "fourdigit",
+  "preferred": "Luftqualität",
+  "definition": null,
+  "children": [
+    "e2600",
+    "e2601",
+    "e2608",
+    "e2609"
+  ]
+}

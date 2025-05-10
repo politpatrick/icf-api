@@ -1,0 +1,14 @@
+{
+  "code": "s410",
+  "kind": "fourdigit",
+  "preferred": "Struktur des kardiovaskulären Systems",
+  "definition": null,
+  "children": [
+    "s4100",
+    "s4101",
+    "s4102",
+    "s4103",
+    "s4108",
+    "s4109"
+  ]
+}

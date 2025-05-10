@@ -1,0 +1,12 @@
+{
+  "code": "b550",
+  "kind": "fourdigit",
+  "preferred": "Funktionen der Wärmeregulation",
+  "definition": null,
+  "children": [
+    "b5500",
+    "b5501",
+    "b5508",
+    "b5509"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "d610-d629",
+  "kind": "block",
+  "preferred": "Beschaffung von Lebensnotwendigkeiten",
+  "definition": null,
+  "children": [
+    "d610",
+    "d620",
+    "d629"
+  ]
+}

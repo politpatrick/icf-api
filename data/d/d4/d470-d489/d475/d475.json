@@ -1,0 +1,13 @@
+{
+  "code": "d475",
+  "kind": "fourdigit",
+  "preferred": "Ein Fahrzeug fahren",
+  "definition": null,
+  "children": [
+    "d4750",
+    "d4751",
+    "d4752",
+    "d4758",
+    "d4759"
+  ]
+}

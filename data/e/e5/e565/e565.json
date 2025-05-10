@@ -1,0 +1,13 @@
+{
+  "code": "e565",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze der Wirtschaft",
+  "definition": null,
+  "children": [
+    "e5650",
+    "e5651",
+    "e5652",
+    "e5658",
+    "e5659"
+  ]
+}

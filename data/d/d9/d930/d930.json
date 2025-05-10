@@ -1,0 +1,12 @@
+{
+  "code": "d930",
+  "kind": "fourdigit",
+  "preferred": "Religion und Spiritualität",
+  "definition": null,
+  "children": [
+    "d9300",
+    "d9301",
+    "d9308",
+    "d9309"
+  ]
+}

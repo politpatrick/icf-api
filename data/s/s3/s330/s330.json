@@ -1,0 +1,12 @@
+{
+  "code": "s330",
+  "kind": "fourdigit",
+  "preferred": "Struktur des Pharynx",
+  "definition": null,
+  "children": [
+    "s3300",
+    "s3301",
+    "s3308",
+    "s3309"
+  ]
+}

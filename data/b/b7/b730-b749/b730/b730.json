@@ -1,0 +1,17 @@
+{
+  "code": "b730",
+  "kind": "fourdigit",
+  "preferred": "Funktionen der Muskelkraft",
+  "definition": null,
+  "children": [
+    "b7300",
+    "b7301",
+    "b7302",
+    "b7303",
+    "b7304",
+    "b7305",
+    "b7306",
+    "b7308",
+    "b7309"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": "b215",
+  "kind": "fourdigit",
+  "preferred": "Funktionen von Strukturen, die in Verbindung mit dem Auge stehen",
+  "definition": null,
+  "children": [
+    "b2150",
+    "b2151",
+    "b2152",
+    "b2153",
+    "b2158",
+    "b2159"
+  ]
+}

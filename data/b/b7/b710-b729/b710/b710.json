@@ -1,0 +1,13 @@
+{
+  "code": "b710",
+  "kind": "fourdigit",
+  "preferred": "Funktionen der Gelenkbeweglichkeit",
+  "definition": null,
+  "children": [
+    "b7100",
+    "b7101",
+    "b7102",
+    "b7108",
+    "b7109"
+  ]
+}

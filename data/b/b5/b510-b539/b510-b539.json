@@ -1,0 +1,15 @@
+{
+  "code": "b510-b539",
+  "kind": "block",
+  "preferred": "Funktionen im Zusammenhang mit dem Verdauungssystem",
+  "definition": null,
+  "children": [
+    "b510",
+    "b515",
+    "b520",
+    "b525",
+    "b530",
+    "b535",
+    "b539"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "b420",
+  "kind": "fourdigit",
+  "preferred": "Blutdruckfunktionen",
+  "definition": null,
+  "children": [
+    "b4200",
+    "b4201",
+    "b4202",
+    "b4208",
+    "b4209"
+  ]
+}

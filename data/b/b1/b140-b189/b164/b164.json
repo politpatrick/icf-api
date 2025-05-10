@@ -1,0 +1,17 @@
+{
+  "code": "b164",
+  "kind": "fourdigit",
+  "preferred": "Höhere kognitive Funktionen",
+  "definition": null,
+  "children": [
+    "b1640",
+    "b1641",
+    "b1642",
+    "b1643",
+    "b1644",
+    "b1645",
+    "b1646",
+    "b1648",
+    "b1649"
+  ]
+}

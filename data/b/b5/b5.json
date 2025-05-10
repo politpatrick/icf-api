@@ -1,0 +1,12 @@
+{
+  "code": "b5",
+  "kind": "chapter",
+  "preferred": "Funktionen des Verdauungs-, des Stoffwechsel- und des endokrinen Systems",
+  "definition": null,
+  "children": [
+    "b510-b539",
+    "b540-b559",
+    "b598",
+    "b599"
+  ]
+}

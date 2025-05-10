@@ -1,0 +1,13 @@
+{
+  "code": "b650",
+  "kind": "fourdigit",
+  "preferred": "Menstruationsfunktionen",
+  "definition": null,
+  "children": [
+    "b6500",
+    "b6501",
+    "b6502",
+    "b6508",
+    "b6509"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "d750",
+  "kind": "fourdigit",
+  "preferred": "Informelle soziale Beziehungen",
+  "definition": null,
+  "children": [
+    "d7500",
+    "d7501",
+    "d7502",
+    "d7503",
+    "d7504",
+    "d7508",
+    "d7509"
+  ]
+}

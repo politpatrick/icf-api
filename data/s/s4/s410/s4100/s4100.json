@@ -1,0 +1,12 @@
+{
+  "code": "s4100",
+  "kind": "fivedigit",
+  "preferred": "Herz",
+  "definition": null,
+  "children": [
+    "s41000",
+    "s41001",
+    "s41008",
+    "s41009"
+  ]
+}

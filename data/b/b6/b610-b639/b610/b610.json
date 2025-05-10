@@ -1,0 +1,12 @@
+{
+  "code": "b610",
+  "kind": "fourdigit",
+  "preferred": "Harnbildungsfunktionen",
+  "definition": null,
+  "children": [
+    "b6100",
+    "b6101",
+    "b6108",
+    "b6109"
+  ]
+}

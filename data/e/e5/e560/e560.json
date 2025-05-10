@@ -1,0 +1,13 @@
+{
+  "code": "e560",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Medienwesens",
+  "definition": null,
+  "children": [
+    "e5600",
+    "e5601",
+    "e5602",
+    "e5608",
+    "e5609"
+  ]
+}

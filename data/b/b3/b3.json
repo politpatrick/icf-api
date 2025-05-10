@@ -1,0 +1,14 @@
+{
+  "code": "b3",
+  "kind": "chapter",
+  "preferred": "Stimm- und Sprechfunktionen",
+  "definition": null,
+  "children": [
+    "b310",
+    "b320",
+    "b330",
+    "b340",
+    "b398",
+    "b399"
+  ]
+}

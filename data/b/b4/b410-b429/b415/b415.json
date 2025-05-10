@@ -1,0 +1,13 @@
+{
+  "code": "b415",
+  "kind": "fourdigit",
+  "preferred": "Blutgefäßfunktionen",
+  "definition": null,
+  "children": [
+    "b4150",
+    "b4151",
+    "b4152",
+    "b4158",
+    "b4159"
+  ]
+}

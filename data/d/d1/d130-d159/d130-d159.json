@@ -1,0 +1,15 @@
+{
+  "code": "d130-d159",
+  "kind": "block",
+  "preferred": "Elementares Lernen",
+  "definition": null,
+  "children": [
+    "d130",
+    "d135",
+    "d140",
+    "d145",
+    "d150",
+    "d155",
+    "d159"
+  ]
+}

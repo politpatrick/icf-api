@@ -1,0 +1,14 @@
+{
+  "code": "b160",
+  "kind": "fourdigit",
+  "preferred": "Funktionen des Denkens",
+  "definition": null,
+  "children": [
+    "b1600",
+    "b1601",
+    "b1602",
+    "b1603",
+    "b1608",
+    "b1609"
+  ]
+}

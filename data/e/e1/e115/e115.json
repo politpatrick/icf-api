@@ -1,0 +1,12 @@
+{
+  "code": "e115",
+  "kind": "fourdigit",
+  "preferred": "Produkte und Technologien zum persönlichen Gebrauch im täglichen Leben",
+  "definition": null,
+  "children": [
+    "e1150",
+    "e1151",
+    "e1158",
+    "e1159"
+  ]
+}

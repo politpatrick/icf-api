@@ -1,0 +1,14 @@
+{
+  "code": "b640",
+  "kind": "fourdigit",
+  "preferred": "Sexuelle Funktionen",
+  "definition": null,
+  "children": [
+    "b6400",
+    "b6401",
+    "b6402",
+    "b6403",
+    "b6408",
+    "b6409"
+  ]
+}

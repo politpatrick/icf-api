@@ -1,0 +1,15 @@
+{
+  "code": "d350",
+  "kind": "fourdigit",
+  "preferred": "Konversation",
+  "definition": null,
+  "children": [
+    "d3500",
+    "d3501",
+    "d3502",
+    "d3503",
+    "d3504",
+    "d3508",
+    "d3509"
+  ]
+}

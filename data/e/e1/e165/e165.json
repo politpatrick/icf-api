@@ -1,0 +1,13 @@
+{
+  "code": "e165",
+  "kind": "fourdigit",
+  "preferred": "Vermögenswerte",
+  "definition": null,
+  "children": [
+    "e1650",
+    "e1651",
+    "e1652",
+    "e1658",
+    "e1659"
+  ]
+}

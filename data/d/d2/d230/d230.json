@@ -1,0 +1,13 @@
+{
+  "code": "d230",
+  "kind": "fourdigit",
+  "preferred": "Die tägliche Routine durchführen",
+  "definition": null,
+  "children": [
+    "d2301",
+    "d2302",
+    "d2303",
+    "d2308",
+    "d2309"
+  ]
+}

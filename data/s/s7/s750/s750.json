@@ -1,0 +1,13 @@
+{
+  "code": "s750",
+  "kind": "fourdigit",
+  "preferred": "Struktur der unteren Extremitäten",
+  "definition": null,
+  "children": [
+    "s7500",
+    "s7501",
+    "s7502",
+    "s7508",
+    "s7509"
+  ]
+}

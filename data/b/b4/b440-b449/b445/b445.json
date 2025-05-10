@@ -1,0 +1,13 @@
+{
+  "code": "b445",
+  "kind": "fourdigit",
+  "preferred": "Funktionen der Atemmuskulatur",
+  "definition": null,
+  "children": [
+    "b4450",
+    "b4451",
+    "b4452",
+    "b4458",
+    "b4459"
+  ]
+}

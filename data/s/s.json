@@ -1,0 +1,16 @@
+{
+  "code": "s",
+  "kind": "component",
+  "preferred": "Körperstrukturen",
+  "definition": "Körperstrukturen sind anatomische Teile des Körpers, wie Organe, Gliedmaßen und ihre Bestandteile.",
+  "children": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "e575",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze der allgemeinen sozialen Unterstützung",
+  "definition": null,
+  "children": [
+    "e5750",
+    "e5751",
+    "e5752",
+    "e5758",
+    "e5759"
+  ]
+}

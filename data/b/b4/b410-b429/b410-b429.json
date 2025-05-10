@@ -1,0 +1,12 @@
+{
+  "code": "b410-b429",
+  "kind": "block",
+  "preferred": "Funktionen des kardiovaskulären Systems",
+  "definition": null,
+  "children": [
+    "b410",
+    "b415",
+    "b420",
+    "b429"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "d660",
+  "kind": "fourdigit",
+  "preferred": "Anderen helfen",
+  "definition": null,
+  "children": [
+    "d6600",
+    "d6601",
+    "d6602",
+    "d6603",
+    "d6604",
+    "d6605",
+    "d6608",
+    "d6609"
+  ]
+}

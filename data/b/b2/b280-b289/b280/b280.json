@@ -1,0 +1,13 @@
+{
+  "code": "b280",
+  "kind": "fourdigit",
+  "preferred": "Schmerz",
+  "definition": null,
+  "children": [
+    "b2800",
+    "b2801",
+    "b2802",
+    "b2803",
+    "b2804"
+  ]
+}

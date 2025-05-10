@@ -1,0 +1,12 @@
+{
+  "code": "b172",
+  "kind": "fourdigit",
+  "preferred": "Das Rechnen betreffende Funktionen",
+  "definition": null,
+  "children": [
+    "b1720",
+    "b1721",
+    "b1728",
+    "b1729"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "d520",
+  "kind": "fourdigit",
+  "preferred": "Seine Körperteile pflegen",
+  "definition": null,
+  "children": [
+    "d5200",
+    "d5201",
+    "d5202",
+    "d5203",
+    "d5204",
+    "d5208",
+    "d5209"
+  ]
+}

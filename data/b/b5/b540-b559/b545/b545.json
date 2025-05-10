@@ -1,0 +1,13 @@
+{
+  "code": "b545",
+  "kind": "fourdigit",
+  "preferred": "Funktionen des Wasser-, Mineral- und Elektrolythaushaltes",
+  "definition": null,
+  "children": [
+    "b5450",
+    "b5451",
+    "b5452",
+    "b5458",
+    "b5459"
+  ]
+}

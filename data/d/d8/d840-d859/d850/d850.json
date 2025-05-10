@@ -1,0 +1,13 @@
+{
+  "code": "d850",
+  "kind": "fourdigit",
+  "preferred": "Bezahlte Tätigkeit",
+  "definition": null,
+  "children": [
+    "d8500",
+    "d8501",
+    "d8502",
+    "d8508",
+    "d8509"
+  ]
+}

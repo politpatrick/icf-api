@@ -1,0 +1,12 @@
+{
+  "code": "d175",
+  "kind": "fourdigit",
+  "preferred": "Probleme lösen",
+  "definition": null,
+  "children": [
+    "d1750",
+    "d1751",
+    "d1758",
+    "d1759"
+  ]
+}

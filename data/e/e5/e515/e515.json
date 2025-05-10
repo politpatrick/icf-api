@@ -1,0 +1,13 @@
+{
+  "code": "e515",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Architektur- und Bauwesens",
+  "definition": null,
+  "children": [
+    "e5150",
+    "e5151",
+    "e5152",
+    "e5158",
+    "e5159"
+  ]
+}

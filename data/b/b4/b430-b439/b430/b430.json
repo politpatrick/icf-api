@@ -1,0 +1,14 @@
+{
+  "code": "b430",
+  "kind": "fourdigit",
+  "preferred": "Funktionen des hämatologischen Systems",
+  "definition": null,
+  "children": [
+    "b4300",
+    "b4301",
+    "b4302",
+    "b4303",
+    "b4308",
+    "b4309"
+  ]
+}

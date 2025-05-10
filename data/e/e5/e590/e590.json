@@ -1,0 +1,13 @@
+{
+  "code": "e590",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Arbeits- und Beschäftigungswesens",
+  "definition": null,
+  "children": [
+    "e5900",
+    "e5901",
+    "e5902",
+    "e5908",
+    "e5909"
+  ]
+}

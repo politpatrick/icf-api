@@ -1,0 +1,14 @@
+{
+  "code": "b660",
+  "kind": "fourdigit",
+  "preferred": "Fortpflanzungsfunktionen",
+  "definition": null,
+  "children": [
+    "b6600",
+    "b6601",
+    "b6602",
+    "b6603",
+    "b6608",
+    "b6609"
+  ]
+}

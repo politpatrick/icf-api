@@ -1,0 +1,12 @@
+{
+  "code": "b5450",
+  "kind": "fivedigit",
+  "preferred": "Funktionen des Wasserhaushaltes",
+  "definition": null,
+  "children": [
+    "b54500",
+    "b54501",
+    "b54508",
+    "b54509"
+  ]
+}

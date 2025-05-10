@@ -1,0 +1,14 @@
+{
+  "code": "d760",
+  "kind": "fourdigit",
+  "preferred": "Familienbeziehungen",
+  "definition": null,
+  "children": [
+    "d7600",
+    "d7601",
+    "d7602",
+    "d7603",
+    "d7608",
+    "d7609"
+  ]
+}

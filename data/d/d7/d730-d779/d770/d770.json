@@ -1,0 +1,13 @@
+{
+  "code": "d770",
+  "kind": "fourdigit",
+  "preferred": "Intime Beziehungen",
+  "definition": null,
+  "children": [
+    "d7700",
+    "d7701",
+    "d7702",
+    "d7708",
+    "d7709"
+  ]
+}

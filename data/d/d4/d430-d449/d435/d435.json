@@ -1,0 +1,12 @@
+{
+  "code": "d435",
+  "kind": "fourdigit",
+  "preferred": "Gegenstände mit den unteren Extremitäten bewegen",
+  "definition": null,
+  "children": [
+    "d4350",
+    "d4351",
+    "d4358",
+    "d4359"
+  ]
+}

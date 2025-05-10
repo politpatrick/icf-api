@@ -1,0 +1,17 @@
+{
+  "code": "d5",
+  "kind": "chapter",
+  "preferred": "Selbstversorgung",
+  "definition": null,
+  "children": [
+    "d510",
+    "d520",
+    "d530",
+    "d540",
+    "d550",
+    "d560",
+    "d570",
+    "d598",
+    "d599"
+  ]
+}

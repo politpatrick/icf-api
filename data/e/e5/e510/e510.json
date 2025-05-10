@@ -1,0 +1,13 @@
+{
+  "code": "e510",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze für die Konsumgüterproduktion",
+  "definition": null,
+  "children": [
+    "e5100",
+    "e5101",
+    "e5102",
+    "e5108",
+    "e5109"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "s730",
+  "kind": "fourdigit",
+  "preferred": "Struktur der oberen Extremitäten",
+  "definition": null,
+  "children": [
+    "s7300",
+    "s7301",
+    "s7302",
+    "s7308",
+    "s7309"
+  ]
+}

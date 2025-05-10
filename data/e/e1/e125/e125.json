@@ -1,0 +1,12 @@
+{
+  "code": "e125",
+  "kind": "fourdigit",
+  "preferred": "Produkte und Technologien zur Kommunikation",
+  "definition": null,
+  "children": [
+    "e1250",
+    "e1251",
+    "e1258",
+    "e1259"
+  ]
+}

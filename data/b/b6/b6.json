@@ -1,0 +1,12 @@
+{
+  "code": "b6",
+  "kind": "chapter",
+  "preferred": "Funktionen des Urogenital- und reproduktiven Systems",
+  "definition": null,
+  "children": [
+    "b610-b639",
+    "b640-b679",
+    "b698",
+    "b699"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": "b134",
+  "kind": "fourdigit",
+  "preferred": "Funktionen des Schlafes",
+  "definition": null,
+  "children": [
+    "b1340",
+    "b1341",
+    "b1342",
+    "b1343",
+    "b1344",
+    "b1348",
+    "b1349"
+  ]
+}

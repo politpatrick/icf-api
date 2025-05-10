@@ -1,0 +1,12 @@
+{
+  "code": "d870",
+  "kind": "fourdigit",
+  "preferred": "Wirtschaftliche Eigenständigkeit",
+  "definition": null,
+  "children": [
+    "d8700",
+    "d8701",
+    "d8708",
+    "d8709"
+  ]
+}

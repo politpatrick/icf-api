@@ -1,0 +1,13 @@
+{
+  "code": "d910",
+  "kind": "fourdigit",
+  "preferred": "Gemeinschaftsleben",
+  "definition": null,
+  "children": [
+    "d9100",
+    "d9101",
+    "d9102",
+    "d9108",
+    "d9109"
+  ]
+}

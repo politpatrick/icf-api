@@ -1,0 +1,13 @@
+{
+  "code": "b540-b559",
+  "kind": "block",
+  "preferred": "Funktionen im Zusammenhang mit dem Stoffwechsel- und dem endokrinen System",
+  "definition": null,
+  "children": [
+    "b540",
+    "b545",
+    "b550",
+    "b555",
+    "b559"
+  ]
+}

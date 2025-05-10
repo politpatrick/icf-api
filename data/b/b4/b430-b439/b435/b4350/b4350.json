@@ -1,0 +1,12 @@
+{
+  "code": "b4350",
+  "kind": "fivedigit",
+  "preferred": "Immunantwort",
+  "definition": null,
+  "children": [
+    "b43500",
+    "b43501",
+    "b43508",
+    "b43509"
+  ]
+}

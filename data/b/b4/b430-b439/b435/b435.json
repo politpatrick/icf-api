@@ -1,0 +1,14 @@
+{
+  "code": "b435",
+  "kind": "fourdigit",
+  "preferred": "Funktionen des Immunsystems",
+  "definition": null,
+  "children": [
+    "b4350",
+    "b4351",
+    "b4352",
+    "b4353",
+    "b4358",
+    "b4359"
+  ]
+}

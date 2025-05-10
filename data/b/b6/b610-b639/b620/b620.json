@@ -1,0 +1,13 @@
+{
+  "code": "b620",
+  "kind": "fourdigit",
+  "preferred": "Miktionsfunktionen",
+  "definition": null,
+  "children": [
+    "b6200",
+    "b6201",
+    "b6202",
+    "b6208",
+    "b6209"
+  ]
+}

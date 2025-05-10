@@ -1,0 +1,13 @@
+{
+  "code": "e525",
+  "kind": "fourdigit",
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Wohnungswesens",
+  "definition": null,
+  "children": [
+    "e5250",
+    "e5251",
+    "e5252",
+    "e5258",
+    "e5259"
+  ]
+}

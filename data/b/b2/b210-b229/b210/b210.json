@@ -1,0 +1,13 @@
+{
+  "code": "b210",
+  "kind": "fourdigit",
+  "preferred": "Funktionen des Sehens (Sehsinn)",
+  "definition": null,
+  "children": [
+    "b2100",
+    "b2101",
+    "b2102",
+    "b2108",
+    "b2109"
+  ]
+}

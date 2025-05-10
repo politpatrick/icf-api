@@ -1,0 +1,14 @@
+{
+  "code": "b250-b279",
+  "kind": "block",
+  "preferred": "Weitere Sinnesfunktionen",
+  "definition": null,
+  "children": [
+    "b250",
+    "b255",
+    "b260",
+    "b265",
+    "b270",
+    "b279"
+  ]
+}

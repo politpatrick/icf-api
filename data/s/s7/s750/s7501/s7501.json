@@ -1,0 +1,14 @@
+{
+  "code": "s7501",
+  "kind": "fivedigit",
+  "preferred": "Struktur des Unterschenkels",
+  "definition": null,
+  "children": [
+    "s75010",
+    "s75011",
+    "s75012",
+    "s75013",
+    "s75018",
+    "s75019"
+  ]
+}

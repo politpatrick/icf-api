@@ -1,0 +1,13 @@
+{
+  "code": "d315",
+  "kind": "fourdigit",
+  "preferred": "Kommunizieren als Empfänger non-verbaler Mitteilungen",
+  "definition": null,
+  "children": [
+    "d3150",
+    "d3151",
+    "d3152",
+    "d3158",
+    "d3159"
+  ]
+}

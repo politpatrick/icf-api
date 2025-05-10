@@ -1,0 +1,16 @@
+{
+  "code": "d640",
+  "kind": "fourdigit",
+  "preferred": "Hausarbeiten erledigen",
+  "definition": null,
+  "children": [
+    "d6400",
+    "d6401",
+    "d6402",
+    "d6403",
+    "d6404",
+    "d6405",
+    "d6408",
+    "d6409"
+  ]
+}

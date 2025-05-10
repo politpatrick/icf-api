@@ -1,0 +1,13 @@
+{
+  "code": "d3",
+  "kind": "chapter",
+  "preferred": "Kommunikation",
+  "definition": null,
+  "children": [
+    "d310-d329",
+    "d330-d349",
+    "d350-d369",
+    "d398",
+    "d399"
+  ]
+}

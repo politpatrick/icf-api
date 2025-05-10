@@ -1,0 +1,14 @@
+{
+  "code": "b330",
+  "kind": "fourdigit",
+  "preferred": "Funktionen des Redeflusses und Sprechrhythmus",
+  "definition": null,
+  "children": [
+    "b3300",
+    "b3301",
+    "b3302",
+    "b3303",
+    "b3308",
+    "b3309"
+  ]
+}

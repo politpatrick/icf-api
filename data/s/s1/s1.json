@@ -1,0 +1,15 @@
+{
+  "code": "s1",
+  "kind": "chapter",
+  "preferred": "Strukturen des Nervensystems",
+  "definition": null,
+  "children": [
+    "s110",
+    "s120",
+    "s130",
+    "s140",
+    "s150",
+    "s198",
+    "s199"
+  ]
+}

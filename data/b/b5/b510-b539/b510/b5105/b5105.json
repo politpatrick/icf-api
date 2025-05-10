@@ -1,0 +1,13 @@
+{
+  "code": "b5105",
+  "kind": "fivedigit",
+  "preferred": "Schlucken",
+  "definition": null,
+  "children": [
+    "b51050",
+    "b51051",
+    "b51052",
+    "b51058",
+    "b51059"
+  ]
+}

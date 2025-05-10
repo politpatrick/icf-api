@@ -1,0 +1,15 @@
+{
+  "code": "s420",
+  "kind": "fourdigit",
+  "preferred": "Struktur des Immunsystems",
+  "definition": null,
+  "children": [
+    "s4200",
+    "s4201",
+    "s4202",
+    "s4203",
+    "s4204",
+    "s4208",
+    "s4209"
+  ]
+}

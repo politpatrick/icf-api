@@ -1,0 +1,17 @@
+{
+  "code": "b2801",
+  "kind": "fivedigit",
+  "preferred": "Schmerz in einem Körperteil",
+  "definition": null,
+  "children": [
+    "b28010",
+    "b28011",
+    "b28012",
+    "b28013",
+    "b28014",
+    "b28015",
+    "b28016",
+    "b28018",
+    "b28019"
+  ]
+}
