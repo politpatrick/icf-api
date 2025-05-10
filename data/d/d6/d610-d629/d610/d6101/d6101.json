@@ -1,7 +1,9 @@
 {
   "code": "d6101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Wohnraum mieten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die Benutzung eines Hauses, Appartements oder einer anderen Wohngelegenheit, die jeweils einem anderen gehört, gegen Entgelt zu erlangen"
+  ]
 }

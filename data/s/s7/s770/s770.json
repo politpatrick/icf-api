@@ -1,8 +1,6 @@
 {
   "code": "s770",
   "kind": "fourdigit",
-  "preferred": "Weitere mit der Bewegung in Zusammenhang stehende muskuloskeletale Strukturen",
-  "definition": null,
   "children": [
     "s7700",
     "s7701",
@@ -10,5 +8,6 @@
     "s7703",
     "s7708",
     "s7709"
-  ]
+  ],
+  "preferred": "Weitere mit der Bewegung in Zusammenhang stehende muskuloskeletale Strukturen"
 }

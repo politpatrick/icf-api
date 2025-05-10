@@ -1,7 +1,9 @@
 {
   "code": "b2804",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "In ein Hautsegment oder ein Hautareal ausstrahlender Schmerz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfinden eines unangenehmen Gefühls, das mögliche oder tatsächliche Schäden einer Körperstruktur anzeigt, in nicht von derselben Nervenwurzel versorgten Hautgebieten verschiedener Körperteile"
+  ]
 }

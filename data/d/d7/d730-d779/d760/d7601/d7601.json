@@ -1,7 +1,9 @@
 {
   "code": "d7601",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kind-Eltern-Beziehung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mit seinen Eltern Beziehungen aufzubauen und aufrecht zu erhalten, wie als junges Kind seinen Eltern gehorchen und sich als erwachsenes Kind um seine alten Eltern kümmern"
+  ]
 }

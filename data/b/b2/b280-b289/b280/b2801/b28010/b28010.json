@@ -1,7 +1,9 @@
 {
   "code": "b28010",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Kopf- und Nackenschmerz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfinden eines unangenehmen Gefühls, das mögliche oder tatsächliche Schäden einer Körperstruktur anzeigt, in Kopf oder Nacken"
+  ]
 }

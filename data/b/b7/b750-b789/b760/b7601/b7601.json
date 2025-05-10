@@ -1,7 +1,9 @@
 {
   "code": "b7601",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kontrolle komplexer Willkürbewegungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die mit der Kontrolle und Koordination komplexer Willkürbewegungen verbunden sind"
+  ]
 }

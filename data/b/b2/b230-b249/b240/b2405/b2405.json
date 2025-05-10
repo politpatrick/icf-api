@@ -1,7 +1,9 @@
 {
   "code": "b2405",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Druck im Ohr",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gefühl von Ohrdruck"
+  ]
 }

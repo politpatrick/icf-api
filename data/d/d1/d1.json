@@ -1,13 +1,15 @@
 {
   "code": "d1",
   "kind": "chapter",
-  "preferred": "Lernen und Wissensanwendung",
-  "definition": null,
   "children": [
     "d110-d129",
     "d130-d159",
     "d160-d179",
     "d198",
     "d199"
+  ],
+  "preferred": "Lernen und Wissensanwendung",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit Lernen, Anwendung des Erlernten, Denken, Probleme lösen und Entscheidungen treffen."
   ]
 }

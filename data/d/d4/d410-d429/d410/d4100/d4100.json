@@ -1,7 +1,12 @@
 {
   "code": "d4100",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sich hinlegen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In oder aus einer liegenden Position zu gelangen oder die Körperposition von einer waagerechten in jede andere Position zu wechseln, wie aufstehen oder sich hinsetzen"
+  ],
+  "inclusions": [
+    "In eine ausgestreckte Position gelangen"
+  ]
 }

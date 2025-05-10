@@ -1,13 +1,18 @@
 {
   "code": "d360",
   "kind": "fourdigit",
-  "preferred": "Kommunikationsgeräte und -techniken benutzen",
-  "definition": null,
   "children": [
     "d3600",
     "d3601",
     "d3602",
     "d3608",
     "d3609"
+  ],
+  "preferred": "Kommunikationsgeräte und -techniken benutzen",
+  "coding-hints": [
+    "Kommunikationsgeräte, -techniken und andere Kommunikationsmittel verwenden, wie einen Freund per Telefon anrufen"
+  ],
+  "inclusions": [
+    "Telekommunikationsgeräte, Schreibmaschinen und Kommunikationstechniken verwenden"
   ]
 }

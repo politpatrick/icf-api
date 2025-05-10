@@ -1,7 +1,12 @@
 {
   "code": "d4103",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sitzen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In oder aus einer sitzenden Position zu gelangen oder die Körperposition von einer sitzenden in jede andere Position zu wechseln, wie aufstehen oder sich hinlegen"
+  ],
+  "inclusions": [
+    "In eine sitzende Position mit gebeugten oder übergeschlagenen Beinen gelangen; in eine sitzende Position mit oder ohne Unterstützung der Füße gelangen"
+  ]
 }

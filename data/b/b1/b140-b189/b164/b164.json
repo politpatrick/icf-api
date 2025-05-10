@@ -1,8 +1,6 @@
 {
   "code": "b164",
   "kind": "fourdigit",
-  "preferred": "Höhere kognitive Funktionen",
-  "definition": null,
   "children": [
     "b1640",
     "b1641",
@@ -13,5 +11,15 @@
     "b1646",
     "b1648",
     "b1649"
+  ],
+  "preferred": "Höhere kognitive Funktionen",
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die insbesondere von den Frontallappen des Gehirns abhängen, einschließlich komplexe zielgerichtete Verhaltensweisen wie Entscheidungen treffen, abstrakt denken sowie einen Plan aufstellen und durchführen, mentale Flexibilität, sowie entscheiden, welche Verhaltensweisen unter welchen Umständen angemessen sind (häufig „exekutive Funktionen“ genannt)"
+  ],
+  "inclusions": [
+    "Funktionen, die Abstraktionsvermögen und Ordnen von Ideen betreffen; Zeitmanagement, Einsichts- und Urteilsvermögen; Konzeptbildung, Kategorisierung und kognitive Flexibilität"
+  ],
+  "exclusions": [
+    "Funktionen des Gedächtnisses"
   ]
 }

@@ -1,7 +1,6 @@
 {
   "code": "s210",
   "kind": "fourdigit",
-  "preferred": "Struktur der Augenhöhle (Orbita)",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Struktur der Augenhöhle (Orbita)"
 }

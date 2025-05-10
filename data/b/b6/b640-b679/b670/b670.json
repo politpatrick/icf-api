@@ -1,13 +1,21 @@
 {
   "code": "b670",
   "kind": "fourdigit",
-  "preferred": "Mit den Genital- und reproduktiven Funktionen verbundene Empfindungen",
-  "definition": null,
   "children": [
     "b6700",
     "b6701",
     "b6702",
     "b6708",
     "b6709"
+  ],
+  "preferred": "Mit den Genital- und reproduktiven Funktionen verbundene Empfindungen",
+  "coding-hints": [
+    "Empfindungen wie Unbehagen während des Geschlechtsverkehrs oder während des Menstruationszyklus"
+  ],
+  "inclusions": [
+    "Dyspareunie, Dysmenorrhoe, Hitzewallungen und nächtliche Schweißausbrüche während der Menopause"
+  ],
+  "exclusions": [
+    "Schmerz"
   ]
 }

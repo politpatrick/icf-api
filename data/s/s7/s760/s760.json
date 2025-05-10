@@ -1,13 +1,12 @@
 {
   "code": "s760",
   "kind": "fourdigit",
-  "preferred": "Struktur des Rumpfes",
-  "definition": null,
   "children": [
     "s7600",
     "s7601",
     "s7602",
     "s7608",
     "s7609"
-  ]
+  ],
+  "preferred": "Struktur des Rumpfes"
 }

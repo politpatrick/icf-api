@@ -1,7 +1,15 @@
 {
   "code": "b6600",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen im Zusammenhang mit der Fertilität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit der Fähigkeit zur Bildung von Keimzellen stehen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Subfertilität, Sterilität"
+  ],
+  "exclusions": [
+    "Sexuelle Funktionen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "d340",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Mitteilungen in Gebärdensprache ausdrücken",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mitteilungen mit wörtlicher und übertragener Bedeutung in Gebärdensprache zu vermitteln"
+  ]
 }

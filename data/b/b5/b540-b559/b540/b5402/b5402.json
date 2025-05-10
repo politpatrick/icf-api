@@ -1,7 +1,9 @@
 {
   "code": "b5402",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Eiweißstoffwechsel",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an dem Prozess, bei dem Nahrungseiweiße in Aminosäuren aufgeschlüsselt und weiter metabolisiert werden, beteiligt sind"
+  ]
 }

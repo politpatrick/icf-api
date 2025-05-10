@@ -1,7 +1,12 @@
 {
   "code": "d8500",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Selbständige Tätigkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Selbständige Erwerbstätigkeit, die das Individuum selbst gesucht oder geschaffen hat, oder von anderen ohne formelles Arbeitsverhältnis vertraglich zugesichert wurde, auszuüben, wie landwirtschaftliche Wanderarbeit, Tätigkeit als freiberuflicher Autor oder Berater, kurzfristige Vertragsarbeit, Tätigkeit als Künstler oder Handwerker, ein Geschäft oder ein Unternehmen besitzen und führen"
+  ],
+  "exclusions": [
+    "Teilzeit- und Vollzeitbeschäftigung"
+  ]
 }

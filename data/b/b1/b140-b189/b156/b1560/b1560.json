@@ -1,7 +1,9 @@
 {
   "code": "b1560",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Auditive Wahrnehmung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die an der Unterscheidung von Geräuschen, Tönen, Tonhöhe und anderen auditiven Reizen beteiligt sind"
+  ]
 }

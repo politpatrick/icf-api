@@ -1,12 +1,17 @@
 {
   "code": "d155",
   "kind": "fourdigit",
-  "preferred": "Sich Fertigkeiten aneignen",
-  "definition": null,
   "children": [
     "d1550",
     "d1551",
     "d1558",
     "d1559"
+  ],
+  "preferred": "Sich Fertigkeiten aneignen",
+  "coding-hints": [
+    "Elementare und komplexe Fähigkeiten für integrierte Mengen von Handlungen und Aufgaben zu entwickeln, um die Aneignung einer Fertigkeit anzugehen und zu Ende zu bringen, wie Werkzeuge handhaben oder Spiele wie Schach spielen"
+  ],
+  "inclusions": [
+    "Sich elementare und komplexe Fähigkeiten aneignen"
   ]
 }

@@ -1,13 +1,15 @@
 {
   "code": "d6",
   "kind": "chapter",
-  "preferred": "Häusliches Leben",
-  "definition": null,
   "children": [
     "d610-d629",
     "d630-d649",
     "d650-d669",
     "d698",
     "d699"
+  ],
+  "preferred": "Häusliches Leben",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit der Ausführung von häuslichen und alltäglichen Handlungen und Aufgaben. Die Bereiche des häuslichen Lebens umfassen die Beschaffung einer Wohnung, von Lebensmitteln, Kleidung und anderen Notwendigkeiten, Reinigungs- und Reparaturarbeiten im Haushalt, die Pflege von persönlichen und anderen Haushaltsgegenständen und die Hilfe für andere."
   ]
 }

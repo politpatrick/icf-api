@@ -1,7 +1,9 @@
 {
   "code": "b7800",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Empfindung von Muskelsteifigkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfindung von Muskelverspannung oder -steifigkeit"
+  ]
 }

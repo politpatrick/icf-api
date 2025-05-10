@@ -1,7 +1,6 @@
 {
   "code": "s4204",
   "kind": "fivedigit",
-  "preferred": "Knochenmark",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Knochenmark"
 }

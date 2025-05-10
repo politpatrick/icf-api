@@ -1,7 +1,9 @@
 {
   "code": "b1720",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Das einfache Rechnen betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die Rechnen mit Zahlen betreffen, wie Addition, Subtraktion, Multiplikation und Division"
+  ]
 }

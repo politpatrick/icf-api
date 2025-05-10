@@ -1,12 +1,17 @@
 {
   "code": "e110",
   "kind": "fourdigit",
-  "preferred": "Produkte und Substanzen für den persönlichen Verbrauch",
-  "definition": null,
   "children": [
     "e1100",
     "e1101",
     "e1108",
     "e1109"
+  ],
+  "preferred": "Produkte und Substanzen für den persönlichen Verbrauch",
+  "coding-hints": [
+    "Alle natürlichen oder vom Menschen hergestellten Produkte oder Substanzen, für den persönlichen Verbrauch gesammelt, verarbeitet oder hergestellt"
+  ],
+  "inclusions": [
+    "Produkte wie Lebensmittel, Heilmittel/Medikamente"
   ]
 }

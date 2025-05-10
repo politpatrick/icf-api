@@ -1,7 +1,9 @@
 {
   "code": "d810",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Informelle Bildung/Ausbildung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Zu Hause oder in einem anderen nicht-institutionellen Rahmen zu lernen, wie handwerkliche und andere Fertigkeiten von den Eltern oder Familienmitgliedern lernen, oder Privatunterricht erhalten"
+  ]
 }

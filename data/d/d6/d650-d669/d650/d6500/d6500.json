@@ -1,7 +1,12 @@
 {
   "code": "d6500",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kleidung herstellen und reparieren",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Kleidung herzustellen und zu reparieren, wie nähen, Kleidung anfertigen oder ausbessern; Knöpfe und Verschlüsse wieder befestigen; Kleidungsstücke bügeln; Schuhwerk in Ordnung bringen und putzen"
+  ],
+  "exclusions": [
+    "Haushaltsgeräte benutzen"
+  ]
 }

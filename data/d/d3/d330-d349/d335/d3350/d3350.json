@@ -1,7 +1,9 @@
 {
   "code": "d3350",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Körpersprache einsetzen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Eine Bedeutung mit Körperbewegungen vermitteln, wie mit Gesichtsausdruck (z.B. lächeln, Stirn runzeln, zusammenzucken), Bewegungen und Haltungen von Armen und Händen (z.B., wie beim Umarmen, um Zuneigung zu zeigen)"
+  ]
 }

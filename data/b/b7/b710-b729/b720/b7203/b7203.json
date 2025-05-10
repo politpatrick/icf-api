@@ -1,7 +1,9 @@
 {
   "code": "b7203",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Beweglichkeit der Fußwurzel",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die den Bewegungsumfang und die Leichtigkeit der Bewegung der Fußwurzelknochen betreffen"
+  ]
 }

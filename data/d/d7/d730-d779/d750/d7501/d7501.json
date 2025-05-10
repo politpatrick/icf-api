@@ -1,7 +1,9 @@
 {
   "code": "d7501",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Informelle Beziehungen zu Nachbarn",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Informelle Beziehungen zu Menschen in der Nachbarschaft aufzunehmen und aufrecht zu erhalten"
+  ]
 }

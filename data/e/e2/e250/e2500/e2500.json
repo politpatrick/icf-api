@@ -1,7 +1,9 @@
 {
   "code": "e2500",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Laut-/Geräuschintensität oder -stärke",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Niveau oder Ausmaß eines hörbaren Phänomens, das durch die erzeugte Energiemenge bestimmt wird, wobei ein hohes Energieniveau als lautes Geräusch und ein niedriges Energieniveau als leises Geräusch wahrgenommen wird"
+  ]
 }

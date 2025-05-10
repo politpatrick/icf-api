@@ -1,7 +1,9 @@
 {
   "code": "b21001",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Monokulare (einäugige) Sehschärfe in der Ferne",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sehfunktionen, die die Wahrnehmung von Größe, Form und Kontur eines entfernten Objektes entweder mit dem rechten oder mit dem linken Auge betreffen"
+  ]
 }

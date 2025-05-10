@@ -1,13 +1,18 @@
 {
   "code": "d845",
   "kind": "fourdigit",
-  "preferred": "Eine Arbeit erhalten, behalten und beenden",
-  "definition": null,
   "children": [
     "d8450",
     "d8451",
     "d8452",
     "d8458",
     "d8459"
+  ],
+  "preferred": "Eine Arbeit erhalten, behalten und beenden",
+  "coding-hints": [
+    "Eine Beschäftigung zu suchen, zu finden und auszuwählen, eine angebotene Arbeitsstelle anzunehmen, eine Anstellung, eine Gewerbetätigkeit, eine allgemeine oder eine gehobene berufliche Tätigkeit zu behalten und darin aufzusteigen sowie ein Arbeitsverhältnis in geeigneter Weise zu beenden"
+  ],
+  "inclusions": [
+    "Eine Arbeit suchen; einen Lebenslauf verfassen; Arbeitgeber kontaktieren und Bewerbungsgespräche vorbereiten; ein Arbeitsverhältnis aufrecht erhalten; seine eigene Arbeitsleistung überwachen; kündigen und ein Arbeitsverhältnis beenden"
   ]
 }

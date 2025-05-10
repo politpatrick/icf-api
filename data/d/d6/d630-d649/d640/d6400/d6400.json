@@ -1,7 +1,9 @@
 {
   "code": "d6400",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kleidung und Wäsche waschen und trocknen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Kleidung und Wäsche mit der Hand zu waschen und sie zum Trocknen an der Luft aufzuhängen"
+  ]
 }

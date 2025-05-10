@@ -1,7 +1,9 @@
 {
   "code": "e1552",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Entwurf, Konstruktion sowie Bauprodukte und Technologien zur Wegefindung, für Wegeführungen und zur Bezeichnung von Stellen in privaten Gebäuden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Produkte und Technologien für den Innen- und Außenbereich zur Wegeführung in privaten Gebäuden, die Menschen helfen, ihren Weg innerhalb und unmittelbar außerhalb von Gebäuden zu finden, und die Orte, die sie aufsuchen möchten, zu lokalisieren, wie Anzeigen in Schrift oder Braille, Größe der Korridore und Bodenoberflächen"
+  ]
 }

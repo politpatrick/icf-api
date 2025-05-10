@@ -1,7 +1,9 @@
 {
   "code": "d5201",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Die Zähne pflegen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich um Zahnpflege zu kümmern, wie die Zähne putzen, Zahnseide benutzen sowie Zahnprothesen oder -orthesen reinigen"
+  ]
 }

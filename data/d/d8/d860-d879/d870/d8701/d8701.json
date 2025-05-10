@@ -1,7 +1,9 @@
 {
   "code": "d8701",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Öffentliche wirtschaftliche Ansprüche",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die Verfügungsgewalt über öffentliche wirtschaftliche Ressourcen zu haben, um die wirtschaftliche Sicherheit für den gegenwärtigen und zukünftigen Bedarf zu gewährleisten"
+  ]
 }

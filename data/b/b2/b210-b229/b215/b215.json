@@ -1,8 +1,6 @@
 {
   "code": "b215",
   "kind": "fourdigit",
-  "preferred": "Funktionen von Strukturen, die in Verbindung mit dem Auge stehen",
-  "definition": null,
   "children": [
     "b2150",
     "b2151",
@@ -10,5 +8,15 @@
     "b2153",
     "b2158",
     "b2159"
+  ],
+  "preferred": "Funktionen von Strukturen, die in Verbindung mit dem Auge stehen",
+  "coding-hints": [
+    "Funktion der Strukturen im Auge und um das Auge herum, die das Sehen ermöglichen"
+  ],
+  "inclusions": [
+    "Funktion der inneren Augenmuskeln, des Augenlids, der äußeren Augenmuskeln einschließlich der willkürlichen Bewegungen des Auges, der Augenfolgebewegungen und der Fähigkeit zur Fixierung des Auges, Tränendrüsen, Fähigkeit des Auges zur Scharfeinstellung (Akkomodation), Pupillenreaktion; Funktionsstörungen wie unwillkürliche ruckartige Augenbewegungen (Nystagmus), Augentrockenheit (Xerophthalmie), Herabhängen des Augenlids (Ptosis)"
+  ],
+  "exclusions": [
+    "Funktionen des Sehens (Sehsinn)"
   ]
 }

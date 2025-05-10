@@ -1,10 +1,9 @@
 {
   "code": "s3204",
   "kind": "fivedigit",
-  "preferred": "Struktur der Lippen",
-  "definition": null,
   "children": [
     "s32040",
     "s32041"
-  ]
+  ],
+  "preferred": "Struktur der Lippen"
 }

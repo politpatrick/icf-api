@@ -1,7 +1,9 @@
 {
   "code": "d9100",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Informelle Vereinigungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich in sozialen oder gesellschaftlichen Vereinigungen, die von Menschen gleicher Interessen organisiert sind, zu beteiligen, wie lokale soziale Klubs oder ethnische Gruppen"
+  ]
 }

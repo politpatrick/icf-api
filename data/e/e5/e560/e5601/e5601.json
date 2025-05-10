@@ -1,7 +1,15 @@
 {
   "code": "e5601",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme des Medienwesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- und Überwachungsmechanismen, die die Versorgung der allgemeinen Öffentlichkeit mit Nachrichten und Informationen regeln, wie z.B. Standards, die Inhalt, Verteilung, Verbreitung, Zugänglichkeit und Methoden der Kommunikation über Radio, Fernsehen, Dienste der Presseagenturen, Zeitungen und computergestützte Massenkommunikationsdienste (WWW, Internet) regeln"
+  ],
+  "inclusions": [
+    "Bedarf an Untertitelung beim Fernsehen, Braille-Versionen von Zeitungen und anderen Veröffentlichungen sowie Teletext-Radiosendungen"
+  ],
+  "exclusions": [
+    "Systeme des Kommunikationswesens"
+  ]
 }

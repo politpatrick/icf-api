@@ -1,7 +1,15 @@
 {
   "code": "b176",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Mentale Funktionen, die die Durchführung komplexer Bewegungshandlungen betreffen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die die Aufeinanderfolge und Koordination komplexer, zweckgerichteter Bewegungen betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie ideatorische, ideomotorische, Ankleide-, okulomotorische, Sprech-Apraxie"
+  ],
+  "exclusions": [
+    "Psychomotorische Funktionen"
+  ]
 }

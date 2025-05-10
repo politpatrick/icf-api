@@ -1,7 +1,9 @@
 {
   "code": "b7502",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Reflexe durch andere exterozeptive Stimuli",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die durch andere exterozeptive Stimuli hervorgerufene unwillkürliche Muskelkontraktionen betreffen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "e1101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Medikamente",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Alle natürlichen oder vom Menschen hergestellten Produkte oder Substanzen, für medizinische Zwecke gesammelt, verarbeitet oder hergestellt, wie der heutigen Schulmedizin und der Naturheilkunde entsprechende Heilmittel/Medikamente"
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "code": "s4103",
   "kind": "fivedigit",
-  "preferred": "Kapillaren",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Kapillaren"
 }

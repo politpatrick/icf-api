@@ -1,7 +1,15 @@
 {
   "code": "b555",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Funktionen der endokrinen Drüsen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Produktion und Regulation der Hormonspiegel im Körper einschließlich zyklischer Veränderungen betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Hormonbalance; Unter- und Überfunktion der Hypophyse, der Schilddrüse, der Nebenniere, der Nebenschilddrüse und der Gonaden"
+  ],
+  "exclusions": [
+    "Allgemeine Stoffwechselfunktionen"
+  ]
 }

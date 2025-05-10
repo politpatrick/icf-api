@@ -1,7 +1,6 @@
 {
   "code": "s4102",
   "kind": "fivedigit",
-  "preferred": "Venen",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Venen"
 }

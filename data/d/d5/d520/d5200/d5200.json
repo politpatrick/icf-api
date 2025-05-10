@@ -1,7 +1,9 @@
 {
   "code": "d5200",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Die Haut pflegen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich um die Beschaffenheit und Feuchtigkeitszufuhr seiner Haut zu kümmern, wie Schwielen oder Hühneraugen entfernen und Feuchtigkeitslotionen oder Kosmetika benutzen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b1521",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Affektkontrolle",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktion, die Erleben und Ausdruck von Affekten kontrolliert"
+  ]
 }

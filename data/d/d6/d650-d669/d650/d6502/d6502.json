@@ -1,7 +1,9 @@
 {
   "code": "d6502",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Häusliche Geräte instand halten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Alle häuslichen Geräte zum Kochen, Reinigen und Reparieren instand zu setzen und zu halten, wie Werkzeuge ölen und reparieren sowie die Waschmaschine warten"
+  ]
 }

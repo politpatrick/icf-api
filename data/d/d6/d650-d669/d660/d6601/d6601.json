@@ -1,7 +1,9 @@
 {
   "code": "d6601",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Anderen bei der (Fort)Bewegung helfen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Haushaltsmitgliedern und anderen bei ihren Bewegungen und beim Verlassen des Hauses zu helfen, wie bei ihrem Unterwegssein in der Nachbarschaft oder der Stadt, in die oder von der Schule, zum Arbeitsplatz oder zu einem anderen Ziel helfen"
+  ]
 }

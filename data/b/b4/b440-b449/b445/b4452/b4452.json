@@ -1,7 +1,9 @@
 {
   "code": "b4452",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen der Atemhilfsmuskulatur",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen der Hilfsmuskeln, die beim Atmen beteiligt sind"
+  ]
 }

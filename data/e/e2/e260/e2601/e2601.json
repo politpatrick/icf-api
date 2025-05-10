@@ -1,7 +1,9 @@
 {
   "code": "e2601",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Luftqualität in Außenbereichen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Art der Luft außerhalb von Gebäuden oder umschlossenen Räumen, wie sie durch Gerüche, Rauch, Feuchtigkeit, Ozongehalt der Luft und andere Eigenschaften der Atmosphäre bestimmt wird, und die nützliche Informationen (z.B. Geruch von Regen) oder verwirrende Informationen (z.B. giftige Gerüche) über die Welt liefern kann"
+  ]
 }

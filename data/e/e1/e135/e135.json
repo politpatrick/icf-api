@@ -1,12 +1,17 @@
 {
   "code": "e135",
   "kind": "fourdigit",
-  "preferred": "Produkte und Technologien für die Erwerbstätigkeit",
-  "definition": null,
   "children": [
     "e1350",
     "e1351",
     "e1358",
     "e1359"
+  ],
+  "preferred": "Produkte und Technologien für die Erwerbstätigkeit",
+  "coding-hints": [
+    "Zur Ermöglichung der Arbeitsaktivitäten im Rahmen der Erwerbstätigkeit benutzte Ausrüstungsgegenstände, Produkte und Technologien"
+  ],
+  "inclusions": [
+    "Allgemeine und Hilfsprodukte und unterstützende Technologien für die Erwerbstätigkeit"
   ]
 }

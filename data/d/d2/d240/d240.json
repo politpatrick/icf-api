@@ -1,13 +1,18 @@
 {
   "code": "d240",
   "kind": "fourdigit",
-  "preferred": "Mit Stress und anderen psychischen Anforderungen umgehen",
-  "definition": null,
   "children": [
     "d2400",
     "d2401",
     "d2402",
     "d2408",
     "d2409"
+  ],
+  "preferred": "Mit Stress und anderen psychischen Anforderungen umgehen",
+  "coding-hints": [
+    "Einfache oder komplexe und koordinierte Handlungen durchzuführen, um die psychischen Anforderungen, die erforderlich sind, um Aufgaben, die besondere Verantwortung beinhalten sowie mit Stress, Störungen und Krisensituationen verbunden sind, zu handhaben und zu kontrollieren, wie ein Fahrzeug bei dichtem Verkehr fahren oder viele Kinder betreuen"
+  ],
+  "inclusions": [
+    "Mit Verantwortung umgehen; mit Stress und Krisensituationen umgehen"
   ]
 }

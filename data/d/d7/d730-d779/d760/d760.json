@@ -1,8 +1,6 @@
 {
   "code": "d760",
   "kind": "fourdigit",
-  "preferred": "Familienbeziehungen",
-  "definition": null,
   "children": [
     "d7600",
     "d7601",
@@ -10,5 +8,12 @@
     "d7603",
     "d7608",
     "d7609"
+  ],
+  "preferred": "Familienbeziehungen",
+  "coding-hints": [
+    "Beziehungen zu Verwandten aufzubauen und aufrecht zu erhalten, wie mit Mitgliedern der Kernfamilie, des erweiterten Familienkreises, der Pflege- und angenommenen Familie sowie der Stieffamilie, mit entfernteren Verwandten wie mit Cousinen/Cousins zweiten Grades, oder zum Vormund"
+  ],
+  "inclusions": [
+    "Eltern-Kind- und Kind-Eltern-Beziehungen, Beziehungen unter Kindern und Beziehungen zum erweiterten Familienkreis"
   ]
 }

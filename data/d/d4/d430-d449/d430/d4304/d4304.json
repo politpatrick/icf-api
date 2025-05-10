@@ -1,7 +1,9 @@
 {
   "code": "d4304",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Auf dem Kopf tragen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einen Gegenstand auf dem Kopf von einem Platz an einen anderen zu tragen oder zu transportieren, wie ein Wassergefäß auf dem Kopf tragen"
+  ]
 }

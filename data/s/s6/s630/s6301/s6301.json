@@ -1,13 +1,12 @@
 {
   "code": "s6301",
   "kind": "fivedigit",
-  "preferred": "Gebärmutter",
-  "definition": null,
   "children": [
     "s63010",
     "s63011",
     "s63012",
     "s63018",
     "s63019"
-  ]
+  ],
+  "preferred": "Gebärmutter"
 }

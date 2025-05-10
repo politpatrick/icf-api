@@ -1,7 +1,12 @@
 {
   "code": "b6202",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Harnkontinenz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Kontrolle über die Blasenentleerung beteiligt sind"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Stress-, Drang-, Reflexinkontinenz, ständige und gemischte Inkontinenz"
+  ]
 }

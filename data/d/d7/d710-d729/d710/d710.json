@@ -1,8 +1,6 @@
 {
   "code": "d710",
   "kind": "fourdigit",
-  "preferred": "Elementare interpersonelle Aktivitäten",
-  "definition": null,
   "children": [
     "d7100",
     "d7101",
@@ -12,5 +10,12 @@
     "d7105",
     "d7108",
     "d7109"
+  ],
+  "preferred": "Elementare interpersonelle Aktivitäten",
+  "coding-hints": [
+    "Mit anderen in einer kontextuell und sozial angemessenen Weise zu interagieren, wie die erforderliche Rücksichtnahme und Wertschätzung zeigen oder auf Gefühle anderer reagieren"
+  ],
+  "inclusions": [
+    "Respekt, Wärme, Wertschätzung und Toleranz in Beziehungen zeigen; auf Kritik und soziale Zeichen in Beziehungen reagieren und angemessenen körperlichen Kontakt einzusetzen"
   ]
 }

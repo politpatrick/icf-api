@@ -1,12 +1,20 @@
 {
   "code": "b340",
   "kind": "fourdigit",
-  "preferred": "Alternative stimmliche Äußerungen",
-  "definition": null,
   "children": [
     "b3400",
     "b3401",
     "b3408",
     "b3409"
+  ],
+  "preferred": "Alternative stimmliche Äußerungen",
+  "coding-hints": [
+    "Funktionen, die die Erzeugung anderer Arten stimmlicher Äußerungen betreffen"
+  ],
+  "inclusions": [
+    "Funktionen, die die Erzeugung von Tönen und die Variation lautlicher Äußerungen betreffen, wie beim Singen, Sprechgesang, Plappern, Summen; lautes Weinen und Schreien"
+  ],
+  "exclusions": [
+    "Kognitiv-sprachliche Funktionen"
   ]
 }

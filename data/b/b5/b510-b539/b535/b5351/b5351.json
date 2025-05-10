@@ -1,7 +1,9 @@
 {
   "code": "b5351",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Blähungsgefühl",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gefühl eines aufgeblähten Magens oder Bauches"
+  ]
 }

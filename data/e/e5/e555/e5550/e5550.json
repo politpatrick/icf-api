@@ -1,7 +1,9 @@
 {
   "code": "e5550",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste von Vereinigungen und Organisationen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme von Personen, die sich zwecks Verfolgung allgemeiner, nicht-kommerzieller Interessen mit anderen Personen mit gleichen Interessen zusammengeschlossen haben, wobei die Erbringung solcher Dienste an eine Mitgliedschaft gebunden sein kann, wie Vereinigungen und Organisationen, die Dienste für Freizeit und Hobby, Sport, Kultur, Religion sowie gegenseitiger Hilfe erbringen"
+  ]
 }

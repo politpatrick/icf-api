@@ -1,7 +1,9 @@
 {
   "code": "b1304",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Impulskontrolle",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die plötzliche intensive Handlungsimpulse regulieren und unterdrücken"
+  ]
 }

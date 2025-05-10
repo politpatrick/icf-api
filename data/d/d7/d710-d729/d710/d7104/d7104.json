@@ -1,7 +1,9 @@
 {
   "code": "d7104",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Soziale Zeichen in Beziehungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Zeichen und Hinweise, die bei sozialen Interaktionen vorkommen, in angemessener Weise zu geben und darauf zu reagieren"
+  ]
 }

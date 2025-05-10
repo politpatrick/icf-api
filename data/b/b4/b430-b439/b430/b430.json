@@ -1,8 +1,6 @@
 {
   "code": "b430",
   "kind": "fourdigit",
-  "preferred": "Funktionen des hämatologischen Systems",
-  "definition": null,
   "children": [
     "b4300",
     "b4301",
@@ -10,5 +8,15 @@
     "b4303",
     "b4308",
     "b4309"
+  ],
+  "preferred": "Funktionen des hämatologischen Systems",
+  "coding-hints": [
+    "Funktionen, die die Blutbildung, den Sauerstoff- und Metaboliten-Transport sowie die Blutgerinnung betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Blutbildung und des Knochenmarks; Sauerstofftransportfunktion des Blutes; Blutzellen-bezogene Milzfunktionen; Metaboliten-Transportfunktion des Blutes; Blutgerinnung; Funktionsstörungen wie Anämie, Hämophilie und andere Gerinnungsstörungen"
+  ],
+  "exclusions": [
+    "Funktionen des kardiovaskulären Systems"
   ]
 }

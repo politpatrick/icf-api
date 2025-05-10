@@ -1,7 +1,9 @@
 {
   "code": "b7202",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Beweglichkeit der Handwurzel",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die den Bewegungsumfang und die Leichtigkeit der Bewegung der Handwurzelknochen betreffen"
+  ]
 }

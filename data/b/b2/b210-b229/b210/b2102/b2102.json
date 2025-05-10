@@ -1,8 +1,6 @@
 {
   "code": "b2102",
   "kind": "fivedigit",
-  "preferred": "Qualität des Sehvermögens",
-  "definition": null,
   "children": [
     "b21020",
     "b21021",
@@ -10,5 +8,9 @@
     "b21023",
     "b21028",
     "b21029"
+  ],
+  "preferred": "Qualität des Sehvermögens",
+  "coding-hints": [
+    "Sehfunktionen, die an Lichtempfindung, Farbsehvermögen, Kontrastempfindung und allgemeiner Bildqualität beteiligt sind"
   ]
 }

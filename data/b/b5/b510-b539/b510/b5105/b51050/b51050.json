@@ -1,7 +1,9 @@
 {
   "code": "b51050",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Orales Schlucken",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Beförderung von Speisen und Getränken über die Mundhöhle in geeigneter Menge und Geschwindigkeit betreffen"
+  ]
 }

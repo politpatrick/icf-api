@@ -1,12 +1,11 @@
 {
   "code": "b710-b729",
   "kind": "block",
-  "preferred": "Funktionen der Gelenke und Knochen",
-  "definition": null,
   "children": [
     "b710",
     "b715",
     "b720",
     "b729"
-  ]
+  ],
+  "preferred": "Funktionen der Gelenke und Knochen"
 }

@@ -1,7 +1,9 @@
 {
   "code": "d5404",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Geeignete Kleidung auswählen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Den impliziten oder expliziten Kleiderregeln und -konventionen seiner Gesellschaft oder Kultur zu entsprechen und sich entsprechend der klimatischen Bedingungen zu kleiden"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "d4550",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Krabbeln/robben",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Auf Händen oder Händen und Armen und Knien den ganzen Körper in Bauchlage von einem Platz zu einem anderen zu bewegen"
+  ]
 }

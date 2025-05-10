@@ -1,7 +1,9 @@
 {
   "code": "e5300",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste des Versorgungswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme, die der Bevölkerung insgesamt die notwendige Energie (z.B. Brennstoff und Elektrizität), Entsorgung, Wasser sowie andere notwendige Dienste (z.B. Bereitschaftsdienste) für private und kommerzielle Abnehmer zur Verfügung stellen, einschließlich derer, die diese Dienste erbringen"
+  ]
 }

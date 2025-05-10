@@ -1,12 +1,17 @@
 {
   "code": "d355",
   "kind": "fourdigit",
-  "preferred": "Diskussion",
-  "definition": null,
   "children": [
     "d3550",
     "d3551",
     "d3558",
     "d3559"
+  ],
+  "preferred": "Diskussion",
+  "coding-hints": [
+    "Eine Erörterung eines Sachverhaltes mit Pro- und Kontra-Argumenten oder eine Debatte in mündlicher oder schriftlicher Form, in Gebärdensprache oder auf andere sprachliche Weise zu beginnen, aufrecht zu erhalten und zu beenden, mit einer oder mehreren Personen, Bekannten oder Fremden, in formeller oder informeller Form"
+  ],
+  "inclusions": [
+    "Diskussion mit einer oder vielen Personen"
   ]
 }

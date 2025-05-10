@@ -1,7 +1,9 @@
 {
   "code": "b7600",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kontrolle einfacher Willkürbewegungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die mit der Kontrolle und Koordination einfacher oder isolierter Willkürbewegungen verbunden sind"
+  ]
 }

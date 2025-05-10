@@ -1,7 +1,9 @@
 {
   "code": "b51052",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Ösophageales Schlucken",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Beförderung von Speisen und Getränken über die Speiseröhre in geeigneter Menge und Geschwindigkeit betreffen"
+  ]
 }

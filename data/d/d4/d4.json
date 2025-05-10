@@ -1,8 +1,6 @@
 {
   "code": "d4",
   "kind": "chapter",
-  "preferred": "Mobilität",
-  "definition": null,
   "children": [
     "d410-d429",
     "d430-d449",
@@ -10,5 +8,9 @@
     "d470-d489",
     "d498",
     "d499"
+  ],
+  "preferred": "Mobilität",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit der eigenen Bewegung durch Änderung der Körperposition oder -lage oder Verlagerung von einem Platz zu einem anderen, mit der Bewegung von Gegenständen durch Tragen, Bewegen oder Handhaben, mit der Fortbewegung durch Gehen, Rennen, Klettern oder Steigen sowie durch den Gebrauch verschiedener Transportmittel."
   ]
 }

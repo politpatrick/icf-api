@@ -1,8 +1,6 @@
 {
   "code": "b730",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Muskelkraft",
-  "definition": null,
   "children": [
     "b7300",
     "b7301",
@@ -13,5 +11,15 @@
     "b7306",
     "b7308",
     "b7309"
+  ],
+  "preferred": "Funktionen der Muskelkraft",
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit der Kontraktionskraft eines Muskels oder von Muskelgruppen stehen"
+  ],
+  "inclusions": [
+    "Funktionen, die mit der Muskelkraft bestimmter Muskeln oder Muskelgruppen, Muskeln einer Extremität, einer Körperhälfte, der unteren Körperhälfte, aller Extremitäten, des Rumpfes und aller Muskeln des Körpers verbunden sind; Funktionsstörungen wie Schwäche der kleinen Muskeln der Hände und Füße, Muskelparese, Muskelparalyse, Monoplegie, Hemiplegie, Paraplegie, Tetraplegie und akinetischer Mutismus"
+  ],
+  "exclusions": [
+    "Funktionen des Muskeltonus"
   ]
 }

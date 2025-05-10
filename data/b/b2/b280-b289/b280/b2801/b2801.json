@@ -1,8 +1,6 @@
 {
   "code": "b2801",
   "kind": "fivedigit",
-  "preferred": "Schmerz in einem Körperteil",
-  "definition": null,
   "children": [
     "b28010",
     "b28011",
@@ -13,5 +11,9 @@
     "b28016",
     "b28018",
     "b28019"
+  ],
+  "preferred": "Schmerz in einem Körperteil",
+  "coding-hints": [
+    "Empfinden eines unangenehmen Gefühls, das mögliche oder tatsächliche Schäden einer Körperstruktur anzeigt, in einem bestimmten Körperteil oder in Körperteilen"
   ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "d640",
   "kind": "fourdigit",
-  "preferred": "Hausarbeiten erledigen",
-  "definition": null,
   "children": [
     "d6400",
     "d6401",
@@ -12,5 +10,15 @@
     "d6405",
     "d6408",
     "d6409"
+  ],
+  "preferred": "Hausarbeiten erledigen",
+  "coding-hints": [
+    "Einen Haushalt zu handhaben durch Reinigen des Hauses, Waschen von Kleidung, Benutzung von Haushaltsgeräten, Lagerung von Lebensmitteln, Entsorgung von Müll, wie fegen, moppen, Tische, Wände und andere Oberflächen reinigen; Haushaltsmüll zu sammeln und zu entsorgen; Zimmer, Toiletten und Schubladen in Ordnung zu halten; schmutzige Kleidung zu sammeln, zu waschen, zu trocknen, zusammenzulegen und zu bügeln; Schuhwerk zu reinigen; Besen, Bürsten und Staubsauger, Waschmaschinen, Trockner und Bügeleisen zu benutzen"
+  ],
+  "inclusions": [
+    "Kleidung und Wäsche waschen und trocknen; Küchenbereich und -utensilien reinigen; den Wohnraum reinigen; Haushaltsgeräte benutzen, die täglichen Lebensnotwendigkeiten lagern und Müll entsorgen"
+  ],
+  "exclusions": [
+    "Wohnraum beschaffen"
   ]
 }

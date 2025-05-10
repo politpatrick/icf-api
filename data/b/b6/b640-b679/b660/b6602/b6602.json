@@ -1,7 +1,9 @@
 {
   "code": "b6602",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen im Zusammenhang mit der Geburt",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die am Geburtsvorgang beteiligt sind"
+  ]
 }

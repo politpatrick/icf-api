@@ -1,7 +1,15 @@
 {
   "code": "b820",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Heilfunktion der Haut",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Heilung von Wunden und anderen Schäden der Haut betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Krustenbildung, Heilung, Narbenbildung, Quetschung, Keloidbildung"
+  ],
+  "exclusions": [
+    "Schutzfunktionen der Haut"
+  ]
 }

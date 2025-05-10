@@ -1,8 +1,6 @@
 {
   "code": "b140",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Aufmerksamkeit",
-  "definition": null,
   "children": [
     "b1400",
     "b1401",
@@ -10,5 +8,15 @@
     "b1403",
     "b1408",
     "b1409"
+  ],
+  "preferred": "Funktionen der Aufmerksamkeit",
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die die Fokussierung auf einen externen Reiz oder auf innere Vorgänge für eine geforderte Zeitspanne betreffen"
+  ],
+  "inclusions": [
+    "Funktionen, die Daueraufmerksamkeit, Wechsel der Aufmerksamkeit, geteilte Aufmerksamkeit, mit anderen geteilte Aufmerksamkeit, Konzentration und Ablenkbarkeit betreffen"
+  ],
+  "exclusions": [
+    "Funktionen des Bewusstseins"
   ]
 }

@@ -1,13 +1,18 @@
 {
   "code": "e575",
   "kind": "fourdigit",
-  "preferred": "Dienste, Systeme und Handlungsgrundsätze der allgemeinen sozialen Unterstützung",
-  "definition": null,
   "children": [
     "e5750",
     "e5751",
     "e5752",
     "e5758",
     "e5759"
+  ],
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze der allgemeinen sozialen Unterstützung",
+  "coding-hints": [
+    "Dienste, Systeme und Handlungsgrundsätze für diejenigen, die Hilfe in Bereichen wie Einkaufen, Hausarbeit, Beförderung, Selbstversorgung und anderen benötigen, um eine vollständigere Partizipation [Teilhabe] am Leben in der Gesellschaft zu erlangen"
+  ],
+  "exclusions": [
+    "Dienste, Systeme und Handlungsgrundsätze der sozialen Sicherheit"
   ]
 }

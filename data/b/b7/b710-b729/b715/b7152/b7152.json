@@ -1,7 +1,9 @@
 {
   "code": "b7152",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Allgemeine Gelenkstabilität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Aufrechterhaltung der strukturellen Integrität aller Gelenke betreffen"
+  ]
 }

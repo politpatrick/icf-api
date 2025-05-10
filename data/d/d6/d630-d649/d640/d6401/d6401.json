@@ -1,7 +1,9 @@
 {
   "code": "d6401",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Küchenbereich und -utensilien reinigen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Nach dem Kochen zu reinigen, wie Geschirr, Pfannen, Töpfe und Kochutensilien abwaschen sowie Tische und Böden des Koch- und Essbereichs reinigen"
+  ]
 }

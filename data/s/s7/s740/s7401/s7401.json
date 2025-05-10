@@ -1,7 +1,6 @@
 {
   "code": "s7401",
   "kind": "fivedigit",
-  "preferred": "Gelenke der Beckenregion",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Gelenke der Beckenregion"
 }

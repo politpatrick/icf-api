@@ -1,12 +1,20 @@
 {
   "code": "b147",
   "kind": "fourdigit",
-  "preferred": "Psychomotorische Funktionen",
-  "definition": null,
   "children": [
     "b1470",
     "b1471",
     "b1478",
     "b1479"
+  ],
+  "preferred": "Psychomotorische Funktionen",
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die die Kontrolle über motorische und psychologische Vorgänge auf körperlicher Ebene betreffen"
+  ],
+  "inclusions": [
+    "Funktionen, die die psychomotorische Kontrolle betreffen, wie bei psychomotorischer Retardierung, Erregung und Agitiertheit, Katatonie, Negativismus, Ambitendenz, Echopraxie und Echolalie; Qualität der psychomotorischen Funktionen"
+  ],
+  "exclusions": [
+    "Funktionen des Bewusstseins"
   ]
 }

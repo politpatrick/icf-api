@@ -1,13 +1,21 @@
 {
   "code": "b415",
   "kind": "fourdigit",
-  "preferred": "Blutgefäßfunktionen",
-  "definition": null,
   "children": [
     "b4150",
     "b4151",
     "b4152",
     "b4158",
     "b4159"
+  ],
+  "preferred": "Blutgefäßfunktionen",
+  "coding-hints": [
+    "Funktionen, die den Bluttransport durch den Körper betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Arterien, Kapillaren und Venen; Vasomotorik; Funktionen der pulmonalen Arterien, Kapillaren und Venen; Funktionen der Venenklappen; Funktionsstörungen wie Verschluss oder Stenose von Arterien; Atherosklerose; Arteriosklerose; Thromboembolie; Varizen"
+  ],
+  "exclusions": [
+    "Herzfunktionen"
   ]
 }

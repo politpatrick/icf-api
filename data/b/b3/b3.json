@@ -1,8 +1,6 @@
 {
   "code": "b3",
   "kind": "chapter",
-  "preferred": "Stimm- und Sprechfunktionen",
-  "definition": null,
   "children": [
     "b310",
     "b320",
@@ -10,5 +8,9 @@
     "b340",
     "b398",
     "b399"
+  ],
+  "preferred": "Stimm- und Sprechfunktionen",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit Funktionen, die die Lauterzeugung und das Sprechen betreffen"
   ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b16701",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Das Verständnis geschriebener Sprache betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die Verstehen und Erfassen der Bedeutung von schriftlichen Mitteilungen betreffen"
+  ]
 }

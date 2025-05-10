@@ -1,7 +1,12 @@
 {
   "code": "e5602",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze des Medienwesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die die Versorgung der allgemeinen Öffentlichkeit mit Nachrichten und Informationen regeln, wie Handlungsgrundsätze für Inhalt, Verteilung, Verbreitung, Zugänglichkeit und Methoden der Kommunikation über Radio, Fernsehen, Dienste der Presseagenturen, Zeitungen und computergestützte Massenkommunikationsdienste (WWW, Internet)"
+  ],
+  "exclusions": [
+    "Handlungsgrundsätze des Kommunikationswesens"
+  ]
 }

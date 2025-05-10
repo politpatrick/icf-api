@@ -1,7 +1,6 @@
 {
   "code": "s8103",
   "kind": "fivedigit",
-  "preferred": "Haut der Beckenregion",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Haut der Beckenregion"
 }

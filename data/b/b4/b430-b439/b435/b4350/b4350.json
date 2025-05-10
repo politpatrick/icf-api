@@ -1,12 +1,14 @@
 {
   "code": "b4350",
   "kind": "fivedigit",
-  "preferred": "Immunantwort",
-  "definition": null,
   "children": [
     "b43500",
     "b43501",
     "b43508",
     "b43509"
+  ],
+  "preferred": "Immunantwort",
+  "coding-hints": [
+    "Funktionen der Körperreaktionen, die die Sensibilisierung gegenüber Fremdsubstanzen einschließlich Infektionen betreffen"
   ]
 }

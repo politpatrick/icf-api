@@ -1,7 +1,9 @@
 {
   "code": "d4101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Hocken",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In eine oder aus einer mit angezogenen Knien auf dem Hinterteil oder den Fersen sitzenden oder kauernden Stellung zu gelangen, wie es bei ebenerdigen Toiletten notwendig sein kann, oder die Körperposition aus einer hockenden in jede andere Position zu wechseln, wie aufstehen"
+  ]
 }

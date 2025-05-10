@@ -1,7 +1,9 @@
 {
   "code": "e1550",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Entwurf, Konstruktion sowie Bauprodukte und Technologien für Zu- und Ausgänge von privaten Gebäuden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Produkte und Technologien von Ein- und Ausgängen von für die private Nutzung geplanter und entworfener bebauter Umgebung, wie Entwurf, Bau und Konstruktion von Ein- und Ausgängen von privaten Wohnstätten; mobile und fest eingebaute Rampen, automatische Türöffner, verlängerte Türklinken und ebenerdige Türschwellen"
+  ]
 }

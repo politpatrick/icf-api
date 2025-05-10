@@ -1,8 +1,6 @@
 {
   "code": "d220",
   "kind": "fourdigit",
-  "preferred": "Mehrfachaufgaben übernehmen",
-  "definition": null,
   "children": [
     "d2200",
     "d2201",
@@ -10,5 +8,15 @@
     "d2203",
     "d2208",
     "d2209"
+  ],
+  "preferred": "Mehrfachaufgaben übernehmen",
+  "coding-hints": [
+    "Einfache oder komplexe und koordinierte Handlungen als Bestandteile einer multiplen, integrierten und komplexen Aufgabe in aufeinander folgenden Schritten oder gleichzeitig zu bearbeiten"
+  ],
+  "inclusions": [
+    "Mehrfachaufgaben zu Ende bringen; Mehrfachaufgaben unabhängig oder in einer Gruppe übernehmen"
+  ],
+  "exclusions": [
+    "Sich Fertigkeiten aneignen"
   ]
 }

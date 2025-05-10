@@ -1,7 +1,6 @@
 {
   "code": "s3301",
   "kind": "fivedigit",
-  "preferred": "Oropharynx",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Oropharynx"
 }

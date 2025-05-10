@@ -1,7 +1,6 @@
 {
   "code": "s76001",
   "kind": "sixdigit",
-  "preferred": "Brustwirbelsäule",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Brustwirbelsäule"
 }

@@ -1,13 +1,18 @@
 {
   "code": "b180",
   "kind": "fourdigit",
-  "preferred": "Die Selbstwahrnehmung und die Zeitwahrnehmung betreffende Funktionen",
-  "definition": null,
   "children": [
     "b1800",
     "b1801",
     "b1802",
     "b1808",
     "b1809"
+  ],
+  "preferred": "Die Selbstwahrnehmung und die Zeitwahrnehmung betreffende Funktionen",
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die im Zusammenhang mit der bewussten Wahrnehmung der eigenen Identität, des eigenen Körpers, der eigenen Position in der eigenen realen Umwelt sowie der Zeit stehen"
+  ],
+  "inclusions": [
+    "Funktionen, die Selbsterfahrung, Körperschema und Zeitwahrnehmung betreffen"
   ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b21022",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Kontrastempfindung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sehfunktionen, die die Unterscheidung eines Objekts vom Hintergrund mit der geringsten Leuchtdichte, die dafür erforderlich ist, betreffen"
+  ]
 }

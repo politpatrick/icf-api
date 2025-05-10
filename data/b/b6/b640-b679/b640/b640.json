@@ -1,8 +1,6 @@
 {
   "code": "b640",
   "kind": "fourdigit",
-  "preferred": "Sexuelle Funktionen",
-  "definition": null,
   "children": [
     "b6400",
     "b6401",
@@ -10,5 +8,15 @@
     "b6403",
     "b6408",
     "b6409"
+  ],
+  "preferred": "Sexuelle Funktionen",
+  "coding-hints": [
+    "Mentale und physische Funktionen, die mit dem Geschlechtsakt einschließlich der Stadien der Erregung, des Vorspiels, des Orgasmus und der Entspannung im Zusammenhang stehen"
+  ],
+  "inclusions": [
+    "Funktionen, die die Phasen der sexuellen Erregung, des Vorspiels, des Orgasmus und der Entspannung betreffen; Funktionen im Zusammenhang mit sexuellem Interesse und seiner Umsetzung, mit Erektion von Penis und Klitoris, der Lubrikation, Ejakulation und Orgasmus; Funktionsstörungen wie Impotenz, Frigidität, Vaginismus, Ejaculatio praecox, verzögerte Ejakulation und bleibende Erektion (Priapismus)"
+  ],
+  "exclusions": [
+    "Fortpflanzungsfunktionen"
   ]
 }

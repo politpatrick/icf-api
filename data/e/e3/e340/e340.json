@@ -1,7 +1,12 @@
 {
   "code": "e340",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Persönliche Hilfs- und Pflegepersonen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Personen, die Dienstleistungen erbringen, welche erforderlich sind, um Personen bei ihren täglichen Aktivitäten, bei der Erhaltung und Durchführung der Arbeit am Arbeitsplatz, im Bildungs-/Ausbildungsbereich oder in anderen Lebenssituationen zu unterstützen, wobei dieser Dienst entweder durch öffentliche oder private Träger erfolgt oder auf ehrenamtlicher Basis, wie Anbieter von Hilfen bei Hausarbeit und Haushaltsführung, personeller Assistenz, Assistenz beim Transport und anderen Unterstützungserfordernissen durch bezahlte Hilfen, Kindermädchen und andere, die vornehmlich Betreuungs- oder Pflegeleistungen erbringen"
+  ],
+  "exclusions": [
+    "Engster Familienkreis"
+  ]
 }

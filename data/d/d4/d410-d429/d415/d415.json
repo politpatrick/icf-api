@@ -1,8 +1,6 @@
 {
   "code": "d415",
   "kind": "fourdigit",
-  "preferred": "In einer Körperposition verbleiben",
-  "definition": null,
   "children": [
     "d4150",
     "d4151",
@@ -11,5 +9,12 @@
     "d4154",
     "d4158",
     "d4159"
+  ],
+  "preferred": "In einer Körperposition verbleiben",
+  "coding-hints": [
+    "In derselben erforderlichen Körperposition zu verbleiben, wie sitzen bleiben oder bei der Arbeit bzw. in der Schule stehen bleiben"
+  ],
+  "inclusions": [
+    "In liegender, hockender, kniender, sitzender oder stehender Position verbleiben"
   ]
 }

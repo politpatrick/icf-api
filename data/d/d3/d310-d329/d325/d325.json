@@ -1,7 +1,9 @@
 {
   "code": "d325",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Kommunizieren als Empfänger schriftlicher Mitteilungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die wörtliche und übertragene Bedeutung schriftlicher Mitteilungen (einschließlich Braille) zu erfassen, wie politische Ereignisse in der Tagespresse verfolgen oder die Absicht einer religiösen Schrift verstehen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "e5850",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste des Bildungs- und Ausbildungswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme, die sich mit Bildung/Ausbildung sowie Aneignung, Erhaltung und Vergrößerung von Wissen, Fachkenntnissen und beruflichen oder künstlerischen Fertigkeiten befassen, wie Dienstleistungen und Programme für verschiedene Ebenen der Bildung (z.B. Vorschuleinrichtungen, Primar- und Sekundarschulen I und II, Postsekundareinrichtungen, berufliche Bildungs-/Ausbildungsprogramme, Schulung von Fertigkeiten und Kenntnissen, Lehrlingsausbildung, Fort- und Weiterbildung), einschließlich derer, die diese Dienste erbringen"
+  ]
 }

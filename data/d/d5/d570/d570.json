@@ -1,13 +1,18 @@
 {
   "code": "d570",
   "kind": "fourdigit",
-  "preferred": "Auf seine Gesundheit achten",
-  "definition": null,
   "children": [
     "d5700",
     "d5701",
     "d5702",
     "d5708",
     "d5709"
+  ],
+  "preferred": "Auf seine Gesundheit achten",
+  "coding-hints": [
+    "Für physischen Komfort, Gesundheit sowie für physisches und mentales Wohlbefinden zu sorgen, wie eine ausgewogene Ernährung und ein angemessenes Niveau körperlicher Aktivität aufrecht erhalten, sich warm oder kühl halten, Gesundheitsschäden vermeiden, sicheren Sex praktizieren einschließlich Kondome benutzen, für Impfschutz und regelmäßige ärztliche Untersuchungen sorgen"
+  ],
+  "inclusions": [
+    "Für physischen Komfort sorgen; Ernährung und Fitness handhaben; die eigene Gesundheit erhalten"
   ]
 }

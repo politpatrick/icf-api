@@ -1,7 +1,9 @@
 {
   "code": "d6604",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Anderen bei der Ernährung helfen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Haushaltsmitgliedern und anderen bei ihrer Ernährung zu helfen, wie ihnen beim Zubereiten von Mahlzeiten und Essen helfen"
+  ]
 }

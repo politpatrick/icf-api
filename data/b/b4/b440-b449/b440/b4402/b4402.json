@@ -1,7 +1,12 @@
 {
   "code": "b4402",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Atemtiefe",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Lungenkapazität während der Atembewegung betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie oberflächliche oder flache Atmung"
+  ]
 }

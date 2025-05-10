@@ -1,8 +1,6 @@
 {
   "code": "b410",
   "kind": "fourdigit",
-  "preferred": "Herzfunktionen",
-  "definition": null,
   "children": [
     "b4100",
     "b4101",
@@ -10,5 +8,15 @@
     "b4103",
     "b4108",
     "b4109"
+  ],
+  "preferred": "Herzfunktionen",
+  "coding-hints": [
+    "Pumpfunktionen des Herzens zur Sicherstellung der Blutzufuhr zum Körper mit adäquatem oder erforderlichem Volumen und Druck"
+  ],
+  "inclusions": [
+    "Funktionen von Herzfrequenz, Herzrhythmus und Herzminutenvolumen, Kontraktionskraft der Ventrikel, Herzklappenfunktion, Lungenkreislauf, Füllungsdynamik; Funktionsstörungen wie bei Herzinsuffizienz, Kardiomyopathie, Myokarditis, Koronarinsuffizienz, Tachykardie, Bradykardie, Herzrhythmusstörungen"
+  ],
+  "exclusions": [
+    "Blutgefäßfunktionen"
   ]
 }

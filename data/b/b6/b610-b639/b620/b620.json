@@ -1,13 +1,21 @@
 {
   "code": "b620",
   "kind": "fourdigit",
-  "preferred": "Miktionsfunktionen",
-  "definition": null,
   "children": [
     "b6200",
     "b6201",
     "b6202",
     "b6208",
     "b6209"
+  ],
+  "preferred": "Miktionsfunktionen",
+  "coding-hints": [
+    "Funktionen, die die Beförderung des Urins aus der Harnblase nach außen betreffen"
+  ],
+  "inclusions": [
+    "Funktionen des Harnlassens, der Häufigkeit der Blasenentleerung, der Harnkontinenz; Funktionsstörungen wie Stressinkontinenz, Dranginkontinenz, Reflexinkontinenz, Überlaufinkontinenz, ständige Inkontinenz, Harntröpfeln, Blasenautonomie („Rückenmarksblase“) Polyurie, Harnverhalt, Harndrang"
+  ],
+  "exclusions": [
+    "Harnbildungsfunktionen"
   ]
 }

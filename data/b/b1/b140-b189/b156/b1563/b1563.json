@@ -1,7 +1,9 @@
 {
   "code": "b1563",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Geschmackswahrnehmung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die an der Unterscheidung von Geschmackseigenschaften wie süß, sauer, salzig und bitter auf der Zunge beteiligt sind"
+  ]
 }

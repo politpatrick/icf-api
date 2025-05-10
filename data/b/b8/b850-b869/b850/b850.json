@@ -1,7 +1,12 @@
 {
   "code": "b850",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Funktionen des Haars",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die das Haar betreffen, wie Schutz, Farbe und Aussehen"
+  ],
+  "inclusions": [
+    "Funktionen des Wachstums und der Pigmentierung des Haars, Lokalisation; Funktionsstörungen wie Haarverlust oder Alopezie"
+  ]
 }

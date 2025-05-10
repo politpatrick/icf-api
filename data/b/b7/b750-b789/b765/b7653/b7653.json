@@ -1,7 +1,9 @@
 {
   "code": "b7653",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Stereotypien und motorische Perserverationen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die spontanen, nicht zweckgerichteten Bewegungen wie Vor- und Zurückschaukeln und Kopfnicken oder Wackeln betreffen"
+  ]
 }

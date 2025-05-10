@@ -1,7 +1,12 @@
 {
   "code": "b21020",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Lichtempfindung (Lichtsinn)",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sehfunktionen, die die Wahrnehmung einer geringen Lichtintensität (Helligkeitsminimum) und eines minimalen Helligkeitskontrasts (Kontrastschwelle) betreffen"
+  ],
+  "inclusions": [
+    "Die Hell-Dunkeladaptation betreffende Funktionen; Funktionsstörungen wie Nachtblindheit (verminderte Empfindlichkeit gegenüber Licht) und Photophobie (Lichtscheu)"
+  ]
 }

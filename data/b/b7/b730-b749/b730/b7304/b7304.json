@@ -1,7 +1,12 @@
 {
   "code": "b7304",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kraft der Muskeln aller Extremitäten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit der Kontraktionskraft der Muskeln und Muskelgruppen aller vier Extremitäten stehen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie bei Tetraparese und Tetraplegie"
+  ]
 }

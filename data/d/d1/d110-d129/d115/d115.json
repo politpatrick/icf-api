@@ -1,7 +1,9 @@
 {
   "code": "d115",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Zuhören",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Absichtsvoll den Hörsinn zu benutzen, um akustische Reize wahrzunehmen, wie Radio, Musik oder einen Vortrag hören"
+  ]
 }

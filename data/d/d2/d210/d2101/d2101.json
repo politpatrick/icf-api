@@ -1,7 +1,9 @@
 {
   "code": "d2101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Eine komplexe Aufgabe übernehmen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die komplexe Aufgabe vorzubereiten, anzugehen und sich um die erforderliche Zeit und Räumlichkeit zu kümmern; eine komplexe Aufgabe mit mehr als einem Bestandteil auszuführen, wobei die Bearbeitung in aufeinander folgenden Schritten oder gleichzeitig erfolgen kann, wie die Möbel in seiner Wohnung anordnen oder seine Schularbeiten machen"
+  ]
 }

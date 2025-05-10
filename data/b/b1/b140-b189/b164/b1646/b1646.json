@@ -1,7 +1,9 @@
 {
   "code": "b1646",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Das Problemlösungsvermögen betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die Identifizieren, Analysieren und Integrieren nicht übereinstimmender oder sich widersprechender Informationen in eine Lösung betreffen"
+  ]
 }

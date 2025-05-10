@@ -1,7 +1,12 @@
 {
   "code": "b4100",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Herzfrequenz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen bezüglich der Herzschläge pro Minute"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie bei zu hoher (Tachykardie) oder zu niedriger (Bradykardie) Herzfrequenz"
+  ]
 }

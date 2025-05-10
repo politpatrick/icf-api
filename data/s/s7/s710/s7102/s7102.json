@@ -1,7 +1,6 @@
 {
   "code": "s7102",
   "kind": "fivedigit",
-  "preferred": "Knochen der Halsregion",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Knochen der Halsregion"
 }

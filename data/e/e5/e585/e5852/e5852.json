@@ -1,7 +1,9 @@
 {
   "code": "e5852",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze des Bildungs- und Ausbildungswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die die Bereitstellung von Bildungs-/Ausbildungsprogrammen regeln, wie Systeme für die Umsetzung von Handlungsgrundsätzen und Standards für die Feststellung der Zulassungsberechtigung für öffentliche oder private Bildungs- und Sonderschulprogramme und die die Struktur der lokalen, regionalen und nationalen Bildungsbehörden oder anderer autorisierter Gremien vorschreiben, die die Merkmale der Bildungs- /Ausbildungssysteme regeln, einschließlich Curricula, Klassengrößen, Zahl der Schulen in einer Region, Gebühren und Stipendien, besondere Schulspeisungsprogramme und Betreuungsprogramme nach der Schule"
+  ]
 }

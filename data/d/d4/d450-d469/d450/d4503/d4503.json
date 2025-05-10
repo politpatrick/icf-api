@@ -1,7 +1,9 @@
 {
   "code": "d4503",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Hindernisse umgehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In der Weise zu gehen, dass sich bewegenden oder festen Gegenstände, Menschen, Tieren und Fahrzeugen ausgewichen wird, wie auf einem Markt oder in einem Laden gehen, im Straßenverkehr gehen oder diesen umgehen oder in belebten Gegenden gehen"
+  ]
 }

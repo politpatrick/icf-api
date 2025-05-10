@@ -1,7 +1,12 @@
 {
   "code": "e325",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Bekannte, Seinesgleichen (Peers), Kollegen, Nachbarn und andere Gemeindemitglieder",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Personen, die sich als Bekannte, Seinesgleichen, Kollegen, Nachbarn und als Gemeindemitglieder kennen, etwa von der Arbeit, Schule oder Freizeit, über Kommunikationssysteme wie Telefon, Fernschreiber, Internet, E-Mail oder über andere Möglichkeiten, und die demographische Eigenschaften wie Alter, Geschlecht, religiöses Bekenntnis, ethnische Zugehörigkeit oder gemeinsame Interesse teilen"
+  ],
+  "exclusions": [
+    "Dienste von Vereinigungen und Organisationen"
+  ]
 }

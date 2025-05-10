@@ -1,7 +1,12 @@
 {
   "code": "b7602",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Koordination von Willkürbewegungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die mit der Koordination einfacher oder komplexer Willkürbewegungen, Ausführung von Bewegungen in richtiger Kombination verbunden sind"
+  ],
+  "inclusions": [
+    "Rechts-Links-Koordination; Koordination visuell gesteuerter Bewegungen, wie z.B. Auge-Hand-Koordination und Auge-Fuß-Koordination; Funktionsstörungen wie Dysdiadochokinese"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "e1400",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Allgemeine Produkte und Technologien für Kultur, Freizeit und Sport",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Für die Durchführung und Verbesserung der Kultur-, Freizeit- und Sportaktivitäten benutzte Ausrüstungsgegenstände, Produkte und Technologien wie Spielzeug, Ski, Tennisbälle und Musikinstrumente, weder angepasst noch speziell entworfen"
+  ]
 }

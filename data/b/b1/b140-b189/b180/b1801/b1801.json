@@ -1,7 +1,12 @@
 {
   "code": "b1801",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Körperschema",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die im Zusammenhang mit dem Bild und dem Bewusstsein des eigenen Körpers stehen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Phantomgliedmaße und das Gefühl, zu dick oder zu dünn zu sein"
+  ]
 }

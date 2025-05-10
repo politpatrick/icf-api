@@ -1,12 +1,17 @@
 {
   "code": "d870",
   "kind": "fourdigit",
-  "preferred": "Wirtschaftliche Eigenständigkeit",
-  "definition": null,
   "children": [
     "d8700",
     "d8701",
     "d8708",
     "d8709"
+  ],
+  "preferred": "Wirtschaftliche Eigenständigkeit",
+  "coding-hints": [
+    "Die Verfügungsgewalt über wirtschaftliche Ressourcen aus privaten oder öffentlichen Quellen zu haben, um die wirtschaftliche Sicherheit für den gegenwärtigen und zukünftigen Bedarf zu gewährleisten"
+  ],
+  "inclusions": [
+    "Persönliche wirtschaftliche Ressourcen und öffentliche wirtschaftliche Ansprüche"
   ]
 }

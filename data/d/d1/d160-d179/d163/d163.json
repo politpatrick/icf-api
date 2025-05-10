@@ -1,7 +1,12 @@
 {
   "code": "d163",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Denken",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Ideen, Konzepte und Vorstellungen - seien sie zielgerichtet oder nicht - zu formulieren und zu handhaben, allein oder mit anderen, wie eine Fiktion entwickeln, ein Theorem beweisen, mit Ideen spielen, Brainstorming betreiben, meditieren, Vor- und Nachteile abwägen, Vermutungen anstellen, überlegen"
+  ],
+  "exclusions": [
+    "Probleme lösen"
+  ]
 }

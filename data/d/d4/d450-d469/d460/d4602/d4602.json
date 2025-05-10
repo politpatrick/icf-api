@@ -1,7 +1,12 @@
 {
   "code": "d4602",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sich außerhalb der eigenen Wohnung und anderen Gebäuden umherbewegen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In der Nähe oder von der eigenen Wohnung oder anderen Gebäuden entfernt umherzugehen und sich fortzubewegen, ohne öffentliche oder private Transport- oder Verkehrsmittel zu benutzen, wie für kurze oder lange Entfernungen in einer Stadt oder einem Dorf herumzugehen"
+  ],
+  "inclusions": [
+    "Auf Straßen in der Nachbarschaft, der Stadt, des Dorfes oder der Großstadt entlang gehen oder sich auf ihnen fortzubewegen; sich ohne Transport- oder Verkehrsmittel zwischen Großstädten und für längere Entfernungen bewegen"
+  ]
 }

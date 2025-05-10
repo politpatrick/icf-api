@@ -1,7 +1,9 @@
 {
   "code": "b5104",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Speichelfluss",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Mundspeichelproduktion betreffen"
+  ]
 }

@@ -1,13 +1,18 @@
 {
   "code": "d740",
   "kind": "fourdigit",
-  "preferred": "Formelle Beziehungen",
-  "definition": null,
   "children": [
     "d7400",
     "d7401",
     "d7402",
     "d7408",
     "d7409"
+  ],
+  "preferred": "Formelle Beziehungen",
+  "coding-hints": [
+    "Spezielle Beziehungen in formellen Rahmen aufzunehmen und aufrecht zu erhalten, wie mit Arbeitgebern, Fachleuten oder Dienstleistungserbringer"
+  ],
+  "inclusions": [
+    "Mit Autoritätspersonen, Untergebenen oder Gleichrangigen umgehen"
   ]
 }

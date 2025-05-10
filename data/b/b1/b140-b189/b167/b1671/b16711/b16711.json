@@ -1,7 +1,9 @@
 {
   "code": "b16711",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Das schriftsprachliche Ausdrucksvermögen betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die notwendig sind, schriftsprachlich sinnvolle Mitteilungen zu verfassen"
+  ]
 }

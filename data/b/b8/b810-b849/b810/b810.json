@@ -1,7 +1,15 @@
 {
   "code": "b810",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Schutzfunktionen der Haut",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen der Haut zum Schutz des Körpers vor schädlichen physikalischen, chemischen und biologischen Einflüssen"
+  ],
+  "inclusions": [
+    "Schutz gegen Sonnenstrahlung und andere Strahlen, Lichtempfindlichkeit, Pigmentierung, Hauttyp; Fähigkeit der Wärmeregulierung, Narbenbildung, Induration; Funktionsstörungen wie Rissbildung, Geschwüre, Dekubitus, Atrophie"
+  ],
+  "exclusions": [
+    "Heilfunktion der Haut"
+  ]
 }

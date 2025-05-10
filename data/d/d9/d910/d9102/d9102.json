@@ -1,7 +1,9 @@
 {
   "code": "d9102",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Feierlichkeiten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich an nichtreligiösen Riten oder gesellschaftlichen Feierlichkeiten zu beteiligen, wie an Hochzeiten, Beerdigungen oder Initialriten"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "b140-b189",
   "kind": "block",
-  "preferred": "Spezifische mentale Funktionen",
-  "definition": null,
   "children": [
     "b140",
     "b144",
@@ -16,5 +14,6 @@
     "b176",
     "b180",
     "b189"
-  ]
+  ],
+  "preferred": "Spezifische mentale Funktionen"
 }

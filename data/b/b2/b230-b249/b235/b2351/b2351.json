@@ -1,7 +1,9 @@
 {
   "code": "b2351",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Gleichgewichtssinn",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen des Innenohrs, die die Feststellung des Körpergleichgewichts betreffen"
+  ]
 }

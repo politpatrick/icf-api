@@ -1,7 +1,9 @@
 {
   "code": "e5250",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste des Wohnungswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme für Lokalisation, Bereitstellung und Erhaltung von Häusern oder Unterkünften für Wohnzwecke wie Immobilienmakler, Wohnungsorganisationen, Unterkunftsvermittlung für Obdachlose, einschließlich jener, die diese Dienstleistungen bereitstellen"
+  ]
 }

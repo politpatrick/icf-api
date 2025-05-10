@@ -1,7 +1,9 @@
 {
   "code": "d4452",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Nach etwas langen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Hände und Arme ausstrecken, um etwas zu berühren und zu greifen, wie über einen Tisch oder Pult nach einem Buch langen"
+  ]
 }

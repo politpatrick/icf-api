@@ -1,13 +1,21 @@
 {
   "code": "b167",
   "kind": "fourdigit",
-  "preferred": "Kognitiv-sprachliche Funktionen",
-  "definition": null,
   "children": [
     "b1670",
     "b1671",
     "b1672",
     "b1678",
     "b1679"
+  ],
+  "preferred": "Kognitiv-sprachliche Funktionen",
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die das Erkennen und Verwenden von Zeichen, Symbolen und anderen Teilbereichen einer Sprache betreffen"
+  ],
+  "inclusions": [
+    "Funktionen, die Verständnis und Entschlüsselung von gesprochener, geschriebener oder anderer Formen von Sprache wie Gebärdensprache betreffen; Funktionen, die das Ausdrucksvermögen in gesprochener, geschriebener oder anderer Form von Sprache betreffen; integratives Sprachvermögen in Sprache und Schrift, wie sie an der sensorischen (rezeptiven), motorischen (expressiven), Broca-, Wernicke- und Leitungsaphasie beteiligt sind"
+  ],
+  "exclusions": [
+    "Funktionen der Aufmerksamkeit"
   ]
 }

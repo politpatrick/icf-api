@@ -1,7 +1,12 @@
 {
   "code": "d4154",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "In stehender Position verbleiben",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Für eine erforderliche Zeit in einer stehenden Position zu verbleiben, wie in einer Schlange stehen"
+  ],
+  "inclusions": [
+    "Auf einer geneigten, rutschigen oder harten Oberfläche in stehender Position verbleiben"
+  ]
 }

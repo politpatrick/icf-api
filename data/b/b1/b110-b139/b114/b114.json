@@ -1,13 +1,21 @@
 {
   "code": "b114",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Orientierung",
-  "definition": null,
   "children": [
     "b1140",
     "b1141",
     "b1142",
     "b1148",
     "b1149"
+  ],
+  "preferred": "Funktionen der Orientierung",
+  "coding-hints": [
+    "Allgemeine mentale Funktionen, die Selbstwahrnehmung, Ich-Bewusstsein und realistische Wahrnehmung anderer Personen sowie der Zeit und der Umgebung betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Orientierung zu Zeit, Ort und Person sowie der Orientierung zur eigenen Person und zu anderen Personen; Desorientierung zu Zeit, Ort und Person"
+  ],
+  "exclusions": [
+    "Funktionen des Bewusstseins"
   ]
 }

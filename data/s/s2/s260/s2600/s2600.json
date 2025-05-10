@@ -1,7 +1,6 @@
 {
   "code": "s2600",
   "kind": "fivedigit",
-  "preferred": "Schnecke (Cochlea)",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Schnecke (Cochlea)"
 }

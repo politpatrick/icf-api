@@ -1,7 +1,12 @@
 {
   "code": "b5501",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Aufrechterhaltung der Körpertemperatur",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Aufrechterhaltung einer optimalen Körpertemperatur bei wechselnden Umgebungstemperaturen beteiligt sind"
+  ],
+  "inclusions": [
+    "Hitze- oder Kältetoleranz"
+  ]
 }

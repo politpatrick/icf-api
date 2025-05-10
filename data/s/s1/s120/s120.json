@@ -1,12 +1,11 @@
 {
   "code": "s120",
   "kind": "fourdigit",
-  "preferred": "Struktur des Rückenmarks und mit ihm in Zusammenhang stehende Strukturen",
-  "definition": null,
   "children": [
     "s1200",
     "s1201",
     "s1208",
     "s1209"
-  ]
+  ],
+  "preferred": "Struktur des Rückenmarks und mit ihm in Zusammenhang stehende Strukturen"
 }

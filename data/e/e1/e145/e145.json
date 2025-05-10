@@ -1,12 +1,17 @@
 {
   "code": "e145",
   "kind": "fourdigit",
-  "preferred": "Produkte und Technologien zur Ausübung von Religion und Spiritualität",
-  "definition": null,
   "children": [
     "e1450",
     "e1451",
     "e1458",
     "e1459"
+  ],
+  "preferred": "Produkte und Technologien zur Ausübung von Religion und Spiritualität",
+  "coding-hints": [
+    "Einzel- oder massenproduzierte Produkte und Technologien, denen im Zusammenhang mit der Ausübung von Religion oder Spiritualität eine symbolische Bedeutung zukommt oder gegeben wird, einschließlich solcher, die angepasst oder speziell entworfen sind"
+  ],
+  "inclusions": [
+    "Allgemeine und Hilfsprodukte und unterstützende Technologien zur Ausübung von Religion und Spiritualität"
   ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b16712",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Das Ausdrucksvermögen in Gebärdensprache betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die notwendig sind, sinnvolle Mitteilungen in Sprachen auszudrücken, die mittels Hand- und anderen Bewegungen erzeugte Zeichen verwenden"
+  ]
 }

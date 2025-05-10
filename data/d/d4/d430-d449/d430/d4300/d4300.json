@@ -1,7 +1,9 @@
 {
   "code": "d4300",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Anheben",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einen Gegenstand anheben, um ihn von einem niedrigen Niveau auf ein höheres zu bewegen, wie ein Glas auf einem Tisch anheben"
+  ]
 }

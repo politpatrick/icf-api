@@ -1,7 +1,12 @@
 {
   "code": "e315",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Erweiterter Familienkreis",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Personen, die über Familie oder Heirat verwandt sind oder andere Beziehungen, die von der Kultur als 'erweiterter Familienkreis' anerkannt sind, wie Tanten, Onkel, Neffen, Nichten"
+  ],
+  "exclusions": [
+    "Engster Familienkreis"
+  ]
 }

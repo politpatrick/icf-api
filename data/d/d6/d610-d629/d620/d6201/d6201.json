@@ -1,7 +1,9 @@
 {
   "code": "d6201",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Die täglichen Notwendigkeiten unentgeltlich besorgen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Waren und Dienstleistungen für das tägliche Leben unentgeltlich zu beschaffen (einschließlich einen für die Beschaffung Beauftragten anzuweisen und zu beaufsichtigen), wie Gemüse und Früchte ernten sowie Wasser und Brennstoff beschaffen"
+  ]
 }

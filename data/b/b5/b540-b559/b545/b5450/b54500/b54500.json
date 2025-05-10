@@ -1,7 +1,9 @@
 {
   "code": "b54500",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Wasserretention",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Zurückhaltung vermehrten Wassers im Körper beteiligt sind"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "d5301",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Die Belange der Darmentleerung regulieren",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die Darmentleerung zu koordinieren und zu handhaben, wie das Bedürfnis angeben, sich in eine geeignete Position begeben, einen angemessenen Ort zur Darmentleerung wählen und aufsuchen, vor und nach der Darmentleerung die Kleidung richten und sich nach der Darmentleerung reinigen"
+  ]
 }

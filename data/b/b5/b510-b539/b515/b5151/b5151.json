@@ -1,7 +1,9 @@
 {
   "code": "b5151",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Aufschlüsselung von Nahrung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die mechanische und chemische Zerkleinerung von Speisen im Verdauungstrakt betreffen"
+  ]
 }

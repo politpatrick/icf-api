@@ -1,12 +1,11 @@
 {
   "code": "b450-b469",
   "kind": "block",
-  "preferred": "Weitere Funktionen und Empfindungen, die das kardiovaskuläre und Atmungssystem betreffen",
-  "definition": null,
   "children": [
     "b450",
     "b455",
     "b460",
     "b469"
-  ]
+  ],
+  "preferred": "Weitere Funktionen und Empfindungen, die das kardiovaskuläre und Atmungssystem betreffen"
 }

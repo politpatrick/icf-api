@@ -1,7 +1,9 @@
 {
   "code": "d8501",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Teilzeitbeschäftigung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich als Angestellter an allen Aspekten bezahlter Arbeit auf Teilzeitbasis zu beteiligen, wie Arbeit suchen und eine Arbeitsstelle erhalten, die geforderten Aufgaben der Arbeitsstelle erfüllen, rechtzeitig bei der Arbeit erscheinen, andere Arbeitnehmer überwachen oder selbst überwacht werden sowie die geforderten Aufgaben allein oder in Gruppen erledigen"
+  ]
 }

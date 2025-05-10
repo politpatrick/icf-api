@@ -1,7 +1,12 @@
 {
   "code": "d166",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Lesen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Aktivitäten im Zusammenhang mit der Erfassung und Interpretation von Texten (z.B. Bücher, Anweisungen oder Zeitungen - auch in Braille) durchzuführen, um allgemeines Wissen oder besondere Informationen zu erlangen"
+  ],
+  "exclusions": [
+    "Lesen lernen"
+  ]
 }

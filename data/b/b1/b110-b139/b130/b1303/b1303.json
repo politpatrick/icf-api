@@ -1,7 +1,9 @@
 {
   "code": "b1303",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Drang nach Suchtmitteln",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einem Drang äußern, Substanzen zu konsumieren einschließlich solcher, die zu Missbrauch führen können"
+  ]
 }

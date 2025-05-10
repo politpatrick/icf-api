@@ -1,7 +1,9 @@
 {
   "code": "e5752",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze der allgemeinen sozialen Unterstützung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die die Programme und Systeme für die soziale Unterstützung von Menschen, die wegen Alters, Armut, Arbeitslosigkeit, Gesundheitsproblemen oder Behinderung öffentliche Hilfe benötigen, regeln, einschließlich der Gesetze und Vorschriften für die Feststellung der Anspruchsberechtigung auf die Dienste der sozialen Unterstützung"
+  ]
 }

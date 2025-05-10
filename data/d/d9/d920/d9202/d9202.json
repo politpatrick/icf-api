@@ -1,7 +1,9 @@
 {
   "code": "d9202",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kunst und Kultur",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich an Ereignissen der schönen Künste oder der Kultur zu beteiligen oder an diesen Gefallen zu finden, wie ins Theater, Kino, Museum oder in Kunstgalerien gehen, in einem Stück als Schauspieler auftreten, zur eigenen Erbauung lesen oder ein Musikinstrument spielen"
+  ]
 }

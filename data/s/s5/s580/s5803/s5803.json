@@ -1,7 +1,6 @@
 {
   "code": "s5803",
   "kind": "fivedigit",
-  "preferred": "Nebenniere",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Nebenniere"
 }

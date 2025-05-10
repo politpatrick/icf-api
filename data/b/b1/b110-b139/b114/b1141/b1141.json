@@ -1,7 +1,9 @@
 {
   "code": "b1141",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Orientierung zum Ort",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich im bewussten Gewahrsein der örtlichen Situation äußeren, z.B. in welcher unmittelbaren Umgebung, in welcher Stadt oder in welchem Land man sich befindet"
+  ]
 }

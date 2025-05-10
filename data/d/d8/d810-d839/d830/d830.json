@@ -1,7 +1,9 @@
 {
   "code": "d830",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Höhere Bildung und Ausbildung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich an den Aktivitäten der weiterführenden Bildungs-/Ausbildungsprogramme an Universitäten, Fachhochschulen und Fachschulen zu beteiligen und alle curricularen Inhalte zu lernen, die für formale Grade, Diplome und andere Beglaubigungen erforderlich sind, wie einen Diplom- oder Promotionsstudiengang an einer Universität oder anderen anerkannten Fachbildungseinrichtung abschließen"
+  ]
 }

@@ -1,7 +1,12 @@
 {
   "code": "b4102",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kontraktionskraft der Ventrikel",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die das Blutvolumen, das von den Ventrikeln bei jeder Kontraktion gepumpt wird (Schlagvolumen), betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie vermindertes Herzminutenvolumen"
+  ]
 }

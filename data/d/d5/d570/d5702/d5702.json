@@ -1,7 +1,9 @@
 {
   "code": "d5702",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Seine Gesundheit erhalten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Auf sich selbst zu achten, indem man das tut, was die eigene Gesundheit erfordert, und zwar im Hinblick auf Gesundheitsrisiken und Krankheitsverhütung, und man sich über diese Notwendigkeit im Klaren ist. Hierzu gehören professionelle Hilfe in Anspruch nehmen, medizinischem oder anderem gesundheitlichem Rat folgen, Gesundheitsrisiken vermeiden wie körperliche Verletzungen, ansteckende Krankheiten, Drogeneinnahme und sexuell übertragbare Krankheiten"
+  ]
 }

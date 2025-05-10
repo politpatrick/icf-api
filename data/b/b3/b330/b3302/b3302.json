@@ -1,7 +1,12 @@
 {
   "code": "b3302",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sprechtempo",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Sprechgeschwindigkeit betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Bradylalie, Tachylalie"
+  ]
 }

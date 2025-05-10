@@ -1,7 +1,15 @@
 {
   "code": "b265",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Funktionen des Tastens (Tastsinn)",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen, die das Erkennen von Oberflächen sowie deren Beschaffenheit oder Qualität betreffen"
+  ],
+  "inclusions": [
+    "Funktionen des Tastens; Funktionsstörungen wie Taubheitsgefühle, Berührungsunempfindlichkeit (Anästhesie), Kribbelparästhesien, Missempfindungen (Parästhesien), Überempfindlichkeiten (Hyperästhesien)"
+  ],
+  "exclusions": [
+    "Sinnesfunktionen bezüglich Temperatur und anderer Reize"
+  ]
 }

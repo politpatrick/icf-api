@@ -1,7 +1,9 @@
 {
   "code": "b4451",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen des Zwerchfells",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen des Zwerchfells, die an der Atmung beteiligt sind"
+  ]
 }

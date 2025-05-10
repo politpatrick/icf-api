@@ -1,7 +1,12 @@
 {
   "code": "e5651",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme der Wirtschaft",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- und Überwachungsmechanismen, die Produktion, Verteilung, Verbrauch und Verwendung von Gütern und Dienstleistungen regeln, wie Systeme für die Umsetzung und Überwachung der Handlungsgrundsätze der Wirtschaft"
+  ],
+  "exclusions": [
+    "Systeme des Versorgungswesens"
+  ]
 }

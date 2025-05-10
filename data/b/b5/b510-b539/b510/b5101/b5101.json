@@ -1,7 +1,9 @@
 {
   "code": "b5101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Beißen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die das Schneiden, Zerteilen oder Abbeißen von Nahrungsmitteln mit den Schneidezähnen betreffen"
+  ]
 }

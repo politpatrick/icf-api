@@ -1,7 +1,9 @@
 {
   "code": "d7602",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Beziehungen unter Geschwistern",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Eine geschwisterliche Beziehung zu einer Person aufzubauen und aufrecht zu erhalten, die ein oder beide Elternteile kraft Geburt, durch Adoption oder Heirat gemeinsam hat"
+  ]
 }

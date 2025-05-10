@@ -1,8 +1,6 @@
 {
   "code": "b130",
   "kind": "fourdigit",
-  "preferred": "Funktionen der psychischen Energie und des Antriebs",
-  "definition": null,
   "children": [
     "b1300",
     "b1301",
@@ -11,5 +9,15 @@
     "b1304",
     "b1308",
     "b1309"
+  ],
+  "preferred": "Funktionen der psychischen Energie und des Antriebs",
+  "coding-hints": [
+    "Allgemeine mentale Funktionen, die physiologische und psychologische Vorgänge betreffen, welche bei einer Person ein nachhaltiges Streben nach Befriedigung bestimmter Bedürfnisse und die Verfolgung allgemeiner Ziele verursachen"
+  ],
+  "inclusions": [
+    "Funktionen, die psychische Energie, Motivation, Appetit, Sucht (einschließlich Sucht nach Substanzen, die zu einer Abhängigkeit führen) und Impulskontrolle betreffen"
+  ],
+  "exclusions": [
+    "Funktionen des Bewusstseins"
   ]
 }

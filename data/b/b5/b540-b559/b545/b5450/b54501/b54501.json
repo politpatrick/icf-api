@@ -1,7 +1,9 @@
 {
   "code": "b54501",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Aufrechterhaltung eines ausgeglichenen Wasserhaushaltes",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Aufrechterhaltung einer optimalen Menge an Körperwasser beteiligt sind"
+  ]
 }

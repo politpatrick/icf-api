@@ -1,7 +1,12 @@
 {
   "code": "e2201",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Tiere",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Multizelluläre Organismen aus dem Tierreich, die sich von Pflanzen in gewissen typischen Charakteristiken unterscheiden, wie Fähigkeit der Bewegung, nicht-photosynthetischer Stoffwechsel, ausgeprägte Reaktion auf Reize, eingeschränktes Wachstum und festgelegte Körperstruktur, wie wilde oder Nutztiere, Reptilien, Vögel, Fische und Säugetiere"
+  ],
+  "exclusions": [
+    "Vermögenswerte"
+  ]
 }

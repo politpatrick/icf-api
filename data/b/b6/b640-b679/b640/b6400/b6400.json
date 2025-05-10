@@ -1,7 +1,9 @@
 {
   "code": "b6400",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen der sexuellen Erregungsphase",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die das sexuelle Interesse und die sexuelle Erregung betreffen"
+  ]
 }

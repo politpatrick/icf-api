@@ -1,7 +1,6 @@
 {
   "code": "s8101",
   "kind": "fivedigit",
-  "preferred": "Haut der Schulterregion",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Haut der Schulterregion"
 }

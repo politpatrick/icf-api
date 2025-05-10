@@ -1,7 +1,9 @@
 {
   "code": "e465",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Gesellschaftliche Normen, Konventionen und Weltanschauungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sitten, Praktiken/Bräuche, Regeln sowie abstrakte Wertsysteme und normative Überzeugungen (z. B. Ideologien, normative Weltanschauungen und moralphilosophische Ansichten), welche innerhalb gesellschaftlicher Kontexte entstehen, und die gesellschaftliche und individuelle Gewohnheiten und Verhaltensweisen beeinflussen oder schaffen, wie gesellschaftliche Normen der Moral, der religiösen Verhaltensweisen oder Etikette; religiöse Lehren und daraus abgeleitete Normen und Konventionen; Normen, die Rituale oder das Zusammensein sozialer Gruppen bestimmen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "d4500",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kurze Entfernungen gehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Weniger als einen Kilometer zu gehen, wie in Räumen umher oder auf Korridoren entlang gehen, innerhalb eines Gebäudes oder für kurze Entfernungen außerhalb"
+  ]
 }

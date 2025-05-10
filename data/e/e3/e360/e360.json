@@ -1,7 +1,12 @@
 {
   "code": "e360",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Andere Fachleute",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Alle Fachleute, die außerhalb des Gesundheitssystems arbeiten, einschließlich Sozialarbeiter, Rechtanwälte, Lehrer, Architekten und Konstrukteure"
+  ],
+  "exclusions": [
+    "Fachleute der Gesundheitsberufe"
+  ]
 }

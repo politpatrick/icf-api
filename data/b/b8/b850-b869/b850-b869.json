@@ -1,11 +1,10 @@
 {
   "code": "b850-b869",
   "kind": "block",
-  "preferred": "Funktionen des Haars und der Nägel",
-  "definition": null,
   "children": [
     "b850",
     "b860",
     "b869"
-  ]
+  ],
+  "preferred": "Funktionen des Haars und der Nägel"
 }

@@ -1,8 +1,6 @@
 {
   "code": "b126",
   "kind": "fourdigit",
-  "preferred": "Funktionen von Temperament und Persönlichkeit",
-  "definition": null,
   "children": [
     "b1260",
     "b1261",
@@ -14,5 +12,15 @@
     "b1267",
     "b1268",
     "b1269"
+  ],
+  "preferred": "Funktionen von Temperament und Persönlichkeit",
+  "coding-hints": [
+    "Allgemeine mentale Funktionen, die das anlagebedingte Naturell einer Person betreffen, individuell auf Situationen zu reagieren, einschließlich der psychischen Charakteristika, die eine Person von einer anderen unterscheiden"
+  ],
+  "inclusions": [
+    "Funktionen, die Extraversion, Introversion, Umgänglichkeit, Gewissenhaftigkeit, psychische und emotionale Stabilität, Offenheit gegenüber Erfahrungen, Optimismus, Neugier, Vertrauen und Zuverlässigkeit betreffen"
+  ],
+  "exclusions": [
+    "Funktionen der Intelligenz"
   ]
 }

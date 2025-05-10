@@ -1,13 +1,12 @@
 {
   "code": "d330-d349",
   "kind": "block",
-  "preferred": "Kommunizieren als Sender",
-  "definition": null,
   "children": [
     "d330",
     "d335",
     "d340",
     "d345",
     "d349"
-  ]
+  ],
+  "preferred": "Kommunizieren als Sender"
 }

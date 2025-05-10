@@ -1,7 +1,12 @@
 {
   "code": "d4601",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sich in anderen Gebäuden außerhalb der eigenen Wohnung umherbewegen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Innerhalb von Gebäuden außerhalb der eigenen Wohnung umherzugehen und sich umherzubewegen, wie sich in anderen Wohnungen, privaten, gemeindeeigenen oder öffentlichen Gebäuden und eingefriedeten Bereichen umherbewegen"
+  ],
+  "inclusions": [
+    "Sich in allen Teilen von privaten oder öffentlichen Gebäuden und eingefriedeten Bereichen bewegen, zwischen den Stockwerken, innerhalb, außerhalb und um Gebäude herum"
+  ]
 }

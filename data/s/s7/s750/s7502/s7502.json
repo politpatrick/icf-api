@@ -1,8 +1,6 @@
 {
   "code": "s7502",
   "kind": "fivedigit",
-  "preferred": "Struktur der Knöchelregion und des Fußes",
-  "definition": null,
   "children": [
     "s75020",
     "s75021",
@@ -10,5 +8,6 @@
     "s75023",
     "s75028",
     "s75029"
-  ]
+  ],
+  "preferred": "Struktur der Knöchelregion und des Fußes"
 }

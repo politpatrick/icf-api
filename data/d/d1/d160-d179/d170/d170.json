@@ -1,7 +1,12 @@
 {
   "code": "d170",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Schreiben",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Symbole oder Sprache zu verwenden oder zu produzieren, um Informationen zu vermitteln, wie schriftliche Aufzeichnungen von Ereignissen oder Ideen produzieren oder einen Brief entwerfen"
+  ],
+  "exclusions": [
+    "Schreiben lernen"
+  ]
 }

@@ -1,12 +1,17 @@
 {
   "code": "e260",
   "kind": "fourdigit",
-  "preferred": "Luftqualität",
-  "definition": null,
   "children": [
     "e2600",
     "e2601",
     "e2608",
     "e2609"
+  ],
+  "preferred": "Luftqualität",
+  "coding-hints": [
+    "Eigenschaften der Atmosphäre (außerhalb von Gebäuden) oder der Luft in umschlossenen Räumen (innerhalb von Gebäuden), und die nützliche oder verwirrende Informationen über die Welt liefern können"
+  ],
+  "inclusions": [
+    "Luftqualität in Innen- oder Außenbereichen"
   ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "d3352",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Zeichnungen und Fotos machen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Bedeutung durch Zeichnen, Malen, Skizzieren und Herstellen von Diagrammen, Bildern oder Fotos zu vermitteln, wie eine Karte zeichnen, um jemanden die Richtung zu einem Ort anzugeben"
+  ]
 }

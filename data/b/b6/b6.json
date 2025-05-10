@@ -1,12 +1,14 @@
 {
   "code": "b6",
   "kind": "chapter",
-  "preferred": "Funktionen des Urogenital- und reproduktiven Systems",
-  "definition": null,
   "children": [
     "b610-b639",
     "b640-b679",
     "b698",
     "b699"
+  ],
+  "preferred": "Funktionen des Urogenital- und reproduktiven Systems",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit Funktionen, die die Harnausscheidung und die Reproduktion betreffen, einschließlich der Sexual- und Fortpflanzungsfunktionen"
   ]
 }

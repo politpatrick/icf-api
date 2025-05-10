@@ -1,12 +1,20 @@
 {
   "code": "b780",
   "kind": "fourdigit",
-  "preferred": "Mit den Funktionen der Muskeln und der Bewegung in Zusammenhang stehende Empfindungen",
-  "definition": null,
   "children": [
     "b7800",
     "b7801",
     "b7808",
     "b7809"
+  ],
+  "preferred": "Mit den Funktionen der Muskeln und der Bewegung in Zusammenhang stehende Empfindungen",
+  "coding-hints": [
+    "Empfindungen, die mit den Muskeln oder Muskelgruppen des Körpers und ihren Bewegungen verbunden sind"
+  ],
+  "inclusions": [
+    "Empfindungen von Muskelsteifigkeit und Muskelverspannung, von Muskelkrämpfen oder von Muskelanspannung und Schweregefühl der Muskeln"
+  ],
+  "exclusions": [
+    "Schmerz"
   ]
 }

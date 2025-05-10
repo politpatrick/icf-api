@@ -1,7 +1,9 @@
 {
   "code": "e1450",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Allgemeine Produkte und Technologien zur Ausübung von Religion oder Spiritualität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einzel- oder massenproduzierte Produkte und Technologien, denen im Zusammenhang mit der Ausübung von Religion oder Spiritualität eine symbolische Bedeutung zukommt oder gegeben wird, wie Gemeindehäuser, Maibäume und Kopfschmuck, Masken, Kruzifixe, Menorah und Gebetsteppiche, weder angepasst noch speziell entworfen"
+  ]
 }

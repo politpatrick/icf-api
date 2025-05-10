@@ -1,7 +1,9 @@
 {
   "code": "d1550",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sich elementare Fertigkeiten aneignen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Elementare, bewusste Handlungen zu erlernen, wie mit Essutensilien, einem Bleistift oder einem einfachen Werkzeug umgehen lernen"
+  ]
 }

@@ -1,7 +1,12 @@
 {
   "code": "d4201",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sich beim Liegen verlagern",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich aus liegender Position in eine andere gleichen oder unterschiedlichen Niveaus zu bewegen, wie sich von einem Bett in ein anderes bewegen"
+  ],
+  "exclusions": [
+    "Eine elementare Körperposition wechseln"
+  ]
 }

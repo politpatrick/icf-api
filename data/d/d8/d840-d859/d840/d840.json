@@ -1,7 +1,12 @@
 {
   "code": "d840",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Vorbereitung auf Erwerbstätigkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich an allen Programmen in Zusammenhang mit der Vorbereitung auf Beschäftigung zu beteiligen, wie die Aufgaben ausführen, die in Lehre, Praktika (einschließlich im Rahmen eines Hochschulstudiums) und ausbildungsbegleitendem Training gefordert werden"
+  ],
+  "exclusions": [
+    "Theoretische Berufsausbildung"
+  ]
 }

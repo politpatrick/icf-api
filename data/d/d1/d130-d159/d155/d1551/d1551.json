@@ -1,7 +1,9 @@
 {
   "code": "d1551",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sich komplexe Fertigkeiten aneignen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Integrierte Mengen von Handlungen zu erlernen, um Regeln zu folgen sowie die eigenen Bewegungen korrekt aufeinander folgen zu lassen und zu koordinieren, wie Fußball spielen oder ein Bauwerkzeug benutzen lernen"
+  ]
 }

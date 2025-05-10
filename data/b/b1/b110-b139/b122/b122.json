@@ -1,7 +1,12 @@
 {
   "code": "b122",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Globale psychosoziale Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich über das gesamte Leben entwickelnde allgemeine mentale Funktionen, die für das Verständnis und die konstruktive Integration jener mentalen Funktionen erforderlich sind, die zur Bildung interpersoneller Fähigkeiten führen, welche für den Aufbau reziproker sozialer Interaktionen, die sinnvoll und zweckmäßig sind, benötigt werden"
+  ],
+  "inclusions": [
+    "Störungen wie bei Autismus"
+  ]
 }

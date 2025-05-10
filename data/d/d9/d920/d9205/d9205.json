@@ -1,7 +1,9 @@
 {
   "code": "d9205",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Geselligkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich an informellen oder gelegentlichen Zusammenkünften beteiligen, wie Freunde oder Verwandte besuchen oder sich informell in der Öffentlichkeit zu treffen"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "b160",
   "kind": "fourdigit",
-  "preferred": "Funktionen des Denkens",
-  "definition": null,
   "children": [
     "b1600",
     "b1601",
@@ -10,5 +8,15 @@
     "b1603",
     "b1608",
     "b1609"
+  ],
+  "preferred": "Funktionen des Denkens",
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die im Zusammenhang mit dem formalen und inhaltlichen Ablauf des Denkens stehen"
+  ],
+  "inclusions": [
+    "Funktionen, die Tempo, Form, Kontrolle und Inhalt des Denkens betreffen; Funktionen, die zielgerichtetes und nicht zielgerichtetes Denken betreffen; Funktionen, die logisches Denken betreffen, wie bei Gedankendruck, Ideenflüchtigkeit, Denkhemmung, inkohärentes Denken, Vorbeidenken/Vorbeireden, umständliches Denken, Wahn, Zwangsgedanken, Zwangshandlungen"
+  ],
+  "exclusions": [
+    "Funktionen der Intelligenz"
   ]
 }

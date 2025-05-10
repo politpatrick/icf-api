@@ -1,7 +1,9 @@
 {
   "code": "d5300",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Die Belange der Blasenentleerung regulieren",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die Blasenentleerung zu koordinieren und zu handhaben, wie das Bedürfnis angeben, sich in eine geeignete Position begeben, einen angemessenen Ort zur Blasenentleerung wählen und aufsuchen, vor und nach der Blasenentleerung die Kleidung richten und sich nach der Blasenentleerung reinigen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "e5552",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze der Vereinigungen und Organisationen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die die Beziehungen und Aktivitäten von Menschen regeln, die aus allgemeinen, nicht-kommerziellen Interessen zusammenkommen, wie Handlungsgrundsätze für die Gründung und Führung von Vereinigungen und Organisationen wie Organisationen für gegenseitige Hilfe, Organisationen für Freizeit und Hobby, kulturelle und religiöse Vereinigungen und gemeinnützige Organisationen"
+  ]
 }

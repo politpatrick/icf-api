@@ -1,7 +1,15 @@
 {
   "code": "b520",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Funktionen der Nahrungsmittelassimilation",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, bei denen Nährstoffe in Komponenten des Stoffwechsels umgewandelt werden"
+  ],
+  "inclusions": [
+    "Funktionen der Nährstoffspeicherung im Körper"
+  ],
+  "exclusions": [
+    "Verdauungsfunktionen"
+  ]
 }

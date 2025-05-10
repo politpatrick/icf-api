@@ -1,7 +1,9 @@
 {
   "code": "b1265",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Optimismus",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einer Persönlichkeit äußern, die durch Heiterkeit, Lebhaftigkeit und Zuversichtlichkeit gekennzeichnet ist, im Gegensatz zu Niedergeschlagenheit, Trübsinn und Verzweiflung"
+  ]
 }

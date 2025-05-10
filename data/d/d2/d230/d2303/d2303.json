@@ -1,7 +1,9 @@
 {
   "code": "d2303",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Das eigene Aktivitätsniveau handhaben",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Handlungen und Verhaltensweisen, die eine Person durchführen bzw. zeigen muss, um den Zeit- und Energiebedarf für die Anforderungen der alltäglichen Prozeduren oder Pflichten einzuplanen"
+  ]
 }

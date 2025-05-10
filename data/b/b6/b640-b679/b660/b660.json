@@ -1,8 +1,6 @@
 {
   "code": "b660",
   "kind": "fourdigit",
-  "preferred": "Fortpflanzungsfunktionen",
-  "definition": null,
   "children": [
     "b6600",
     "b6601",
@@ -10,5 +8,15 @@
     "b6603",
     "b6608",
     "b6609"
+  ],
+  "preferred": "Fortpflanzungsfunktionen",
+  "coding-hints": [
+    "Funktionen, die mit der Fertilität, Schwangerschaft, Geburt und Laktation verbunden sind"
+  ],
+  "inclusions": [
+    "Funktionen der männlichen und weiblichen Fertilität, Schwangerschaft, Geburt und Laktation; Funktionsstörungen wie Subfertilität, Sterilität, Azoospermie, Oligozoospermie, Spontanabort, ektopische Schwangerschaft, Fehlgeburt, zu kleiner Fetus, Hydramnion und Frühgeburt, verzögerte Geburt, Galaktorrhoe, Agalaktorrhoe, Agalaktie"
+  ],
+  "exclusions": [
+    "Sexuelle Funktionen"
   ]
 }

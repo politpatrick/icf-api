@@ -1,10 +1,9 @@
 {
   "code": "s3202",
   "kind": "fivedigit",
-  "preferred": "Struktur des Gaumens",
-  "definition": null,
   "children": [
     "s32020",
     "s32021"
-  ]
+  ],
+  "preferred": "Struktur des Gaumens"
 }

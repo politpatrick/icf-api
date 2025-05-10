@@ -1,12 +1,20 @@
 {
   "code": "b550",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Wärmeregulation",
-  "definition": null,
   "children": [
     "b5500",
     "b5501",
     "b5508",
     "b5509"
+  ],
+  "preferred": "Funktionen der Wärmeregulation",
+  "coding-hints": [
+    "Funktionen, die die Regulation der Körpertemperatur betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Aufrechterhaltung der Körpertemperatur; Funktionsstörungen wie bei Hypothermie, Hyperthermie"
+  ],
+  "exclusions": [
+    "Allgemeine Stoffwechselfunktionen"
   ]
 }

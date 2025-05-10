@@ -1,7 +1,9 @@
 {
   "code": "b1640",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Das Abstraktionsvermögen betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die die Entwicklung von allgemeinen Vorstellungen, Qualitäten oder Charakteristiken betreffen, hervorgegangen aus und losgelöst von den konkreten Realitäten, spezifischen Gegenständen oder aktuellen Gegebenheiten"
+  ]
 }

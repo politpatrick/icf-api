@@ -1,7 +1,6 @@
 {
   "code": "s7601",
   "kind": "fivedigit",
-  "preferred": "Muskeln des Rumpfes",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Muskeln des Rumpfes"
 }

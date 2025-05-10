@@ -1,7 +1,9 @@
 {
   "code": "b7150",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Stabilität eines einzelnen Gelenkes",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Aufrechterhaltung der strukturellen Integrität eines einzelnen Gelenks betreffen"
+  ]
 }

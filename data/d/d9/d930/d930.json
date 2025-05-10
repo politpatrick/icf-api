@@ -1,12 +1,17 @@
 {
   "code": "d930",
   "kind": "fourdigit",
-  "preferred": "Religion und Spiritualität",
-  "definition": null,
   "children": [
     "d9300",
     "d9301",
     "d9308",
     "d9309"
+  ],
+  "preferred": "Religion und Spiritualität",
+  "coding-hints": [
+    "Sich an religiösen und spirituellen Aktivitäten, Organisationen oder Praktiken zur Selbsterfüllung, Bedeutungsfindung, für religiöse und spirituelle Werte sowie zur Bildung von Beziehung zu einer göttlichen Macht zu beteiligen, wie an religiösen Diensten in einer Kirche, einem Tempel, einer Moschee oder Synagoge teilnehmen, aus religiösen Gründen beten und singen; spirituelle Kontemplation"
+  ],
+  "inclusions": [
+    "Organisierte Religion und Spiritualität"
   ]
 }

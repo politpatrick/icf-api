@@ -1,7 +1,9 @@
 {
   "code": "e5201",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme der Stadt- und Landschaftsplanung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- oder Überwachungsmechanismen wie für die Umsetzung von lokalen, regionalen oder nationalen Raumplanungsgesetzen, Entwurfsnormen, Richtlinien für Kultur- und Naturerbe sowie Vorschriften der Umweltplanungspolitik, welche Planung, Entwurf, Entwicklung und Erhaltung von Freiflächen einschließlich städtische, vorstädtische und ländliche Räume, Parks, Landschafts- und Tierschutzgebiete regeln"
+  ]
 }

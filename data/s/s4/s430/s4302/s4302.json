@@ -1,7 +1,6 @@
 {
   "code": "s4302",
   "kind": "fivedigit",
-  "preferred": "Brustkorb",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Brustkorb"
 }

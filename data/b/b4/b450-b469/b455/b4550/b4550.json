@@ -1,7 +1,9 @@
 {
   "code": "b4550",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Allgemeine Ausdauerleistung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die allgemeine Toleranzschwelle für physische Belastungen oder Ausdauer betreffen"
+  ]
 }

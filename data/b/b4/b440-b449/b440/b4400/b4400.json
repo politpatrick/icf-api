@@ -1,7 +1,12 @@
 {
   "code": "b4400",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Atemfrequenz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Anzahl der Atemzüge pro Minute betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie zu hohe (Tachypnoe) oder zu niedrige (Bradypnoe) Atemfrequenz"
+  ]
 }

@@ -1,7 +1,12 @@
 {
   "code": "b3400",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Erzeugung von Tönen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Bildung von musikbezogenen stimmlichen Äußerungen betreffen"
+  ],
+  "inclusions": [
+    "Halten, modulieren und beenden einzelner oder gebundener stimmlicher Äußerungen mit Variation der Tonhöhe wie beim Singen, Summen und Sprechgesang"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "e5451",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme für zivilen Schutz und Sicherheit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- oder Überwachungsmechanismen, die den Schutz von Personen und Besitz regeln, wie Einrichtungen, durch die die Bereitstellung von Feuerwehr-, Polizei-, Not- und Rettungsdiensten organisiert wird"
+  ]
 }

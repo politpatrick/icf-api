@@ -1,13 +1,12 @@
 {
   "code": "s6",
   "kind": "chapter",
-  "preferred": "Mit dem Urogenital- und dem Reproduktionssystem in Zusammenhang stehende Strukturen",
-  "definition": null,
   "children": [
     "s610",
     "s620",
     "s630",
     "s698",
     "s699"
-  ]
+  ],
+  "preferred": "Mit dem Urogenital- und dem Reproduktionssystem in Zusammenhang stehende Strukturen"
 }

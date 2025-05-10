@@ -1,7 +1,12 @@
 {
   "code": "b6500",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Regelmäßigkeit des Menstruationszyklus",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Regelmäßigkeit des Menstruationszyklus beteiligt sind"
+  ],
+  "inclusions": [
+    "Zu häufige oder zu seltene Menstruationen"
+  ]
 }

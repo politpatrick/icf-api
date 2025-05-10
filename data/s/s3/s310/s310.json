@@ -1,13 +1,12 @@
 {
   "code": "s310",
   "kind": "fourdigit",
-  "preferred": "Struktur der Nase",
-  "definition": null,
   "children": [
     "s3100",
     "s3101",
     "s3102",
     "s3108",
     "s3109"
-  ]
+  ],
+  "preferred": "Struktur der Nase"
 }

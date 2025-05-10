@@ -1,8 +1,6 @@
 {
   "code": "s430",
   "kind": "fourdigit",
-  "preferred": "Struktur des Atmungssystems",
-  "definition": null,
   "children": [
     "s4300",
     "s4301",
@@ -10,5 +8,6 @@
     "s4303",
     "s4308",
     "s4309"
-  ]
+  ],
+  "preferred": "Struktur des Atmungssystems"
 }

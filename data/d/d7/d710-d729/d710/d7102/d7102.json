@@ -1,7 +1,9 @@
 {
   "code": "d7102",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Toleranz in Beziehungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In einer kontextuell und sozial angemessenen Weise Verständnis und Akzeptanz für Verhalten zu zeigen und darauf zu reagieren"
+  ]
 }

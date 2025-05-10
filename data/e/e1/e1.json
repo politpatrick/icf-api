@@ -1,8 +1,6 @@
 {
   "code": "e1",
   "kind": "chapter",
-  "preferred": "Produkte und Technologien",
-  "definition": null,
   "children": [
     "e110",
     "e115",
@@ -18,5 +16,9 @@
     "e165",
     "e198",
     "e199"
+  ],
+  "preferred": "Produkte und Technologien",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit natürlichen oder vom Menschen hergestellten Produkten oder Produktsystemen, Ausrüstungen und Technologien in der unmittelbaren Umwelt eines Menschen, die gesammelt, geschaffen, produziert oder hergestellt sind. Die ISO 9999 Klassifikation der technischen Hilfen definiert diese als \"jedes von einer behinderten Person verwendete Produkt, Instrument, Ausrüstung oder technisches System, speziell produziert oder allgemein verfügbar, um Behinderung vorzubeugen, zu kompensieren, zu überwachen, zu lindern oder zu beheben\". Es ist anzumerken, dass alle Produkte und Technologien Hilfsfunktion haben können (siehe ISO 9999: Technische Hilfen für behinderte Menschen - Klassifikation und Terminologie (zweite Version); ISO/TC 173/SC 2, ISO/DIS 9999 (rev.). Für diese Klassifikation der Umweltfaktoren sind jedoch hilfebezogene Produkte und Technologien enger definiert als jedes Produkt, Instrument, Ausrüstung oder Technologie, das zur Verbesserung der Funktionsfähigkeit behinderter Menschen angepasst oder speziell entworfen ist."
   ]
 }

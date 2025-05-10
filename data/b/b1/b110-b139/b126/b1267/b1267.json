@@ -1,7 +1,9 @@
 {
   "code": "b1267",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Zuverlässigkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einer Persönlichkeit äußern, die durch Verlässlichkeit und Prinzipientreue gekennzeichnet ist, im Gegensatz zu Hinterlistigkeit und unsozialem Verhalten"
+  ]
 }

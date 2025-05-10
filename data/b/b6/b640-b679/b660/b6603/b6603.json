@@ -1,7 +1,9 @@
 {
   "code": "b6603",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Laktation",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Produktion von Milch und deren Abgabe an das Kind beteiligt sind"
+  ]
 }

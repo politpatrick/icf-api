@@ -1,7 +1,12 @@
 {
   "code": "e310",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Engster Familienkreis",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Personen, die infolge Geburt oder Heirat verwandt sind oder andere Beziehungen, die von der Kultur als 'engster Familienkreis' anerkannt sind, wie Ehepartner, Lebensgefährten, Eltern, Geschwister, Kinder, Pflegeeltern, Adoptiveltern und Großeltern"
+  ],
+  "exclusions": [
+    "Erweiterter Familienkreis"
+  ]
 }

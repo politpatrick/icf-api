@@ -1,7 +1,12 @@
 {
   "code": "d560",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Trinken",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Ein Gefäß mit einem Getränk in die Hand zu nehmen, es zum Mund zu führen und den Inhalt in kulturell akzeptierter Weise zu trinken, Flüssigkeiten zum Trinken zu mischen, zu rühren, zu gießen, Flaschen und Dosen zu öffnen, mit einem Strohhalm zu trinken oder fließendes Wasser wie z. B. vom Wasserhahn oder aus einer Quelle zu trinken; trinken an der Brust (Säugling)"
+  ],
+  "exclusions": [
+    "Essen"
+  ]
 }

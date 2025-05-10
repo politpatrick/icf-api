@@ -1,7 +1,9 @@
 {
   "code": "e2200",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Pflanzen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Alle Arten von zur Photosynthese fähigen, eukaryotischen und multizellulären Organismen aus dem Pflanzenreich, die charakteristischerweise Embryonen produzieren, Chloroplasten enthalten sowie Zellwände aus Zellulose haben und sich nicht fortbewegen können, wie Bäume, Blumen, Sträucher und Rebengewächse"
+  ]
 }

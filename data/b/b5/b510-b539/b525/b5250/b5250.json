@@ -1,7 +1,9 @@
 {
   "code": "b5250",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen der Stuhlentleerung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Entleerung von Stuhl aus dem Enddarm betreffen einschließlich der Funktionen der Bauchpresse hierfür"
+  ]
 }

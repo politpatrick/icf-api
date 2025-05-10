@@ -1,13 +1,12 @@
 {
   "code": "d450-d469",
   "kind": "block",
-  "preferred": "Gehen und sich fortbewegen",
-  "definition": null,
   "children": [
     "d450",
     "d455",
     "d460",
     "d465",
     "d469"
-  ]
+  ],
+  "preferred": "Gehen und sich fortbewegen"
 }

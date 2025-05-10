@@ -1,7 +1,9 @@
 {
   "code": "d9201",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sport",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich an informellen oder formell organisierten Wettkampfspielen oder athletischen Ereignissen, die allein oder in einer Gruppe durchgeführt werden, zu beteiligen, wie Bowling, Gymnastik oder Fußball"
+  ]
 }

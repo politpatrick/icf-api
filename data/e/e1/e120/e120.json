@@ -1,12 +1,17 @@
 {
   "code": "e120",
   "kind": "fourdigit",
-  "preferred": "Produkte und Technologien zur persönlichen Mobilität drinnen und draußen und zum Transport",
-  "definition": null,
   "children": [
     "e1200",
     "e1201",
     "e1208",
     "e1209"
+  ],
+  "preferred": "Produkte und Technologien zur persönlichen Mobilität drinnen und draußen und zum Transport",
+  "coding-hints": [
+    "Ausrüstungsgegenstände, Produkte und Technologien, die von Menschen für ihre Aktivitäten der Mobilität innerhalb und außerhalb von Gebäuden benutzt werden, einschließlich solcher, die angepasst oder speziell entworfen sind, und sich bei ihnen bzw. sich in ihrer Nähe befinden"
+  ],
+  "inclusions": [
+    "Allgemeine Hilfsprodukte und unterstützende Technologien für die persönliche Mobilität drinnen und draußen"
   ]
 }

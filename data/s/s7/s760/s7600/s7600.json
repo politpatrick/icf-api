@@ -1,8 +1,6 @@
 {
   "code": "s7600",
   "kind": "fivedigit",
-  "preferred": "Struktur der Wirbelsäule",
-  "definition": null,
   "children": [
     "s76000",
     "s76001",
@@ -11,5 +9,6 @@
     "s76004",
     "s76008",
     "s76009"
-  ]
+  ],
+  "preferred": "Struktur der Wirbelsäule"
 }

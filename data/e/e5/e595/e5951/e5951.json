@@ -1,7 +1,9 @@
 {
   "code": "e5951",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme der Politik",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Strukturen und damit im Zusammenhang stehende Tätigkeiten, die die politische und wirtschaftliche Macht in der Gesellschaft organisieren, wie exekutive und legislative Bereiche der Regierung sowie die verfassungsmäßigen oder anderen Quellen, von denen sie ihre Legitimation ableiten, wie politisch-organisatorische Grundsätze, Verfassungen der exekutiven und legislativen Bereiche der Regierung, Militär"
+  ]
 }

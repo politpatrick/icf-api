@@ -1,7 +1,9 @@
 {
   "code": "b1522",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Spannweite von Emotionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich im Spektrum von Gefühlsregungen oder Gefühlen äußern, wie Liebe, Hass, Angst, Sorgen, Freude, Furcht und Ärger"
+  ]
 }

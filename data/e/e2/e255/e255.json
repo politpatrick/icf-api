@@ -1,7 +1,12 @@
 {
   "code": "e255",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Schwingung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Regelmäßige oder unregelmäßige Hin- und Herbewegung eines Gegenstandes oder einer Person infolge einer physikalischen Störung, wie Schütteln, Beben, schnelle ruckartige Bewegungen von Dingen, Gebäuden oder Menschen, verursacht durch kleine oder große Ausrüstung, Luftfahrzeuge und Explosionen"
+  ],
+  "exclusions": [
+    "Natürliche Ereignisse"
+  ]
 }

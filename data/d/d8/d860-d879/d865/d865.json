@@ -1,7 +1,9 @@
 {
   "code": "d865",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Komplexe wirtschaftliche Transaktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich an jeder Art von komplexen wirtschaftlichen Transaktionen zu beteiligen, die den Austausch von Kapital oder Eigentum und die Erzielung von Gewinn oder anderen wirtschaftlichen Werten beinhalten, wie ein Geschäft, eine Fabrik oder eine Ausstattung kaufen, ein Bankkonto unterhalten oder mit Gebrauchsgegenständen handeln"
+  ]
 }

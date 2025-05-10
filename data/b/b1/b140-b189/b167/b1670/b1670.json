@@ -1,13 +1,15 @@
 {
   "code": "b1670",
   "kind": "fivedigit",
-  "preferred": "Das Sprachverständnis betreffende Funktionen",
-  "definition": null,
   "children": [
     "b16700",
     "b16701",
     "b16702",
     "b16708",
     "b16709"
+  ],
+  "preferred": "Das Sprachverständnis betreffende Funktionen",
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die Verstehen und Erfassen der Bedeutung von Mitteilungen in gesprochener, geschriebener, symbolisierter oder anderer Form betreffen"
   ]
 }

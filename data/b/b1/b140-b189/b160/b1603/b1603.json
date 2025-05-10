@@ -1,7 +1,12 @@
 {
   "code": "b1603",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kontrolle des Denkens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die die willkürliche Kontrolle über das Denken beinhalten und die als solche von der Person selbst erkannt werden"
+  ],
+  "inclusions": [
+    "Störungen wie Déjà-vu-Erleben, Zwang, Gedankenbeeinflussung und Gedankeneingebung"
+  ]
 }

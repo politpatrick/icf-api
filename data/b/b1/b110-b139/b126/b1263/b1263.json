@@ -1,7 +1,9 @@
 {
   "code": "b1263",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Psychische Stabilität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einer Persönlichkeit äußern, die durch Ausgeglichenheit, Ruhe und Gefasstheit gekennzeichnet ist, im Gegensatz zu Reizbarkeit, Besorgtheit, Unbeständigkeit und Launenhaftigkeit"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "d6503",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Fahrzeuge instand halten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Motorisierte und nicht motorisierte Fahrzeuge für die persönliche Benutzung instand zu setzen und zu halten, einschließlich Fahrräder, Wagen, Autos und Boote"
+  ]
 }

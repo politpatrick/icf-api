@@ -1,7 +1,9 @@
 {
   "code": "b1101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kontinuität des Bewusstseins",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in Erhalt der Wachheit, Aufmerksamkeit und bewusster Wahrnehmung äußern und die bei einer Störung zu Dämmerzustand (Fugue), Trance oder ähnlichen Zuständen führen können"
+  ]
 }

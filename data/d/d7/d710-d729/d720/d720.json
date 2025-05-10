@@ -1,8 +1,6 @@
 {
   "code": "d720",
   "kind": "fourdigit",
-  "preferred": "Komplexe interpersonelle Interaktionen",
-  "definition": null,
   "children": [
     "d7200",
     "d7201",
@@ -11,5 +9,12 @@
     "d7204",
     "d7208",
     "d7209"
+  ],
+  "preferred": "Komplexe interpersonelle Interaktionen",
+  "coding-hints": [
+    "Die Interaktionen mit anderen in einer kontextuell und sozial angemessenen Weise aufrechtzuerhalten und zu handhaben, wie Gefühle und Impulse steuern, verbale und physische Aggressionen kontrollieren, bei sozialen Interaktionen unabhängig handeln und in Übereinstimmung mit sozialen Regeln und Konventionen handeln"
+  ],
+  "inclusions": [
+    "Beziehungen eingehen und beenden; Verhaltensweisen bei Interaktionen regulieren; sozialen Regeln gemäß interagieren und sozialen Abstand wahren"
   ]
 }

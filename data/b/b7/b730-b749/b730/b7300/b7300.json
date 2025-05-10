@@ -1,7 +1,12 @@
 {
   "code": "b7300",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kraft isolierter Muskeln oder von Muskelgruppen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit der Kontraktionskraft einzelner isolierter Muskeln oder Muskelgruppen stehen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Schwäche der kleinen Muskeln der Hände oder Füße"
+  ]
 }

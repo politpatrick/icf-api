@@ -1,12 +1,20 @@
 {
   "code": "b610",
   "kind": "fourdigit",
-  "preferred": "Harnbildungsfunktionen",
-  "definition": null,
   "children": [
     "b6100",
     "b6101",
     "b6108",
     "b6109"
+  ],
+  "preferred": "Harnbildungsfunktionen",
+  "coding-hints": [
+    "Funktionen, die die Filtration und Sammlung des Harns betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Filtration und Sammlung des Harns; Funktionsstörungen wie bei Niereninsuffizienz, Anurie, Oligourie, Hydronephrose, hypotone Harnblase, Verschluss eines Ureters"
+  ],
+  "exclusions": [
+    "Miktionsfunktionen"
   ]
 }

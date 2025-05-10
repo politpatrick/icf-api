@@ -1,7 +1,6 @@
 {
   "code": "d839",
   "kind": "fourdigit",
-  "preferred": "Bildung/Ausbildung, anders oder nicht näher bezeichnet",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Bildung/Ausbildung, anders oder nicht näher bezeichnet"
 }

@@ -1,8 +1,6 @@
 {
   "code": "s7500",
   "kind": "fivedigit",
-  "preferred": "Struktur des Oberschenkels",
-  "definition": null,
   "children": [
     "s75000",
     "s75001",
@@ -10,5 +8,6 @@
     "s75003",
     "s75008",
     "s75009"
-  ]
+  ],
+  "preferred": "Struktur des Oberschenkels"
 }

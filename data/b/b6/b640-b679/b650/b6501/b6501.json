@@ -1,7 +1,9 @@
 {
   "code": "b6501",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Menstruationsintervall",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Periode zwischen zwei Menstruationen"
+  ]
 }

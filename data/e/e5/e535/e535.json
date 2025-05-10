@@ -1,13 +1,18 @@
 {
   "code": "e535",
   "kind": "fourdigit",
-  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Kommunikationswesens",
-  "definition": null,
   "children": [
     "e5350",
     "e5351",
     "e5352",
     "e5358",
     "e5359"
+  ],
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Kommunikationswesens",
+  "coding-hints": [
+    "Dienste, öffentliche Einrichtungen und rechtliche Vorschriften für Übermittlung und Austausch von Informationen"
+  ],
+  "exclusions": [
+    "Dienste, Systeme und Handlungsgrundsätze des Medienwesens"
   ]
 }

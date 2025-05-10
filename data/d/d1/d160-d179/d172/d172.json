@@ -1,7 +1,12 @@
 {
   "code": "d172",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Rechnen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Berechnungen unter Anwendung mathematischer Prinzipien durchzuführen, um in Worten beschriebene Probleme zu lösen und die Ergebnisse zu produzieren oder darzustellen, wie die Summe aus drei Zahlen berechnen oder das Ergebnis der Division einer Zahl durch eine andere finden"
+  ],
+  "exclusions": [
+    "Rechnen lernen"
+  ]
 }

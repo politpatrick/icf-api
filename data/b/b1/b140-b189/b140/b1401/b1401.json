@@ -1,7 +1,9 @@
 {
   "code": "b1401",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Wechsel oder Lenkung der Aufmerksamkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die die Umlenkung der Konzentration von einem Reiz auf einen anderen zulassen"
+  ]
 }

@@ -1,7 +1,12 @@
 {
   "code": "b3301",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sprechrhythmus",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Modulation sowie das Geschwindigkeits- und Betonungsmuster beim Sprechen betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie stereotyper oder repetitiver Sprechrhythmus"
+  ]
 }

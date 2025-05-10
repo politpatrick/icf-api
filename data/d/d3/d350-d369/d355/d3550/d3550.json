@@ -1,7 +1,9 @@
 {
   "code": "d3550",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Diskussion mit einer Person",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mit einer Person eine Auseinandersetzung oder Debatte zu initiieren, aufrecht zu erhalten, zu gestalten und zu beenden"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "s260",
   "kind": "fourdigit",
-  "preferred": "Struktur des Innenohres",
-  "definition": null,
   "children": [
     "s2600",
     "s2601",
@@ -10,5 +8,6 @@
     "s2603",
     "s2608",
     "s2609"
-  ]
+  ],
+  "preferred": "Struktur des Innenohres"
 }

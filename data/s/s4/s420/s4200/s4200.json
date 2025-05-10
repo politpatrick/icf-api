@@ -1,7 +1,6 @@
 {
   "code": "s4200",
   "kind": "fivedigit",
-  "preferred": "Lymphgefäße",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Lymphgefäße"
 }

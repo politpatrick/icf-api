@@ -1,13 +1,21 @@
 {
   "code": "b144",
   "kind": "fourdigit",
-  "preferred": "Funktionen des Gedächtnisses",
-  "definition": null,
   "children": [
     "b1440",
     "b1441",
     "b1442",
     "b1448",
     "b1449"
+  ],
+  "preferred": "Funktionen des Gedächtnisses",
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die die adäquate Registrierung, die Speicherung und den Abruf von Informationen betreffen"
+  ],
+  "inclusions": [
+    "Funktionen, die Kurzzeitgedächtnis und Langzeitgedächtnis, Sofort-, Frisch- und Altgedächtnis, Gedächtnisspanne und Abrufen betreffen; Funktionen, die beim Wiedererkennen und Lernen benutzt werden, wie bei nominaler, selektiver und dissoziativer Amnesie"
+  ],
+  "exclusions": [
+    "Funktionen des Bewusstseins"
   ]
 }

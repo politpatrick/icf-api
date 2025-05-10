@@ -1,12 +1,11 @@
 {
   "code": "s6303",
   "kind": "fivedigit",
-  "preferred": "Struktur der Vagina und Vulva",
-  "definition": null,
   "children": [
     "s63030",
     "s63031",
     "s63032",
     "s63033"
-  ]
+  ],
+  "preferred": "Struktur der Vagina und Vulva"
 }

@@ -1,7 +1,12 @@
 {
   "code": "d465",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Sich unter Verwendung von Geräten/Ausrüstung fortbewegen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Seinen ganzen Körper unter Verwendung von speziellen Geräten, die zur Erleichterung der Mobilität entworfen sind, oder anderen Hilfsvorrichtungen der Fortbewegung auf beliebigen Oberflächen oder in beliebigen Umgebungen von einem Ort zu einem anderen fortzubewegen, wie mit Schlittschuhen, mit Skiern oder mit einer Ausrüstung zum Gerätetauchen, oder sich auf einer Straße mit einem Rollstuhl oder Gehwagen fortbewegen"
+  ],
+  "exclusions": [
+    "Sich verlagern"
+  ]
 }

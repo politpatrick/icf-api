@@ -1,7 +1,12 @@
 {
   "code": "d950",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Politisches Leben und Staatsbürgerschaft",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich als Bürger am sozialen, politischen und staatlichen Leben zu beteiligen, der den rechtlichen Status als Staatsbürger besitzt und die damit verbundenen Rechte, den Schutz, die Vorteile und Pflichten genießt, wie das Wahlrecht wahrnehmen, für ein politisches Amt kandidieren, politische Vereinigungen gründen; die Rechte und die Freiheit eines Staatsbürgers zu genießen (wie das Recht auf Meinungs-, Versammlungs- und Religionsfreiheit, Schutz vor unverhältnismäßiger oder unrechtmäßiger Verfolgung und Gefangennahme, das Recht auf Rechtsberatung und Verteidigung, auf ein Gerichtsverfahren sowie andere Rechte und Schutz vor Diskriminierung); den rechtlichen Status als Staatsbürger haben"
+  ],
+  "exclusions": [
+    "Menschenrechte"
+  ]
 }

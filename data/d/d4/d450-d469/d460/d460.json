@@ -1,13 +1,18 @@
 {
   "code": "d460",
   "kind": "fourdigit",
-  "preferred": "Sich in verschiedenen Umgebungen fortbewegen",
-  "definition": null,
   "children": [
     "d4600",
     "d4601",
     "d4602",
     "d4608",
     "d4609"
+  ],
+  "preferred": "Sich in verschiedenen Umgebungen fortbewegen",
+  "coding-hints": [
+    "In verschiedenen Orten und Situationen zu gehen und sich fortzubewegen, wie in einem Haus oder Gebäude von einem Raum in einen anderen gehen oder auf einer Straße einer Stadt gehen"
+  ],
+  "inclusions": [
+    "Sich in seiner Wohnung umherbewegen, in der Wohnung krabbeln oder (Treppen) steigen, in anderen Gebäuden als zu Hause bzw. außerhalb seiner Wohnung oder anderen Gebäuden gehen oder sich fortbewegen"
   ]
 }

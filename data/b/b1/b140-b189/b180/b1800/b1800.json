@@ -1,7 +1,12 @@
 {
   "code": "b1800",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Selbstwahrnehmung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die die bewusste Wahrnehmung der eigenen Identität und der eigenen Position in der eigenen realen Umwelt betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie bei Depersonalisation und Realitätsverlust"
+  ]
 }

@@ -1,13 +1,18 @@
 {
   "code": "e570",
   "kind": "fourdigit",
-  "preferred": "Dienste, Systeme und Handlungsgrundsätze der sozialen Sicherheit",
-  "definition": null,
   "children": [
     "e5700",
     "e5701",
     "e5702",
     "e5708",
     "e5709"
+  ],
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze der sozialen Sicherheit",
+  "coding-hints": [
+    "Dienste, Systeme und Handlungsgrundsätze für die finanzielle Unterstützung von Menschen, welche aufgrund von Alter, Armut, Arbeitslosigkeit, Gesundheitsproblemen oder Behinderung staatliche Unterstützung benötigen, die entweder durch Steueraufkommen oder Beitragssysteme finanziert wird"
+  ],
+  "exclusions": [
+    "Dienste, Systeme und Handlungsgrundsätze der Wirtschaft"
   ]
 }

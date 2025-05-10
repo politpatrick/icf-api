@@ -1,7 +1,9 @@
 {
   "code": "d7100",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Respekt und Wärme in Beziehungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In einer kontextuell und sozial angemessenen Weise Rücksichtnahme und Wertschätzung zu zeigen und darauf zu reagieren"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "d",
   "kind": "component",
-  "preferred": "Aktivitäten und Partizipation",
-  "definition": "Eine Aktivität ist die Durchführung einer Aufgabe oder einer Handlung (Aktion) durch einen Menschen.",
   "children": [
     "d1",
     "d2",
@@ -13,5 +11,12 @@
     "d7",
     "d8",
     "d9"
+  ],
+  "preferred": "Aktivitäten und Partizipation",
+  "definitions": [
+    "Eine Aktivität ist die Durchführung einer Aufgabe oder einer Handlung (Aktion) durch einen Menschen.",
+    "Partizipation [Teilhabe] ist das Einbezogensein in eine Lebenssituation.",
+    "Eine Beeinträchtigung der Aktivität ist eine Schwierigkeit oder die Unmöglichkeit, die ein Mensch haben kann, die Aktivität durchzuführen.",
+    "Eine Beeinträchtigung der Partizipation [Teilhabe] ist ein Problem, das ein Mensch in Hinblick auf sein Einbezogensein in Lebenssituationen erleben kann."
   ]
 }

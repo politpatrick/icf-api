@@ -1,8 +1,6 @@
 {
   "code": "d660",
   "kind": "fourdigit",
-  "preferred": "Anderen helfen",
-  "definition": null,
   "children": [
     "d6600",
     "d6601",
@@ -12,5 +10,15 @@
     "d6605",
     "d6608",
     "d6609"
+  ],
+  "preferred": "Anderen helfen",
+  "coding-hints": [
+    "Haushaltsmitgliedern und anderen beim Lernen, Kommunizieren, der Selbstversorgung, der (Fort-)Bewegung innerhalb und außerhalb des Hauses zu helfen; sich dem Wohlbefinden der Haushaltsmitglieder und anderer widmen"
+  ],
+  "inclusions": [
+    "Anderen bei der Selbstversorgung, der (Fort)Bewegung, Kommunikation, den interpersonellen Beziehungen, der Ernährung und der Erhaltung der Gesundheit helfen"
+  ],
+  "exclusions": [
+    "Bezahlte Tätigkeit"
   ]
 }

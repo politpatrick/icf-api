@@ -1,7 +1,15 @@
 {
   "code": "b220",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Mit dem Auge und angrenzenden Strukturen verbundene Empfindungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfindungen von Augenermüdung, von trockenen, juckenden Augen oder ähnliche Gefühle"
+  ],
+  "inclusions": [
+    "Empfindungen von Druck hinter dem Auge, Fremdkörpergefühl, Überanstrengung der Augen, Augenbrennen oder Augenreizung"
+  ],
+  "exclusions": [
+    "Schmerz"
+  ]
 }

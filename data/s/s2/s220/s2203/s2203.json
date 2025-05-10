@@ -1,7 +1,6 @@
 {
   "code": "s2203",
   "kind": "fivedigit",
-  "preferred": "Netzhaut (Retina)",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Netzhaut (Retina)"
 }

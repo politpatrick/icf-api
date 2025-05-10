@@ -1,7 +1,9 @@
 {
   "code": "b6401",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen der Vorspielphase",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Vorbereitung des Geschlechtsverkehrs betreffen"
+  ]
 }

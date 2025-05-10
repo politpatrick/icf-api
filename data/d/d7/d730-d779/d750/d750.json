@@ -1,8 +1,6 @@
 {
   "code": "d750",
   "kind": "fourdigit",
-  "preferred": "Informelle soziale Beziehungen",
-  "definition": null,
   "children": [
     "d7500",
     "d7501",
@@ -11,5 +9,12 @@
     "d7504",
     "d7508",
     "d7509"
+  ],
+  "preferred": "Informelle soziale Beziehungen",
+  "coding-hints": [
+    "Mit anderen Kontakte aufzunehmen, wie bei gelegentlichen Beziehungen mit Leuten, die in derselben Gemeinschaft oder am selben Wohnsitz leben, oder mit Mitarbeitern, Schülern und Studenten, Spielkameraden oder mit Menschen ähnlichen Hintergrundes oder Berufs"
+  ],
+  "inclusions": [
+    "Informelle Beziehungen zu Freunden, Nachbarn, Bekannten, Mitbewohnern und Seinesgleichen (Peers)"
   ]
 }

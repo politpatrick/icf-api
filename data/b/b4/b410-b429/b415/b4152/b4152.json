@@ -1,7 +1,12 @@
 {
   "code": "b4152",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen der Venen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen bezüglich des Blutflusses in den Venen und Funktionen der Venenklappen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Venendilatation; Venenstenosen; Venenklappeninsuffizienz wie bei Varikosis"
+  ]
 }

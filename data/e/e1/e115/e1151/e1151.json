@@ -1,7 +1,9 @@
 {
   "code": "e1151",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Hilfsprodukte und unterstützende Technologien für den persönlichen Gebrauch im täglichen Leben",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Angepasste oder speziell entworfene Ausrüstungsgegenstände, Produkte und Technologien, die Menschen im täglichen Leben helfen, wie Prothesen und Orthesen, Neuroprothesen (z.B. Geräte zur funktionalen Stimulation, die Darm, Blase, Atmung und Herzfrequenz steuern) sowie Umfeldkontrollgeräte, die es dem Individuum erleichtern, seine häusliche Umgebung zu kontrollieren (Abtastverfahren (Scanning), Fernbedienungen, sprachgesteuerte Systeme, Zeitschaltuhren)"
+  ]
 }

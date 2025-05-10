@@ -1,7 +1,9 @@
 {
   "code": "d7700",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Liebesbeziehungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Beziehungen auf der Grundlage emotionaler und physischer Anziehung, die zu längerfristigen engen Beziehungen führen können, aufzubauen und aufrecht zu erhalten"
+  ]
 }

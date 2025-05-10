@@ -1,7 +1,9 @@
 {
   "code": "b5103",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handhabung von Speisen im Mund",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Bewegung von Speisen mit Zähnen und Zunge im Mund betreffen"
+  ]
 }

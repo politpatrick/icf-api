@@ -1,7 +1,9 @@
 {
   "code": "d5100",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Körperteile waschen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Zur Reinigung seiner Körperteile, wie Hände, Gesicht, Füße, Haare oder Nägel, Wasser, Seife und andere Substanzen zu verwenden"
+  ]
 }

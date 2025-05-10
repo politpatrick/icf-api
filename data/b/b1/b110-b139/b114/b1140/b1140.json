@@ -1,7 +1,9 @@
 {
   "code": "b1140",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Orientierung zur Zeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich im bewussten Gewahrsein von Wochentag, Datum, Tag,. Monat und Jahr äußern"
+  ]
 }

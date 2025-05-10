@@ -1,7 +1,12 @@
 {
   "code": "d4106",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Seinen Körperschwerpunkt verlagern",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Während des Sitzens, Stehens oder Liegens sein Körpergewicht von einer Position zu einer anderen zu verlagern oder zu bewegen, wie während des Stehens sein Standbein wechseln"
+  ],
+  "exclusions": [
+    "Sich verlagern"
+  ]
 }

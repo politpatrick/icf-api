@@ -1,7 +1,9 @@
 {
   "code": "d9301",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Spiritualität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich außerhalb organisierter Religion an spirituellen Aktivitäten oder Ereignissen zu beteiligen"
+  ]
 }

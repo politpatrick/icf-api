@@ -1,7 +1,9 @@
 {
   "code": "b7801",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Empfindung von Muskelspasmus",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfindung einer unwillkürlichen Kontraktion von Muskeln oder Muskelgruppen"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "b435",
   "kind": "fourdigit",
-  "preferred": "Funktionen des Immunsystems",
-  "definition": null,
   "children": [
     "b4350",
     "b4351",
@@ -10,5 +8,15 @@
     "b4353",
     "b4358",
     "b4359"
+  ],
+  "preferred": "Funktionen des Immunsystems",
+  "coding-hints": [
+    "Schutzfunktionen des Körpers mittels spezifischer oder unspezifischer Immunantwort gegen Fremdsubstanzen, einschließlich Infektionen"
+  ],
+  "inclusions": [
+    "Immunantwort (spezifisch und unspezifisch); Hypersensitivität; Funktionen der Lymphknoten und -gefäße; Funktionen der zellulären und nicht-zellulären Immunität; Reaktion auf Immunisierung; Funktionsstörungen wie Autoimmunität; allergische Reaktionen; Lymphadenitis; Lymphödem"
+  ],
+  "exclusions": [
+    "Funktionen des hämatologischen Systems"
   ]
 }

@@ -1,13 +1,18 @@
 {
   "code": "e545",
   "kind": "fourdigit",
-  "preferred": "Dienste, Systeme und Handlungsgrundsätze für zivilen Schutz und Sicherheit",
-  "definition": null,
   "children": [
     "e5450",
     "e5451",
     "e5452",
     "e5458",
     "e5459"
+  ],
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze für zivilen Schutz und Sicherheit",
+  "coding-hints": [
+    "Dienste, öffentliche Einrichtungen und rechtliche Vorschriften zum Schutz von Person und Besitz"
+  ],
+  "exclusions": [
+    "Dienste, Systeme und Handlungsgrundsätze des Versorgungswesens"
   ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "e5900",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste des Arbeits- und Beschäftigungswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme von kommunalen, regionalen oder staatlichen Verwaltungen oder von privaten Organisationen zur Vermittlung passender Arbeit für Personen, die arbeitslos sind oder den Arbeitsplatz wechseln wollen, oder zur Unterstützung von Arbeitnehmern, wie Einrichtungen für die Arbeitssuche und -vorbereitung, für die Wiederbeschäftigung, Stellenvermittlung, Berufsberatung, berufsbezogene Nachfolgesuche, berufliche Gesundheits- und Sicherheitsdienste, Arbeitsplatzgestaltung (z.B. Ergonomie, Personalmanagement, Betriebsrat und ähnliche Einrichtungen, Berufsverbände), einschließlich derer, die diese Dienstleistungen und Programme zur Verfügung stellen"
+  ]
 }

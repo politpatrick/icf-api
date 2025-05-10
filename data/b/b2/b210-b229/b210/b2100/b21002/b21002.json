@@ -1,7 +1,9 @@
 {
   "code": "b21002",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Sehschärfe im Nahbereich bei beidäugigem (binokularem) Sehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sehfunktionen, die die Wahrnehmung von Größe, Form und Kontur eines nahen Objektes mit beiden Augen betreffen"
+  ]
 }

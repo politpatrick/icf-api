@@ -1,7 +1,12 @@
 {
   "code": "b2101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Das Gesichtsfeld betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sehfunktionen, die sich auf den gesamten Bereich, der mit fixiertem Blick gesehen werden kann, beziehen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Gesichtsfeldausfall, Tunnelblick, Anopsien"
+  ]
 }

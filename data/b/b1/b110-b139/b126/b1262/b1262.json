@@ -1,7 +1,9 @@
 {
   "code": "b1262",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Gewissenhaftigkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einer Persönlichkeit äußern, die durch Fleiß, Genauigkeit und Sorgfalt gekennzeichnet ist, im Gegensatz zu Faulheit, Unzuverlässigkeit und Verantwortungslosigkeit"
+  ]
 }

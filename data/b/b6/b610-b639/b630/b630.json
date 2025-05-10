@@ -1,7 +1,15 @@
 {
   "code": "b630",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Mit der Harnbildung und -ausscheidung verbundene Empfindungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfindungen, die durch die Entleerung und durch entsprechende Funktionen hervorgerufen werden"
+  ],
+  "inclusions": [
+    "Gefühl der unvollständigen Blasenentleerung, Gefühl der Blasenfüllung"
+  ],
+  "exclusions": [
+    "Schmerz"
+  ]
 }

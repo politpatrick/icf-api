@@ -1,7 +1,9 @@
 {
   "code": "b28012",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Magen- oder Bauchschmerz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfinden eines unangenehmen Gefühls, das mögliche oder tatsächliche Schäden einer Körperstruktur anzeigt, in Magen oder Bauch"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "b270",
   "kind": "fourdigit",
-  "preferred": "Sinnesfunktionen bezüglich Temperatur und anderer Reize",
-  "definition": null,
   "children": [
     "b2700",
     "b2701",
@@ -10,5 +8,15 @@
     "b2703",
     "b2708",
     "b2709"
+  ],
+  "preferred": "Sinnesfunktionen bezüglich Temperatur und anderer Reize",
+  "coding-hints": [
+    "Sinnesfunktionen, die die Wahrnehmung von Temperatur, Vibration, Druck und schädigenden Reizen betreffen"
+  ],
+  "inclusions": [
+    "Funktionen, die das Empfinden von Temperatur, Vibration, Erschütterung oder Schwingungen, oberflächlichem Druck, tiefem Druck, Brennen oder schädlichen Reizen betreffen"
+  ],
+  "exclusions": [
+    "Funktionen des Tastens (Tastsinn)"
   ]
 }

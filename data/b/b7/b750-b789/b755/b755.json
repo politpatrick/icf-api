@@ -1,7 +1,15 @@
 {
   "code": "b755",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Funktionen der unwillkürlichen Bewegungsreaktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die unwillkürliche Kontraktionen großer Muskeln oder des ganzen Körpers, ausgelöst durch Körperhaltung, Gleichgewichts- und Schreckreaktionen, betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Reaktionen auf Lagewechsel, Aufrichtung, Körper-Anpassung sowie der Gleichgewichtsreaktionen, Stützreaktionen, Abwehrreaktionen"
+  ],
+  "exclusions": [
+    "Funktionen der motorischen Reflexe"
+  ]
 }

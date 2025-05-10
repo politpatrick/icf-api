@@ -1,7 +1,9 @@
 {
   "code": "b1471",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Qualität der psychomotorischen Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einer angemessenen Abfolge und Art der Teilkomponenten nicht-verbalen Verhaltens äußern, wie Augen- und Handkoordination oder Gang"
+  ]
 }

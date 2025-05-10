@@ -1,7 +1,12 @@
 {
   "code": "d940",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Menschenrechte",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die nationalen und internationalen anerkannten Rechte zu genießen, die Menschen allein aufgrund ihres Menschseins gewährt werden, wie die Menschenrechte der Menschenrechtsdeklaration der Vereinten Nation (1948) und die Rahmenbestimmungen für die Herstellung von Chancengleichheit von Personen mit Behinderungen (1993); das Recht auf Selbstbestimmung und Autonomie sowie das Recht, über sein Schicksal selbst zu bestimmen"
+  ],
+  "exclusions": [
+    "Politisches Leben und Staatsbürgerschaft"
+  ]
 }

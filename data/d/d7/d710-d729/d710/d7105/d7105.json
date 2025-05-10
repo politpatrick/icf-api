@@ -1,7 +1,9 @@
 {
   "code": "d7105",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Körperlicher Kontakt in Beziehungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In einer kontextuell und sozial angemessenen Weise mit anderen körperlichen Kontakt aufzunehmen und darauf zu reagieren"
+  ]
 }

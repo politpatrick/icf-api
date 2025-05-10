@@ -1,12 +1,20 @@
 {
   "code": "b310",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Stimme",
-  "definition": null,
   "children": [
     "b3100",
     "b3101",
     "b3108",
     "b3109"
+  ],
+  "preferred": "Funktionen der Stimme",
+  "coding-hints": [
+    "Funktionen, die die Bildung verschiedener Laute während der Luftpassage durch den Kehlkopf betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Stimmerzeugung und -qualität; Funktionen der Phonation, der Tonhöhe, der Lautstärke und anderer Stimmqualitäten; Funktionsstörungen wie bei Aphonie, Dysphonie, Heiserkeit, Hypernasalität, Hyponasalität"
+  ],
+  "exclusions": [
+    "Kognitiv-sprachliche Funktionen"
   ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "d3602",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kommunikationsmethoden benutzen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Handlungen und Aufgaben, die bei Techniken der Kommunikation wie Lippenlesen beteiligt sind, verwenden"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "d2",
   "kind": "chapter",
-  "preferred": "Allgemeine Aufgaben und Anforderungen",
-  "definition": null,
   "children": [
     "d210",
     "d220",
@@ -10,5 +8,9 @@
     "d240",
     "d298",
     "d299"
+  ],
+  "preferred": "Allgemeine Aufgaben und Anforderungen",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit allgemeinen Aspekten der Ausführung von Einzel- und Mehrfachaufgaben, der Organisation von Routinen und dem Umgang mit Stress. Diese können in Verbindung mit spezifischeren Aufgaben und Handlungen verwendet werden, um die zugrunde liegenden Merkmale der Ausführung von Aufgaben unter verschiedenen Bedingungen zu ermitteln."
   ]
 }

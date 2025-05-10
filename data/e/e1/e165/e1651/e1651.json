@@ -1,7 +1,9 @@
 {
   "code": "e1651",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Materielle Mittel",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Produkte und Gegenstände wie Häuser und Land, Kleidung, Lebensmittel und technische Güter, die als Tauschmittel für Arbeit, Kapitalgüter und Dienstleistungen dienen"
+  ]
 }

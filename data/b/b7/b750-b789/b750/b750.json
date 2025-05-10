@@ -1,13 +1,18 @@
 {
   "code": "b750",
   "kind": "fourdigit",
-  "preferred": "Funktionen der motorischen Reflexe",
-  "definition": null,
   "children": [
     "b7500",
     "b7501",
     "b7502",
     "b7508",
     "b7509"
+  ],
+  "preferred": "Funktionen der motorischen Reflexe",
+  "coding-hints": [
+    "Funktionen, die unwillkürliche Muskelkontraktionen, ausgelöst durch spezifische Stimuli, betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Streckreflexe, der automatischen lokalen Reflexe, der Reflexe durch schädigende Stimuli und andere exterozeptive Stimuli; Schutzreflexe, Bizepssehnenreflex, Radius-Periost-Reflex, Quadrizepsreflex, Patellarsehnenreflex, Achillessehnenreflex"
   ]
 }

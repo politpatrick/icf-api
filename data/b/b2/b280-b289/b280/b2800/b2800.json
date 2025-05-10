@@ -1,7 +1,9 @@
 {
   "code": "b2800",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Generalisierter Schmerz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfinden eines unangenehmen Gefühls, das mögliche oder tatsächliche Schäden einer Körperstruktur anzeigt, am oder im gesamten Körper"
+  ]
 }

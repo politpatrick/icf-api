@@ -1,7 +1,9 @@
 {
   "code": "e2450",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Tag/Nacht-Zyklen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Natürliche, regelmäßige oder vorhersagbare Veränderungen vom Tag zur Nacht und wieder zum Tag, wie Tag, Nacht, Morgen- und Abenddämmerung"
+  ]
 }

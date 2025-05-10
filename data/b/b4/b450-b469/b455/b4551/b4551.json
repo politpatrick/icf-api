@@ -1,7 +1,9 @@
 {
   "code": "b4551",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Aerobe Kapazität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Belastungsgrenze des aeroben Stoffwechsels betreffen"
+  ]
 }

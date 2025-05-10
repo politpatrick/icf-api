@@ -1,8 +1,6 @@
 {
   "code": "s220",
   "kind": "fourdigit",
-  "preferred": "Struktur des Augapfels (Bulbus)",
-  "definition": null,
   "children": [
     "s2200",
     "s2201",
@@ -12,5 +10,6 @@
     "s2205",
     "s2208",
     "s2209"
-  ]
+  ],
+  "preferred": "Struktur des Augapfels (Bulbus)"
 }

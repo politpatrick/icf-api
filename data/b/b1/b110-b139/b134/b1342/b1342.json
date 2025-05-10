@@ -1,7 +1,9 @@
 {
   "code": "b1342",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Aufrechterhaltung des Schlafes",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich im Durchschlafvermögen äußern"
+  ]
 }

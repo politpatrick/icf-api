@@ -1,7 +1,9 @@
 {
   "code": "d8700",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Persönliche wirtschaftliche Ressourcen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die Verfügungsgewalt über persönliche oder private wirtschaftliche Ressourcen zu haben, um die wirtschaftliche Sicherheit für den gegenwärtigen und zukünftigen Bedarf zu gewährleisten"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b1643",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kognitive Flexibilität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die das Ändern von Strategien oder Denkansätzen betreffen, insbesondere beim Problemlösen"
+  ]
 }

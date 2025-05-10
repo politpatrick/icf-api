@@ -1,7 +1,9 @@
 {
   "code": "b1100",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Bewusstseinszustand",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich bei Veränderung als Zustände wie Bewusstseinstrübung, Stupor oder Koma äußern"
+  ]
 }

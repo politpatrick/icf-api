@@ -1,8 +1,6 @@
 {
   "code": "d350",
   "kind": "fourdigit",
-  "preferred": "Konversation",
-  "definition": null,
   "children": [
     "d3500",
     "d3501",
@@ -11,5 +9,12 @@
     "d3504",
     "d3508",
     "d3509"
+  ],
+  "preferred": "Konversation",
+  "coding-hints": [
+    "Einen Gedanken- und Ideenaustausch in mündlicher oder schriftlicher Form, in Gebärdensprache oder auf anderer sprachlicher Weise zu beginnen, aufrecht zu erhalten und zu beenden, mit einer oder mehreren Personen, Bekannten oder Fremden, in formeller oder informeller Form"
+  ],
+  "inclusions": [
+    "Eine Konversation beginnen, aufrecht erhalten und beenden; sich mit einer oder vielen Personen unterhalten"
   ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "e2401",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Lichtqualität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die Art des zur Verfügung stehenden Lichtes und die entsprechenden, in der sichtbaren Umgebung entstehenden Farbkontraste, die nützliche Informationen (z.B. visuelle Informationen über das Vorhandensein von Treppen oder einer Tür) oder verwirrende Informationen (z.B. zu viele visuelle Bilder) über die Welt liefern können"
+  ]
 }

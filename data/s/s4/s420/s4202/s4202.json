@@ -1,7 +1,6 @@
 {
   "code": "s4202",
   "kind": "fivedigit",
-  "preferred": "Thymus",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Thymus"
 }

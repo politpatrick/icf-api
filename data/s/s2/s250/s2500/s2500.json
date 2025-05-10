@@ -1,7 +1,6 @@
 {
   "code": "s2500",
   "kind": "fivedigit",
-  "preferred": "Trommelfell (Membrana tympani)",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Trommelfell (Membrana tympani)"
 }

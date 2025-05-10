@@ -1,7 +1,12 @@
 {
   "code": "e5401",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme des Transportwesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- oder Überwachungsmechanismen, die die Beförderung von Personen oder Gütern auf Straßen, Wegen, Schienen, in der Luft oder auf dem Wasser regeln, wie Einrichtungen, die Berechtigung für das Führen eines Fahrzeuges festlegen, und die Umsetzung und Überwachung von Gesundheits- und Sicherheitsstandards für die Benutzung der verschieden Arten von Transportmitteln überwachen"
+  ],
+  "exclusions": [
+    "Dienste, Systeme und Handlungsgrundsätze der sozialen Sicherheit"
+  ]
 }

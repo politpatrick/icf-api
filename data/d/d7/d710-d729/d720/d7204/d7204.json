@@ -1,7 +1,9 @@
 {
   "code": "d7204",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sozialen Abstand wahren",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In einer kontextuell, sozial und kulturell angemessenen Weise sich über den Abstand zwischen sich und anderen bewusst zu sein und diesen zu wahren"
+  ]
 }

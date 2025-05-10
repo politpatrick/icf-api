@@ -1,7 +1,12 @@
 {
   "code": "b28016",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Gelenkschmerz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfinden eines unangenehmen Gefühls, das mögliche oder tatsächliche Schäden einer Körperstruktur anzeigt, in einem oder mehreren Gelenken einschließlich kleiner und großer"
+  ],
+  "inclusions": [
+    "Hüftschmerz; Schulterschmerz"
+  ]
 }

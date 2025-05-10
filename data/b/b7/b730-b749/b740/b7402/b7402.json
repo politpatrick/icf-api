@@ -1,7 +1,12 @@
 {
   "code": "b7402",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Ausdauer aller Muskeln des Körpers",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit der Aufrechterhaltung der Kontraktion aller Muskeln über einen geforderten Zeitraum stehen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie bei Tetraparese, Tetraplegie, generalisierter Parese und Paralyse"
+  ]
 }

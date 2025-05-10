@@ -1,12 +1,20 @@
 {
   "code": "d420",
   "kind": "fourdigit",
-  "preferred": "Sich verlagern",
-  "definition": null,
   "children": [
     "d4200",
     "d4201",
     "d4208",
     "d4209"
+  ],
+  "preferred": "Sich verlagern",
+  "coding-hints": [
+    "Sich von einer Oberfläche auf eine andere zu bewegen, wie auf einer Bank entlang gleiten oder sich ohne Änderung der Körperposition aus dem Bett auf einen Stuhl bewegen"
+  ],
+  "inclusions": [
+    "Sich während des Sitzens oder Liegens verlagern"
+  ],
+  "exclusions": [
+    "Eine elementare Körperposition wechseln"
   ]
 }

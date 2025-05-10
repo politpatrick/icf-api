@@ -1,12 +1,17 @@
 {
   "code": "e130",
   "kind": "fourdigit",
-  "preferred": "Produkte und Technologien für Bildung/Ausbildung",
-  "definition": null,
   "children": [
     "e1300",
     "e1301",
     "e1308",
     "e1309"
+  ],
+  "preferred": "Produkte und Technologien für Bildung/Ausbildung",
+  "coding-hints": [
+    "Von Menschen für den Erwerb von Wissen, Fachwissen oder Fertigkeiten benutzte Ausrüstungsgegenstände, Produkte, Verfahren, Methoden und Technologien, einschließlich solcher, die angepasst oder speziell entworfen sind"
+  ],
+  "inclusions": [
+    "Allgemeine Produkte und unterstützende Technologien für Bildung/ Ausbildung"
   ]
 }

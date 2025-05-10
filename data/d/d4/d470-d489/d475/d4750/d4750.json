@@ -1,7 +1,9 @@
 {
   "code": "d4750",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Ein von Menschenkraft betriebenes Fahrzeug fahren",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Ein von Menschenkraft betriebenes Fahrzeug zu fahren, wie ein Fahrrad, Dreirad oder Ruderboot"
+  ]
 }

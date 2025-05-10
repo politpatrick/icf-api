@@ -1,7 +1,6 @@
 {
   "code": "s11001",
   "kind": "sixdigit",
-  "preferred": "Schläfenlappen (Temporallappen)",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Schläfenlappen (Temporallappen)"
 }

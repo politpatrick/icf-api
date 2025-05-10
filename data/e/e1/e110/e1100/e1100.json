@@ -1,7 +1,9 @@
 {
   "code": "e1100",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Lebensmittel",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Alle natürlichen oder vom Menschen hergestellten Produkte oder Substanzen, zum Zweck des Verzehrs gesammelt, verarbeitet oder hergestellt, wie rohe, bearbeitete oder vorbereitete Speisen und Getränke unterschiedlicher Konsistenz, Kräuter und Mineralien (Vitamine und andere Nahrungsergänzungsstoffe)"
+  ]
 }

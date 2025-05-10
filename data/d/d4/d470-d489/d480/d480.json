@@ -1,7 +1,12 @@
 {
   "code": "d480",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Tiere zu Transportzwecken reiten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich auf dem Rücken eines Tieres fortzubewegen, wie auf einem Pferd, Ochsen, Kamel oder Elefanten"
+  ],
+  "exclusions": [
+    "Ein Fahrzeug fahren"
+  ]
 }

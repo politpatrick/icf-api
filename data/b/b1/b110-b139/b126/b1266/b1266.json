@@ -1,7 +1,9 @@
 {
   "code": "b1266",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Selbstvertrauen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einer Persönlichkeit äußern, die durch Selbstsicherheit, Mut und Durchsetzungsvermögen gekennzeichnet ist, im Gegensatz zu Zaghaftigkeit, Unsicherheit und Zurückhaltung"
+  ]
 }

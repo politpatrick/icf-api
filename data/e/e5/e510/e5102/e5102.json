@@ -1,7 +1,9 @@
 {
   "code": "e5102",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze für die Konsumgüterproduktion",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards für die Sammlung, Schaffung, Produktion und Herstellung von Konsumgütern und Produkten, wie Entscheidungen darüber, welche Standards zu übernehmen sind"
+  ]
 }

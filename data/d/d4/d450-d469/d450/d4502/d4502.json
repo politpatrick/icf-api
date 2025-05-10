@@ -1,7 +1,9 @@
 {
   "code": "d4502",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Auf unterschiedlichen Oberflächen gehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Auf ansteigenden oder abfallenden, unebenen oder sich bewegenden Oberflächen zu gehen, wie auf Gras, Kies, Eis oder Schnee gehen, oder auf einem Schiff, in einem Zug oder einem anderen Fahrzeug gehen"
+  ]
 }

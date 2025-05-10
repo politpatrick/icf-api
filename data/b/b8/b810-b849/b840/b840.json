@@ -1,7 +1,15 @@
 {
   "code": "b840",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Auf die Haut bezogene Empfindungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfindungen im Zusammenhang mit der Haut, wie Juckreiz, brennende und stechende Empfindungen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Kribbelgefühl und \"Ameisenlaufen\""
+  ],
+  "exclusions": [
+    "Schmerz"
+  ]
 }

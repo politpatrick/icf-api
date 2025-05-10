@@ -1,7 +1,9 @@
 {
   "code": "b1341",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Schlafbeginn",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einem Übergang zwischen Wachheit und Schlaf äußern"
+  ]
 }

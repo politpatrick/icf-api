@@ -1,7 +1,9 @@
 {
   "code": "d330",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Sprechen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Wörter, Wendungen oder längere Passagen in mündlichen Mitteilungen mit wörtlicher und übertragener Bedeutung zu äußern, wie in gesprochener Sprache eine Tatsache ausdrücken oder eine Geschichte erzählen"
+  ]
 }

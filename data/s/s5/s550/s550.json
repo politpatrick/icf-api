@@ -1,7 +1,6 @@
 {
   "code": "s550",
   "kind": "fourdigit",
-  "preferred": "Struktur der Bauchspeicheldrüse",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Struktur der Bauchspeicheldrüse"
 }

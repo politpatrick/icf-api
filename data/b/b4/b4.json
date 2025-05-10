@@ -1,8 +1,6 @@
 {
   "code": "b4",
   "kind": "chapter",
-  "preferred": "Funktionen des kardiovaskulären, hämatologischen, Immun- und Atmungssystems",
-  "definition": null,
   "children": [
     "b410-b429",
     "b430-b439",
@@ -10,5 +8,9 @@
     "b450-b469",
     "b498",
     "b499"
+  ],
+  "preferred": "Funktionen des kardiovaskulären, hämatologischen, Immun- und Atmungssystems",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit Funktionen, die am kardiovaskulären System (Funktionen des Herzens und der Blutgefäße), am hämatologischen und Immunsystem (Funktionen der Blutbildung und der Immunität) und am Atmungssystem (Funktionen des Atmens und Funktionen der kardiorespiratorischen Belastbarkeit) beteiligt sind."
   ]
 }

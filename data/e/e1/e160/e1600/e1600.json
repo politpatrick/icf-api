@@ -1,7 +1,9 @@
 {
   "code": "e1600",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Produkte und Technologien der ländlichen Flächenentwicklung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Produkte und Technologien in ländlichen Außengebieten, soweit sie sich auf die äußere Umgebung eines Individuums durch Umsetzung von ländlicher Flächennutzungspolitik sowie der Raumplanung und -entwicklung auswirken, wie landwirtschaftliche Flächen, Wege und Wegweiser"
+  ]
 }

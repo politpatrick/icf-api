@@ -1,7 +1,9 @@
 {
   "code": "b1261",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Umgänglichkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einer Persönlichkeit äußern, die durch Kooperationsbereitschaft, Freundschaftlichkeit und Zuvorkommenheit gekennzeichnet ist, im Gegensatz zu Unfreundlichkeit, Streitbarkeit und Aufsässigkeit"
+  ]
 }

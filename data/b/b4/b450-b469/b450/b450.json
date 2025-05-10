@@ -1,7 +1,12 @@
 {
   "code": "b450",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Weitere Atmungsfunktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Weitere Funktionen, die die Atmung betreffen, wie Husten, Niesen und Gähnen"
+  ],
+  "inclusions": [
+    "Funktionen, die Keuchen, Giemen und Mundatmung betreffen"
+  ]
 }

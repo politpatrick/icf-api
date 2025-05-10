@@ -1,7 +1,6 @@
 {
   "code": "s7702",
   "kind": "fivedigit",
-  "preferred": "Muskeln",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Muskeln"
 }

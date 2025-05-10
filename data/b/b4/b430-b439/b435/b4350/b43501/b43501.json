@@ -1,7 +1,9 @@
 {
   "code": "b43501",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Unspezifische Immunantwort",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen der allgemeinen Körperreaktionen, die die Sensibilisierung gegenüber Fremdsubstanzen einschließlich Infektionen betreffen"
+  ]
 }

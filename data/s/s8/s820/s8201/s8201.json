@@ -1,7 +1,6 @@
 {
   "code": "s8201",
   "kind": "fivedigit",
-  "preferred": "Talgdrüsen",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Talgdrüsen"
 }

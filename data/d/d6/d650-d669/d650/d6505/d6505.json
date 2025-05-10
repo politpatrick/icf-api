@@ -1,7 +1,9 @@
 {
   "code": "d6505",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Innen- und Außenpflanzen pflegen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Pflanzen innerhalb und außerhalb des Hauses zu pflegen, wie Pflanzen anpflanzen, gießen und düngen, Gartenarbeit machen sowie Nutzpflanzen für den persönlichen Bedarf anpflanzen"
+  ]
 }

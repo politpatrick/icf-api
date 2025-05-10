@@ -1,7 +1,12 @@
 {
   "code": "e335",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Untergebene",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Personen, deren tägliches Leben bei der Arbeit, in der Schule oder in anderen Bereichen durch Autoritätspersonen beeinflusst wird, wie Schüler, Studenten, Arbeiter und Mitglieder religiöser Gruppen"
+  ],
+  "exclusions": [
+    "Engster Familienkreis"
+  ]
 }

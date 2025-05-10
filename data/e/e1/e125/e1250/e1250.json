@@ -1,7 +1,9 @@
 {
   "code": "e1250",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Allgemeine Produkte und Technologien für die Kommunikation",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Von Menschen für ihre Aktivitäten des Sendens und Empfangens von Informationen benutzte Ausrüstungsgegenstände, Produkte und Technologien wie optische und akustische Geräte, Tonaufnahme- und Empfangsgeräte, Fernseh- und Videogeräte, Telefongeräte und Zubehör, Tonübertragungssysteme, Verständigungshilfen bei Nahkommunikation, weder angepasst noch speziell entworfen"
+  ]
 }

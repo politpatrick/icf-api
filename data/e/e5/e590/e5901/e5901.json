@@ -1,7 +1,9 @@
 {
   "code": "e5901",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme des Arbeits- und Beschäftigungswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- und Überwachungsmechanismen, die die Vergabe von Arbeitsplätzen und anderen Arten entlohnter Arbeit in der Wirtschaft regeln, wie Systeme für die Umsetzung von Handlungsgrundsätzen und Standards für die Schaffung von Arbeitsplätzen, Arbeitsschutz, geschützte und freie Beschäftigung, Arbeitsstandards und –recht sowie Gewerkschaften"
+  ]
 }

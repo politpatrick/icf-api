@@ -1,8 +1,6 @@
 {
   "code": "s230",
   "kind": "fourdigit",
-  "preferred": "Strukturen um das Auge herum",
-  "definition": null,
   "children": [
     "s2300",
     "s2301",
@@ -10,5 +8,6 @@
     "s2303",
     "s2308",
     "s2309"
-  ]
+  ],
+  "preferred": "Strukturen um das Auge herum"
 }

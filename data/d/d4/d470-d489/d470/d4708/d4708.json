@@ -1,7 +1,6 @@
 {
   "code": "d4708",
   "kind": "fivedigit",
-  "preferred": "Transportmittel benutzen, anders bezeichnet",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Transportmittel benutzen, anders bezeichnet"
 }

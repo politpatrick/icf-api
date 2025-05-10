@@ -1,13 +1,21 @@
 {
   "code": "b545",
   "kind": "fourdigit",
-  "preferred": "Funktionen des Wasser-, Mineral- und Elektrolythaushaltes",
-  "definition": null,
   "children": [
     "b5450",
     "b5451",
     "b5452",
     "b5458",
     "b5459"
+  ],
+  "preferred": "Funktionen des Wasser-, Mineral- und Elektrolythaushaltes",
+  "coding-hints": [
+    "Funktionen, die die Regulation von Wasser, Mineralien und Elektrolyten im Körper betreffen"
+  ],
+  "inclusions": [
+    "Funktionen des Wasserhaushaltes, Haushalt der Mineralien wie Kalzium, Zink, Eisen, und Haushalt der Elektrolyte wie Natrium und Kalium; Funktionsstörungen wie Wasserretention, Dehydratation, Hyperkalzämie, Hypokalzämie, Eisenmangel, Hypernatriämie, Hyponatriämie, Hyperkaliämie und Hypokaliämie"
+  ],
+  "exclusions": [
+    "Funktionen des hämatologischen Systems"
   ]
 }

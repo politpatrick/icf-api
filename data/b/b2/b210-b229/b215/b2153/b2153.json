@@ -1,7 +1,9 @@
 {
   "code": "b2153",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen der Tränendrüsen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen der Tränendrüsen und Tränengänge"
+  ]
 }

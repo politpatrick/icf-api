@@ -1,7 +1,9 @@
 {
   "code": "d2200",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Mehrfachaufgaben bearbeiten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mehrere Aufgaben vorzubereiten, anzugehen und sich um die erforderliche Zeit und Räumlichkeit zu kümmern; mehrere Aufgaben in aufeinander folgenden Schritten oder gleichzeitig zu handhaben und zu bearbeiten"
+  ]
 }

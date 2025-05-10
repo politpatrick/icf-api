@@ -1,13 +1,18 @@
 {
   "code": "b280",
   "kind": "fourdigit",
-  "preferred": "Schmerz",
-  "definition": null,
   "children": [
     "b2800",
     "b2801",
     "b2802",
     "b2803",
     "b2804"
+  ],
+  "preferred": "Schmerz",
+  "coding-hints": [
+    "Empfinden eines unangenehmen Gefühls, das mögliche oder tatsächliche Schäden einer Körperstruktur anzeigt"
+  ],
+  "inclusions": [
+    "Allgemeiner oder umschriebener Schmerz in einem oder mehreren Körperteilen, Schmerz in einem Dermatom, stechender, brennender, dumpfer, quälender Schmerz; Muskelschmerz (Myalgie), aufgehobene Schmerzempfindung (Analgesie), gesteigerte Schmerzempfindung (Hyperalgesie)"
   ]
 }

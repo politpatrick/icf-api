@@ -1,7 +1,9 @@
 {
   "code": "e230",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Natürliche Ereignisse",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Regelmäßige oder unregelmäßige geographische und atmosphärische Veränderungen, die eine erhebliche Beeinträchtigung der Umwelt eines Individuums zur Folge haben, wie Erdbeben, Unwetter, z.B. Orkane, Tornados, Hurrikane, Überflutungen, Waldbrände, Eisstürme"
+  ]
 }

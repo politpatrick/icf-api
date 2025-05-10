@@ -1,7 +1,9 @@
 {
   "code": "e1652",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Immaterielle Vermögenswerte",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Produkte wie geistiges Eigentum, Wissen und Fertigkeiten, die als Tauschmittel für Arbeit, Kapitalgüter und Dienstleistungen dienen"
+  ]
 }

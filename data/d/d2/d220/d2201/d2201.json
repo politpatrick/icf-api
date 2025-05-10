@@ -1,7 +1,9 @@
 {
   "code": "d2201",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Mehrfachaufgaben abschließen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mehrere Aufgaben in aufeinander folgenden Schritten oder gleichzeitig abzuschließen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "d7600",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Eltern-Kind-Beziehungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Auf natürliche Weise oder durch Adoption zu einem Elternteil zu werden oder dies zu sein, wie ein Kind zu haben und mit ihm in elterlicher Beziehung stehen oder eine elterliche Beziehung mit einem Adoptivkind aufbauen und aufrecht erhalten sowie dem eigenen Kind oder dem Adoptivkind physische, intellektuelle und emotionale Zuwendung geben"
+  ]
 }

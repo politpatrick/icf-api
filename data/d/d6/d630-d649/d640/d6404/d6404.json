@@ -1,7 +1,9 @@
 {
   "code": "d6404",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Die täglichen Lebensnotwendigkeiten lagern",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Lebensmittel, Getränke, Kleidung und andere für das tägliche Leben notwendigen Waren zu lagern, Lebensmittel für die Konservierung durch Einmachen, Salzen oder Einfrieren vorzubereiten, Lebensmittel frisch zu halten und für Tiere nicht erreichbar aufzubewahren"
+  ]
 }

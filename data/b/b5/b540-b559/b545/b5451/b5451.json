@@ -1,7 +1,9 @@
 {
   "code": "b5451",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Mineralstoffhaushalt",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Aufrechterhaltung eines Gleichgewichts zwischen Aufnahme, Speicherung, Nutzung und Ausscheidung von Mineralien im Körper beteiligt sind"
+  ]
 }

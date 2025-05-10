@@ -1,7 +1,12 @@
 {
   "code": "b3101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Stimmqualität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Prägung der Stimmcharakteristika betreffen, einschließlich Tonhöhe, Resonanz und andere Merkmale"
+  ],
+  "inclusions": [
+    "Funktionen der Tonhöhe (hoch oder tief); Funktionsstörungen wie Hypernasalität, Hyponasalität, Dysphonie, Heiserkeit, Rauigkeit"
+  ]
 }

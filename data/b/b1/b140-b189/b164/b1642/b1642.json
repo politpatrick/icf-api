@@ -1,7 +1,9 @@
 {
   "code": "b1642",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Das Zeitmanagement betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die das Ordnen von Ereignissen in eine chronologische Reihenfolge und das Zuweisen von Zeiten zu Ereignissen und Aktivitäten betreffen"
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "code": "s7200",
   "kind": "fivedigit",
-  "preferred": "Knochen der Schulterregion",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Knochen der Schulterregion"
 }

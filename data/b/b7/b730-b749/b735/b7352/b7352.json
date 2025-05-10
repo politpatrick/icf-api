@@ -1,7 +1,12 @@
 {
   "code": "b7352",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Tonus der Muskeln einer Körperhälfte",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit dem Ruhetonus einzelner Muskeln und Muskelgruppen der rechten oder linken Körperhälfte und dem Widerstand bei passiver Bewegung dieser Muskeln stehen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie bei Hemiparese und Hemiplegie"
+  ]
 }

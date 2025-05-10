@@ -1,13 +1,15 @@
 {
   "code": "d3",
   "kind": "chapter",
-  "preferred": "Kommunikation",
-  "definition": null,
   "children": [
     "d310-d329",
     "d330-d349",
     "d350-d369",
     "d398",
     "d399"
+  ],
+  "preferred": "Kommunikation",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit allgemeinen und spezifischen Merkmalen der Kommunikation mittels Sprache, Zeichen und Symbolen, einschließlich des Verstehens und Produzierens von Mitteilungen, sowie der Konversation und des Gebrauchs von Kommunikationsgeräten und -techniken."
   ]
 }

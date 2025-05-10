@@ -1,7 +1,9 @@
 {
   "code": "d4700",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Ein von Menschenkraft betriebenes Fahrzeug benutzen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Als Fahrgast mit einem von Menschenkraft betriebenen Fahrzeug befördert zu werden, wie mit einer Rikscha oder einem Ruderboot"
+  ]
 }

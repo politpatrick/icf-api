@@ -1,7 +1,9 @@
 {
   "code": "b1302",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Appetit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einem natürlichen Verlangen oder einem Wunsch äußern, insbesondere das natürliche und wiederkehrende Verlangen nach Essen und Trinken"
+  ]
 }

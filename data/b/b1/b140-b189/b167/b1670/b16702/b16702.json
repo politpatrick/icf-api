@@ -1,7 +1,9 @@
 {
   "code": "b16702",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Das Verständnis der Gebärdensprache betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die das Verstehen und Erfassen der Bedeutung von Mitteilungen in Sprachen, die mittels Hand- und anderen Bewegungen erzeugte Zeichen benutzen, betreffen"
+  ]
 }

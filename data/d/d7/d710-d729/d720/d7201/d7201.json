@@ -1,7 +1,9 @@
 {
   "code": "d7201",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Beziehungen beenden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In einer kontextuell und sozial angemessenen Weise Interaktionen zu beenden, wie zeitlich begrenzte Beziehungen am Ende eines Besuches beenden, längerfristige Beziehungen mit Freunden, die in eine andere Stadt ziehen, beenden oder Beziehungen mit Arbeits-, Berufskollegen oder Dienstleistungserbringern beenden sowie Liebes- oder intime Beziehungen beenden"
+  ]
 }

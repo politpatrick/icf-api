@@ -1,7 +1,9 @@
 {
   "code": "e435",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Individuelle Einstellungen von Untergebenen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Allgemeine oder spezifische Meinungen und Überzeugungen von Untergebenen, die eine bestimmte Person oder andere Dinge (z.B. soziale, politische und ökonomische Themen) betreffen, und die individuelles Verhalten und Handlungen beeinflussen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b11421",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Orientierung zu anderen Personen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich im bewussten Gewahrsein von Personen in der unmittelbaren Umgebung äußern"
+  ]
 }

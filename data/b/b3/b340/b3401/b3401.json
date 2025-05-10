@@ -1,7 +1,12 @@
 {
   "code": "b3401",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Erzeugung einer Variation von stimmlichen Äußerungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Erzeugung einer vielfältigen Stimmgebung betreffen"
+  ],
+  "inclusions": [
+    "Funktionen des Lallens bei Kindern"
+  ]
 }

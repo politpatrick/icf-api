@@ -1,7 +1,9 @@
 {
   "code": "b21021",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Farbsehvermögen (Farbsinn)",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sehfunktionen, die das Unterscheiden und Vergleichen von Farben betreffen"
+  ]
 }

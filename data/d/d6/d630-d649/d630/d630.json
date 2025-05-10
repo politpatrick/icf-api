@@ -1,12 +1,20 @@
 {
   "code": "d630",
   "kind": "fourdigit",
-  "preferred": "Mahlzeiten vorbereiten",
-  "definition": null,
   "children": [
     "d6300",
     "d6301",
     "d6308",
     "d6309"
+  ],
+  "preferred": "Mahlzeiten vorbereiten",
+  "coding-hints": [
+    "Einfache und komplexe Mahlzeiten für sich selbst und andere zu planen, zu organisieren, zu kochen und anzurichten, wie ein Menü zubereiten, genießbare Lebensmittel und Getränke auswählen, Zutaten für die Vorbereitung der Mahlzeit zusammenstellen, mit Wärme kochen sowie kalte Speisen und Getränke vorbereiten und die Speisen servieren"
+  ],
+  "inclusions": [
+    "Einfache und komplexe Mahlzeiten vorbereiten"
+  ],
+  "exclusions": [
+    "Essen"
   ]
 }

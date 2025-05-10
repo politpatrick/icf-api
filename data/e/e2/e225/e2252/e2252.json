@@ -1,7 +1,9 @@
 {
   "code": "e2252",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Luftdruck",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Druck der umgebenen Luft, wie der Druck bezogen auf die Höhe über dem Meeresspiegel oder auf meteorologische Bedingungen"
+  ]
 }

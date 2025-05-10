@@ -1,12 +1,11 @@
 {
   "code": "d350-d369",
   "kind": "block",
-  "preferred": "Konversation und Gebrauch von Kommunikationsgeräten und -techniken",
-  "definition": null,
   "children": [
     "d350",
     "d355",
     "d360",
     "d369"
-  ]
+  ],
+  "preferred": "Konversation und Gebrauch von Kommunikationsgeräten und -techniken"
 }

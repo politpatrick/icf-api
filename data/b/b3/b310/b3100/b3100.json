@@ -1,7 +1,12 @@
 {
   "code": "b3100",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Stimmbildung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Lautbildung durch die Koordination von Kehlkopf und umgebenden Muskeln mit dem Atmungssystem betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Phonation, Lautstärke; Funktionsstörungen bei Aphonie"
+  ]
 }

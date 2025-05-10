@@ -1,8 +1,6 @@
 {
   "code": "b",
   "kind": "component",
-  "preferred": "Körperfunktionen",
-  "definition": "Körperfunktionen sind die physiologischen Funktionen von Körpersystemen (einschließlich psychologische Funktionen).",
   "children": [
     "b1",
     "b2",
@@ -12,5 +10,10 @@
     "b6",
     "b7",
     "b8"
+  ],
+  "preferred": "Körperfunktionen",
+  "definitions": [
+    "Körperfunktionen sind die physiologischen Funktionen von Körpersystemen (einschließlich psychologische Funktionen).",
+    "Schädigungen sind Beeinträchtigungen einer Körperfunktion oder –struktur, wie z.B. eine wesentliche Abweichung oder ein Verlust."
   ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "d9203",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kunsthandwerk",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich an Handarbeiten zu beteiligen, wie Töpferei oder Stricken"
+  ]
 }

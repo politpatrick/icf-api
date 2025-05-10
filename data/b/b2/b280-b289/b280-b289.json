@@ -1,10 +1,9 @@
 {
   "code": "b280-b289",
   "kind": "block",
-  "preferred": "Schmerz",
-  "definition": null,
   "children": [
     "b280",
     "b289"
-  ]
+  ],
+  "preferred": "Schmerz"
 }

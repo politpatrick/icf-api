@@ -1,7 +1,9 @@
 {
   "code": "d4552",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Rennen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich mit schnellen Schritten in der Weise zu bewegen, dass beide Füße gleichzeitig vom Boden abgehoben sind"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b4303",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Gerinnungsfunktionen des Blutes",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen bezüglich der Blutgerinnung wie bei einer Verletzung oder Wunde"
+  ]
 }

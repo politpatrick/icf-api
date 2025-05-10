@@ -1,7 +1,9 @@
 {
   "code": "b5252",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Stuhlhäufigkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Stuhlhäufigkeit beteiligt sind"
+  ]
 }

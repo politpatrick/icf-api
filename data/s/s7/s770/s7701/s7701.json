@@ -1,7 +1,6 @@
 {
   "code": "s7701",
   "kind": "fivedigit",
-  "preferred": "Gelenke",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Gelenke"
 }

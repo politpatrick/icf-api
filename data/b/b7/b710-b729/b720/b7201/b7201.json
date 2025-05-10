@@ -1,7 +1,12 @@
 {
   "code": "b7201",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Beweglichkeit des Beckens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die den Bewegungsumfang und die Leichtigkeit der Bewegung des Beckens betreffen"
+  ],
+  "inclusions": [
+    "Beckenrotation"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "d210",
   "kind": "fourdigit",
-  "preferred": "Eine Einzelaufgabe übernehmen",
-  "definition": null,
   "children": [
     "d2100",
     "d2101",
@@ -10,5 +8,15 @@
     "d2103",
     "d2108",
     "d2109"
+  ],
+  "preferred": "Eine Einzelaufgabe übernehmen",
+  "coding-hints": [
+    "Einfache oder komplexe und koordinierte Handlungen bezüglich der mentalen und physischen Bestandteile einer einzelnen Aufgabe auszuführen, wie eine Aufgabe angehen, Zeit, Räumlichkeit und Materialien für die Aufgabe organisieren, die Schritte der Durchführung festlegen, die Aufgabe ausführen und abschließen sowie eine Aufgabe durchstehen"
+  ],
+  "inclusions": [
+    "Eine einfache oder komplexe Aufgabe übernehmen; eine einzelne Aufgabe unabhängig oder in einer Gruppe übernehmen"
+  ],
+  "exclusions": [
+    "Sich Fertigkeiten aneignen"
   ]
 }

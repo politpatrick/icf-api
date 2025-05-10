@@ -1,7 +1,9 @@
 {
   "code": "d3502",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Eine Unterhaltung beenden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einen Dialog oder einen Gedankenaustausch mit den üblichen abschließenden Äußerungen oder Bemerkungen und durch Abschluss des gegenwärtigen Themas zu beenden"
+  ]
 }

@@ -1,7 +1,12 @@
 {
   "code": "e5600",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste des Medienwesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme für die Massenkommunikation wie Radio- und Fernsehdienste, Dienste für Filmuntertitelung, Dienste der Presseagenturen, Zeitungsdienste, Brailleschrift-Dienste und computergestützte Massenkommunikationsdienste (WWW, Internet), einschließlich derer, die diese Dienste erbringen"
+  ],
+  "exclusions": [
+    "Dienste des Kommunikationswesens"
+  ]
 }

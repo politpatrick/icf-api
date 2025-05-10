@@ -1,13 +1,18 @@
 {
   "code": "e520",
   "kind": "fourdigit",
-  "preferred": "Dienste, Systeme und Handlungsgrundsätze der Stadt- und Landschaftsplanung",
-  "definition": null,
   "children": [
     "e5200",
     "e5201",
     "e5202",
     "e5208",
     "e5209"
+  ],
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze der Stadt- und Landschaftsplanung",
+  "coding-hints": [
+    "Dienste, Systeme und Handlungsgrundsätze für Planung, Entwurf, Entwicklung und Unterhaltung von öffentlichem Land (z.B. Parks, Forsten, Uferlinien, Feuchtgebiete) und privatem Grund im ländlichen, vorörtlichen und städtischen Zusammenhang"
+  ],
+  "exclusions": [
+    "Dienste, Systeme und Handlungsgrundsätze des Architektur- und Bauwesens"
   ]
 }

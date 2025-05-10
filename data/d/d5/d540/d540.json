@@ -1,8 +1,6 @@
 {
   "code": "d540",
   "kind": "fourdigit",
-  "preferred": "Sich kleiden",
-  "definition": null,
   "children": [
     "d5400",
     "d5401",
@@ -11,5 +9,12 @@
     "d5404",
     "d5408",
     "d5409"
+  ],
+  "preferred": "Sich kleiden",
+  "coding-hints": [
+    "Die koordinierten Handlungen und Aufgaben durchzuführen, welche das An- und Ausziehen von Kleidung und Schuhwerk in Abfolge und entsprechend den sozialen und klimatischen Bedingungen betreffen, wie Hemden, Röcke, Blusen, Hosen, Unterwäsche, Saris, Kimonos, Strumpfhosen, Hüte, Handschuhe, Mäntel, Schuhe, Stiefel, Sandalen oder Slipper anziehen, ordnen und ausziehen"
+  ],
+  "inclusions": [
+    "Kleidung und Schuhwerk an- und ausziehen sowie geeignete Kleidung auswählen"
   ]
 }

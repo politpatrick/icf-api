@@ -1,7 +1,9 @@
 {
   "code": "d2401",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Mit Stress umgehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einfache oder komplexe, koordinierte Handlungen durchzuführen, um mit Druck, Notfallsituationen oder Stress im Zusammenhang mit der Aufgabenerfüllung umzugehen"
+  ]
 }

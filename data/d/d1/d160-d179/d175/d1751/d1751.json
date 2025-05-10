@@ -1,7 +1,9 @@
 {
   "code": "d1751",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Komplexe Probleme lösen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Lösungen für ein komplexes Problem, das multiple und voneinander abhängige Themen oder mehrere zusammenhängende Probleme betrifft, zu finden, indem das Problem identifiziert und analysiert wird, Lösungen entwickelt und die möglichen Auswirkungen der Lösungen abgeschätzt werden und die gewählte Lösung umgesetzt wird"
+  ]
 }

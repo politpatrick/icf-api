@@ -1,12 +1,17 @@
 {
   "code": "e240",
   "kind": "fourdigit",
-  "preferred": "Licht",
-  "definition": null,
   "children": [
     "e2400",
     "e2401",
     "e2408",
     "e2409"
+  ],
+  "preferred": "Licht",
+  "coding-hints": [
+    "Elektromagnetische Strahlung, durch die Dinge sichtbar gemacht werden, entweder durch Sonnenlicht oder künstliches Licht (z.B. Kerzen, Öl- oder Petroleumlampen, Feuer und Elektrizität) und die nützliche oder verwirrende Informationen über die Welt liefern kann"
+  ],
+  "inclusions": [
+    "Lichtintensität, Lichtqualität, Farbkontraste"
   ]
 }

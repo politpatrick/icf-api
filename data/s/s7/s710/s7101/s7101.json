@@ -1,7 +1,6 @@
 {
   "code": "s7101",
   "kind": "fivedigit",
-  "preferred": "Gesichtsknochen",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Gesichtsknochen"
 }

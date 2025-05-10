@@ -1,8 +1,6 @@
 {
   "code": "s320",
   "kind": "fourdigit",
-  "preferred": "Struktur des Mundes",
-  "definition": null,
   "children": [
     "s3200",
     "s3201",
@@ -11,5 +9,6 @@
     "s3204",
     "s3208",
     "s3209"
-  ]
+  ],
+  "preferred": "Struktur des Mundes"
 }

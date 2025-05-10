@@ -1,7 +1,9 @@
 {
   "code": "e5500",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste der Rechtspflege",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme zur Erfüllung der gesetzlich festgelegten hoheitlichen Aufgaben wie Gerichte, Tribunale und andere Einrichtungen für die Anhörung und Beilegung von zivilen Rechtsstreitigkeiten und Strafverfahren, Anwälte, juristische Dienste wie Notariate, Schieds- und Schlichtungsstellen, Erziehungsheime und Strafvollzugsanstalten, einschließlich derer, die diese Dienste erbringen"
+  ]
 }

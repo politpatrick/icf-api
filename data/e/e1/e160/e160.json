@@ -1,8 +1,6 @@
 {
   "code": "e160",
   "kind": "fourdigit",
-  "preferred": "Produkte und Technologien der Flächennutzung",
-  "definition": null,
   "children": [
     "e1600",
     "e1601",
@@ -10,5 +8,12 @@
     "e1603",
     "e1608",
     "e1609"
+  ],
+  "preferred": "Produkte und Technologien der Flächennutzung",
+  "coding-hints": [
+    "Produkte und Technologien für den Außenbereich, soweit sie sich auf die äußere Umgebung eines Individuums durch Umsetzung von Flächennutzungspolitik sowie der Raumplanung und -entwicklung auswirken, einschließlich solcher, die angepasst oder speziell entworfen sind"
+  ],
+  "inclusions": [
+    "Produkte und Technologien für den Außenbereich, die durch die Umsetzung von Flächennutzungspolitik geregelt werden wie ländliche Gebiete, Vorortsgebiete, Stadtgebiete, Parks, Natur- und Wildschutzgebiete"
   ]
 }

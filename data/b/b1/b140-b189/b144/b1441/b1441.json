@@ -1,7 +1,9 @@
 {
   "code": "b1441",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Langzeitgedächtnis",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einem Gedächtnissystem zur langzeitigen Übernahme von Informationen aus dem Kurzzeitgedächtnis und zum Abruf dieser Informationen äußern. Es gibt zwei unterschiedliche Formen des Langzeitgedächtnisses: ein autobiographisches (für Ereignisse der Vergangenheit) und semantisches (für Sprache und Sachverhalte)"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b5254",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Flatulenz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Ausscheidung vermehrter Mengen an Luft oder Gas aus dem Darm beteiligt sind"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "d410",
   "kind": "fourdigit",
-  "preferred": "Eine elementare Körperposition wechseln",
-  "definition": null,
   "children": [
     "d4100",
     "d4101",
@@ -13,5 +11,15 @@
     "d4106",
     "d4108",
     "d4109"
+  ],
+  "preferred": "Eine elementare Körperposition wechseln",
+  "coding-hints": [
+    "In eine und aus einer Körperposition zu gelangen und sich von einem Ort zu einem anderen zu bewegen, wie von einem Stuhl aufstehen, um sich in ein Bett zu legen, in eine und aus einer knienden oder hockenden Position gelangen"
+  ],
+  "inclusions": [
+    "Seine Körperposition aus einer liegenden, knienden oder hockenden, sitzenden oder stehenden Position ändern, sich beugen und seinen Körperschwerpunkt verlagern"
+  ],
+  "exclusions": [
+    "Sich verlagern"
   ]
 }

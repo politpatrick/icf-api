@@ -1,7 +1,9 @@
 {
   "code": "b7355",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Tonus der Muskeln des Rumpfes",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit dem Ruhetonus einzelner Muskeln und Muskelgruppen des Rumpfes und dem Widerstand bei passiver Bewegung dieser Muskeln stehen"
+  ]
 }

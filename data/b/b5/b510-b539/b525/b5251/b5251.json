@@ -1,7 +1,9 @@
 {
   "code": "b5251",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Stuhlkonsistenz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Beschaffenheit des Stuhls wie hart, geformt, weich oder wässrig"
+  ]
 }

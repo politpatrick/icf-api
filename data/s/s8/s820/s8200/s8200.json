@@ -1,7 +1,6 @@
 {
   "code": "s8200",
   "kind": "fivedigit",
-  "preferred": "Schweißdrüsen",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Schweißdrüsen"
 }

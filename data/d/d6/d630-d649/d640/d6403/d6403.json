@@ -1,7 +1,9 @@
 {
   "code": "d6403",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Haushaltsgeräte benutzen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Alle Arten von Haushaltsgeräten zu benutzen, wie Waschmaschinen, Trockner, Bügeleisen, Staubsauger und Spülmaschinen"
+  ]
 }

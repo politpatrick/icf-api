@@ -1,7 +1,9 @@
 {
   "code": "e1500",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Entwurf, Konstruktion sowie Bauprodukte und Technologien für Zu- und Ausgänge von öffentlichen Gebäuden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Produkte und Technologien von Ein- und Ausgängen von für den öffentlichen Zugang geplanter und entworfener bebauter Umgebung, wie Entwurf, Bau und Konstruktion von Ein- und Ausgängen von Gebäuden für den öffentlichen Zugang (z.B. Arbeitsstätten, Läden und Theater), öffentliche Gebäude, mobile und fest eingebaute Rampen, automatische Türöffner, verlängerte Türklinken und ebenerdige Türschwellen"
+  ]
 }

@@ -1,7 +1,12 @@
 {
   "code": "b6502",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Stärke der Menstruationsblutung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Menge des Menstruationssekrets beteiligt sind"
+  ],
+  "inclusions": [
+    "Zu geringe Menstruation (Hypomenorrhoe); zu starke Menstruation (Menorrhagie, Hypermenorrhoe)"
+  ]
 }

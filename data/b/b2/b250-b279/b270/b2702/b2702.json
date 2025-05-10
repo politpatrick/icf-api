@@ -1,7 +1,12 @@
 {
   "code": "b2702",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Druck- und Berührungsempfinden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen, die die Wahrnehmung von Druck auf die Haut betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Berührungsempfindlichkeit, Taubheit, verringerte (Hypästhesie) oder gesteigerte Empfindlichkeit (Hyperästhesie), Kribbelparästhesien und Jucken"
+  ]
 }

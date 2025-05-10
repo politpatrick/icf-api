@@ -1,12 +1,20 @@
 {
   "code": "d175",
   "kind": "fourdigit",
-  "preferred": "Probleme lösen",
-  "definition": null,
   "children": [
     "d1750",
     "d1751",
     "d1758",
     "d1759"
+  ],
+  "preferred": "Probleme lösen",
+  "coding-hints": [
+    "Lösungen für eine Frage oder Situation zu finden, indem das Problem identifiziert und analysiert wird, Lösungsmöglichkeiten entwickelt und die möglichen Auswirkungen der Lösungen abgeschätzt werden und die gewählte Lösung umgesetzt wird, wie die Auseinandersetzung zweier Personen schlichten"
+  ],
+  "inclusions": [
+    "Einfache oder komplexe Probleme lösen"
+  ],
+  "exclusions": [
+    "Denken"
   ]
 }

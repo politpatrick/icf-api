@@ -1,7 +1,9 @@
 {
   "code": "e1300",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Allgemeine Produkte und Technologien für Bildung/Ausbildung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Von Menschen für den Erwerb von Wissen, Fachwissen oder Fertigkeiten auf jedem Niveau benutzte Ausrüstungsgegenstände, Produkte, Verfahren, Methoden und Technologien wie Bücher, Handbücher, pädagogisches Spielzeug, Computerhardware oder -software, weder angepasst noch speziell entworfen"
+  ]
 }

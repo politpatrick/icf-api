@@ -1,8 +1,6 @@
 {
   "code": "b510",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Nahrungsaufnahme",
-  "definition": null,
   "children": [
     "b5100",
     "b5101",
@@ -13,5 +11,15 @@
     "b5106",
     "b5108",
     "b5109"
+  ],
+  "preferred": "Funktionen der Nahrungsaufnahme",
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit der Aufnahme und der Bearbeitung fester oder flüssiger Stoffe in den Körper durch den Mund stehen"
+  ],
+  "inclusions": [
+    "Funktionen des Saugens, Kauens und Beißens, der Handhabung der Speisen im Mund, des Einspeichelns, Schluckens, Aufstoßens, Regurgitierens, Spuckens und Erbrechens; Funktionsstörungen wie Dysphagie, Nahrungsmittelaspiration, Luftschlucken, Speichelüber- oder -unterproduktion, Sabbern und Mundtrockenheit"
+  ],
+  "exclusions": [
+    "Mit dem Verdauungssystem verbundene Empfindungen"
   ]
 }

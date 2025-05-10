@@ -1,7 +1,12 @@
 {
   "code": "e5650",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste der Wirtschaft",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme zu Gesamtproduktion, Verteilung, Verbrauch und Verwendung von Gütern und Dienstleistungen wie der private kommerzielle Sektor (z. B. Betriebe, juristische Personen, private gewinnorientierte Unternehmungen), der staatliche Sektor (z.B. öffentliche, kommerzielle Dienste wie Genossenschaften und Verwaltungen), Geld- und Kreditinstitute (z.B. Banken und Versicherungen), einschließlich derer, die diese Dienste erbringen"
+  ],
+  "exclusions": [
+    "Dienste des Versorgungswesens"
+  ]
 }

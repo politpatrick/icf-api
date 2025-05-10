@@ -1,8 +1,6 @@
 {
   "code": "b2100",
   "kind": "fivedigit",
-  "preferred": "Die Sehschärfe (Visus) betreffende Funktionen",
-  "definition": null,
   "children": [
     "b21000",
     "b21001",
@@ -10,5 +8,9 @@
     "b21003",
     "b21008",
     "b21009"
+  ],
+  "preferred": "Die Sehschärfe (Visus) betreffende Funktionen",
+  "coding-hints": [
+    "Sehfunktionen, die die beidäugige (binokulare) und einäugige (monokulare) Wahrnehmung von Formen und Konturen im Nah- und Fernbereich betreffen"
   ]
 }

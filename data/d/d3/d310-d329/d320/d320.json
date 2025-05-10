@@ -1,7 +1,9 @@
 {
   "code": "d320",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Kommunizieren als Empfänger von Mitteilungen in Gebärdensprache",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die wörtliche und übertragene Bedeutung von Mitteilungen in Gebärdensprache zu empfangen und zu erfassen"
+  ]
 }

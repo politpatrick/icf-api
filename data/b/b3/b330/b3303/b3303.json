@@ -1,7 +1,12 @@
 {
   "code": "b3303",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Melodik des Sprechens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Modulation der Tonhöhe beim Sprechen betreffen"
+  ],
+  "inclusions": [
+    "Prosodie, Intonation; Melodie des Sprechens; Funktionsstörungen wie monotones Sprechen"
+  ]
 }

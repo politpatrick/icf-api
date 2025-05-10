@@ -1,7 +1,6 @@
 {
   "code": "s6101",
   "kind": "fivedigit",
-  "preferred": "Harnleiter",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Harnleiter"
 }

@@ -1,7 +1,9 @@
 {
   "code": "b4301",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sauerstofftransportfunktion des Blutes",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen des Blutes bezüglich der Fähigkeit, Sauerstoff zu transportieren"
+  ]
 }

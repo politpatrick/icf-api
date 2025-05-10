@@ -1,7 +1,9 @@
 {
   "code": "b5350",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Brechreiz und Übelkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gefühl, erbrechen zu müssen"
+  ]
 }

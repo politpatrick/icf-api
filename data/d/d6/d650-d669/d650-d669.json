@@ -1,11 +1,10 @@
 {
   "code": "d650-d669",
   "kind": "block",
-  "preferred": "Haushaltsgegenstände pflegen und anderen helfen",
-  "definition": null,
   "children": [
     "d650",
     "d660",
     "d669"
-  ]
+  ],
+  "preferred": "Haushaltsgegenstände pflegen und anderen helfen"
 }

@@ -1,7 +1,9 @@
 {
   "code": "e1301",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Hilfsprodukte und unterstützende Technologien für Bildung/ Ausbildung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Angepasste oder speziell entworfene Ausrüstungsgegenstände, Produkte, Verfahren, Methoden und Technologien, die Menschen helfen, Wissen, Fachwissen und Fertigkeiten zu erwerben, wie spezielle Computertechnologie"
+  ]
 }

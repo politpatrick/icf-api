@@ -1,7 +1,9 @@
 {
   "code": "d7500",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Informelle Beziehungen zu Freunden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Freundschaftliche Beziehungen, die durch gegenseitige Wertschätzung und gemeinsame Interessen geprägt sind, aufzunehmen und aufrecht zu erhalten"
+  ]
 }

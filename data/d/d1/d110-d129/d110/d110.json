@@ -1,7 +1,9 @@
 {
   "code": "d110",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Zuschauen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Absichtsvoll den Sehsinn zu benutzen, um visuelle Reize wahrzunehmen, wie einer Sportveranstaltung oder dem Spiel von Kindern zuschauen"
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "code": "s2602",
   "kind": "fivedigit",
-  "preferred": "Knöcherner Bogengang (Canalis semicircularis osseus)",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Knöcherner Bogengang (Canalis semicircularis osseus)"
 }

@@ -1,7 +1,9 @@
 {
   "code": "d310",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Kommunizieren als Empfänger gesprochener Mitteilungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die wörtliche und übertragene Bedeutung von gesprochenen Mitteilungen zu erfassen, wie verstehen, ob eine Aussage eine Tatsache behauptet oder ob sie eine idiomatische Wendung ist"
+  ]
 }

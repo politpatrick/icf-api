@@ -1,7 +1,6 @@
 {
   "code": "s11000",
   "kind": "sixdigit",
-  "preferred": "Stirnlappen (Frontallappen)",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Stirnlappen (Frontallappen)"
 }

@@ -1,7 +1,12 @@
 {
   "code": "e5100",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste für die Konsumgüterproduktion",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme für die Sammlung, Schaffung, Produktion und Herstellung von Konsumgütern und Produkten wie Produkte und Technologien für Mobilität, Kommunikation, Bildung/Ausbildung, Transport, Beschäftigung und Hausarbeit, einschließlich derer, die diese Dienste erbringen"
+  ],
+  "exclusions": [
+    "Dienste des Bildungs- und Ausbildungswesens"
+  ]
 }

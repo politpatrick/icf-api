@@ -1,8 +1,6 @@
 {
   "code": "d455",
   "kind": "fourdigit",
-  "preferred": "Sich auf andere Weise fortbewegen",
-  "definition": null,
   "children": [
     "d4550",
     "d4551",
@@ -11,5 +9,15 @@
     "d4554",
     "d4558",
     "d4559"
+  ],
+  "preferred": "Sich auf andere Weise fortbewegen",
+  "coding-hints": [
+    "Sich auf andere Weise als gehend von einem Ort zu einem anderen fortzubewegen, wie über einen Fels klettern oder eine Straße entlang rennen, springen, spurten, hüpfen, einen Purzelbaum schlagen oder um Hindernisse rennen"
+  ],
+  "inclusions": [
+    "Krabbeln/robben, klettern/steigen, rennen, joggen, springen und schwimmen"
+  ],
+  "exclusions": [
+    "Sich verlagern"
   ]
 }

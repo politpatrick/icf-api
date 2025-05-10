@@ -1,7 +1,9 @@
 {
   "code": "d5403",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Schuhwerk ausziehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die koordinierten Handlungen und Aufgaben durchzuführen, welche das Ausziehen von Socken, Strümpfen und Schuhwerk betreffen"
+  ]
 }

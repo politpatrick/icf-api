@@ -1,7 +1,9 @@
 {
   "code": "b1641",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Das Organisieren und Planen betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die das Zusammenfügen von Teilen zu einem Ganzen und das Systematisieren betreffen; diese mentale Funktion trägt dazu bei, eine methodische Vorgehens- oder Handlungsweise zu entwickeln"
+  ]
 }

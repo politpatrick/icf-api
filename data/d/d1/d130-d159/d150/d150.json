@@ -1,7 +1,9 @@
 {
   "code": "d150",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Rechnen lernen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die Fähigkeit zu entwickeln, mit Zahlen umzugehen sowie einfache und komplexe mathematische Operationen auszuführen, wie mathematische Zeichen für Addition und Subtraktion benutzen sowie die richtige mathematische Operation auf ein Problem anwenden"
+  ]
 }

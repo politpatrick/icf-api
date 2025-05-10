@@ -1,7 +1,9 @@
 {
   "code": "d6600",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Anderen bei der Selbstversorgung helfen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Haushaltsmitgliedern und anderen bei der Selbstversorgung helfen, einschließlich anderen beim Essen, Baden sowie An- und Ausziehen helfen; sich um Kinder oder andere Haushaltsmitglieder kümmern, die krank sind oder Schwierigkeiten bei der elementaren Selbstversorgung haben; anderen bei Belangen der Toilette helfen"
+  ]
 }

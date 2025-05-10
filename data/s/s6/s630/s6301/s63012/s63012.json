@@ -1,7 +1,6 @@
 {
   "code": "s63012",
   "kind": "sixdigit",
-  "preferred": "Eileiter",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Eileiter"
 }

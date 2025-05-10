@@ -1,8 +1,6 @@
 {
   "code": "d160-d179",
   "kind": "block",
-  "preferred": "Wissensanwendung",
-  "definition": null,
   "children": [
     "d160",
     "d163",
@@ -12,5 +10,6 @@
     "d175",
     "d177",
     "d179"
-  ]
+  ],
+  "preferred": "Wissensanwendung"
 }

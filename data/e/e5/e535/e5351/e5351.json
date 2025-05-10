@@ -1,7 +1,9 @@
 {
   "code": "e5351",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme des Kommunikationswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- oder Überwachungsmechanismen wie Behörden zur Regulierung der Telekommunikation und ähnliche Organisationen, die die Übermittlung von Informationen mittels verschiedener Methoden einschließlich Telefon, Telefax, Post und Luftpost, elektronische Post und anderer computergestützter Systeme regeln"
+  ]
 }

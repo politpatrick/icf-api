@@ -1,13 +1,18 @@
 {
   "code": "e515",
   "kind": "fourdigit",
-  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Architektur- und Bauwesens",
-  "definition": null,
   "children": [
     "e5150",
     "e5151",
     "e5152",
     "e5158",
     "e5159"
+  ],
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Architektur- und Bauwesens",
+  "coding-hints": [
+    "Dienste, Systeme und Handlungsgrundsätze für Entwurf und Bau von öffentlichen und privaten Bauten"
+  ],
+  "exclusions": [
+    "Dienste, Systeme und Handlungsgrundsätze der Stadt- und Landschaftsplanung"
   ]
 }

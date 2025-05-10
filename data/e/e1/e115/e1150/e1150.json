@@ -1,7 +1,9 @@
 {
   "code": "e1150",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Allgemeine Produkte zum persönlichen Gebrauch",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Von Menschen für ihre täglichen Aktivitäten benutzte Ausrüstungsgegenstände, Produkte und Technologien, wie Kleidung, Textilien, Möbel, Geräte, Reinigungsmittel und Werkzeuge, weder angepasst noch speziell entworfen"
+  ]
 }

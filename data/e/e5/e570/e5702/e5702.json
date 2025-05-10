@@ -1,7 +1,9 @@
 {
   "code": "e5702",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze der sozialen Sicherheit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die die Programme und Systeme regeln, die finanzielle Unterstützung für Menschen gewähren, welche aufgrund von Alter, Armut, Arbeitslosigkeit, Gesundheitsproblemen oder Behinderung staatliche Unterstützung benötigen, wie Gesetze und Vorschriften für die Feststellung der Anspruchsberechtigung für Zahlungen der Sozialhilfe und Wohlfahrt, der Arbeitslosenversicherung sowie für Leistungen aus Rentenversicherung (Altersrente, Rente wegen verminderter Erwerbsfähigkeit) und entsprechenden Versicherungen"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "d920",
   "kind": "fourdigit",
-  "preferred": "Erholung und Freizeit",
-  "definition": null,
   "children": [
     "d9200",
     "d9201",
@@ -12,5 +10,15 @@
     "d9205",
     "d9208",
     "d9209"
+  ],
+  "preferred": "Erholung und Freizeit",
+  "coding-hints": [
+    "Sich an allen Formen des Spiels, von Freizeit- oder Erholungsaktivitäten zu beteiligen, wie an Spiel und Sport in informeller oder organisierter Form, Programmen für die körperliche Fitness, Entspannung, Unterhaltung oder Zerstreuung; Kunstgalerien, Museen, Kino oder Theater besuchen, Handarbeiten machen und Hobbys frönen, zur Erbauung lesen, Musikinstrumente spielen; Sehenswürdigkeiten besichtigen, Tourismus- und Vergnügungsreisen machen"
+  ],
+  "inclusions": [
+    "Spiel, Sport, Kunst und Kultur, Kunsthandwerk, Hobbys und Geselligkeit"
+  ],
+  "exclusions": [
+    "Tiere zu Transportzwecken reiten"
   ]
 }

@@ -1,12 +1,11 @@
 {
   "code": "b730-b749",
   "kind": "block",
-  "preferred": "Funktionen der Muskeln",
-  "definition": null,
   "children": [
     "b730",
     "b735",
     "b740",
     "b749"
-  ]
+  ],
+  "preferred": "Funktionen der Muskeln"
 }

@@ -1,7 +1,12 @@
 {
   "code": "b3300",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sprechflüssigkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Erzeugung eines gleichmäßigen, kontinuierlichen Sprechflusses betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der gleichmäßigen Sprachverbindung; Funktionsstörungen wie Stottern, Stammeln, Poltern, Redeflussstörung, Wiederholung von Lauten, Wörtern oder Wortteilen, unregelmäßige Sprechunterbrechungen"
+  ]
 }

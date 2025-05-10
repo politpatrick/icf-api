@@ -1,7 +1,9 @@
 {
   "code": "e5452",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze für zivilen Schutz und Sicherheit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die den Schutz von Personen und Besitz regeln, wie Handlungsgrundsätze für die Bereitstellung von Feuerwehr-, Polizei-, Not- und Rettungsdiensten"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "d5101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Den ganzen Körper waschen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Zur Reinigung seines ganzen Körpers Wasser, Seife und andere Substanzen zu verwenden, wie baden oder duschen"
+  ]
 }

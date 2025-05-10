@@ -1,7 +1,6 @@
 {
   "code": "s3201",
   "kind": "fivedigit",
-  "preferred": "Zahnfleisch",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Zahnfleisch"
 }

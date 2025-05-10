@@ -1,8 +1,6 @@
 {
   "code": "d445",
   "kind": "fourdigit",
-  "preferred": "Hand- und Armgebrauch",
-  "definition": null,
   "children": [
     "d4450",
     "d4451",
@@ -12,5 +10,15 @@
     "d4455",
     "d4458",
     "d4459"
+  ],
+  "preferred": "Hand- und Armgebrauch",
+  "coding-hints": [
+    "Koordinierte Handlungen auszuführen, die erforderlich sind, Gegenstände mit Händen und Armen zu bewegen oder zu handhaben, wie beim Drehen eines Türgriffs oder dem Werfen oder Fangen eines Gegenstands"
+  ],
+  "inclusions": [
+    "Gegenstände ziehen oder schieben; nach etwas langen; Hände oder Arme drehen oder verdrehen; werfen; fangen"
+  ],
+  "exclusions": [
+    "Feinmotorischer Handgebrauch"
   ]
 }

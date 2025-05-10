@@ -1,7 +1,6 @@
 {
   "code": "s3100",
   "kind": "fivedigit",
-  "preferred": "Äußere Nase",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Äußere Nase"
 }

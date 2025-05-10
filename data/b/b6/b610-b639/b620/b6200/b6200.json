@@ -1,7 +1,12 @@
 {
   "code": "b6200",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Harnlassen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Leerung der Harnblase betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Harnretention"
+  ]
 }

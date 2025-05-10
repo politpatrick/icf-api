@@ -1,8 +1,6 @@
 {
   "code": "d5",
   "kind": "chapter",
-  "preferred": "Selbstversorgung",
-  "definition": null,
   "children": [
     "d510",
     "d520",
@@ -13,5 +11,9 @@
     "d570",
     "d598",
     "d599"
+  ],
+  "preferred": "Selbstversorgung",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit der eigenen Versorgung, dem Waschen, Abtrocknen und der Pflege des eigenen Körpers und seiner Teile, dem An- und Ablegen von Kleidung, dem Essen und Trinken und der Sorge um die eigene Gesundheit."
   ]
 }

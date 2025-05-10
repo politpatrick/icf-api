@@ -1,13 +1,18 @@
 {
   "code": "e530",
   "kind": "fourdigit",
-  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Versorgungswesens",
-  "definition": null,
   "children": [
     "e5300",
     "e5301",
     "e5302",
     "e5308",
     "e5309"
+  ],
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Versorgungswesens",
+  "coding-hints": [
+    "Dienste, öffentliche Einrichtungen und rechtliche Vorschriften für öffentlich bereit gestellte Versorgungsleistungen wie Wasser, Brennstoff, Elektrizität, Entsorgung, öffentlicher Transport und andere notwendige Dienste"
+  ],
+  "exclusions": [
+    "Dienste, Systeme und Handlungsgrundsätze für den zivilen Schutz und Sicherheit"
   ]
 }

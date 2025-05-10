@@ -1,7 +1,9 @@
 {
   "code": "d4551",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Klettern/steigen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Den ganzen Körper über Oberflächen oder Objekte auf- oder abwärts zu bewegen, wie bei Stufen, Steinen/Felsen, Leitern, Treppen, Kantsteinen oder anderen Objekten"
+  ]
 }

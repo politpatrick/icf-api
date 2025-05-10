@@ -1,7 +1,9 @@
 {
   "code": "e1601",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Produkte und Technologien der Flächenentwicklung von Vorortsgebieten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Produkte und Technologien in Vorortsgebieten, soweit sie sich auf die äußere Umgebung eines Individuums durch Umsetzung von Flächennutzungspolitik für Vorortsgebiete sowie der Raumplanung und -entwicklung auswirken, wie Bordsteinabsenkungen, Wege, Wegweiser und Straßenbeleuchtung"
+  ]
 }

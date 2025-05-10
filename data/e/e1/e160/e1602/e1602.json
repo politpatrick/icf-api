@@ -1,7 +1,9 @@
 {
   "code": "e1602",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Produkte und Technologien der Flächenentwicklung von Stadtgebieten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Produkte und Technologien in Stadtgebieten, soweit sie sich auf die äußere Umgebung eines Individuums durch Umsetzung von Flächennutzungspolitik für Stadtgebiete sowie der Raumplanung und -entwicklung auswirken, wie Bordsteinabsenkungen, Rampen, Wegweiser und Straßenbeleuchtung"
+  ]
 }

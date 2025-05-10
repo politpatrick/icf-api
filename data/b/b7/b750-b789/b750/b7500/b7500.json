@@ -1,7 +1,9 @@
 {
   "code": "b7500",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Streckreflexe",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die durch Streckung hervorgerufene unwillkürliche Muskelkontraktionen betreffen"
+  ]
 }

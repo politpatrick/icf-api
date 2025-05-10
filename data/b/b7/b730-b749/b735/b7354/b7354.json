@@ -1,7 +1,12 @@
 {
   "code": "b7354",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Tonus der Muskeln aller Extremitäten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit dem Ruhetonus einzelner Muskeln und Muskelgruppen aller Extremitäten und dem Widerstand bei passiver Bewegung dieser Muskeln stehen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie bei Tetraparese und Tetraplegie"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "d4152",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "In kniender Position verbleiben",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Für eine erforderliche Zeit in einer knienden Position zu verbleiben, wobei der Körper durch die Knie bei gebeugten Beinen unterstützt wird, wie während des Betens in einer Kirche"
+  ]
 }

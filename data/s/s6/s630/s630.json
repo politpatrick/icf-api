@@ -1,8 +1,6 @@
 {
   "code": "s630",
   "kind": "fourdigit",
-  "preferred": "Struktur der Geschlechtsorgane",
-  "definition": null,
   "children": [
     "s6300",
     "s6301",
@@ -13,5 +11,6 @@
     "s6306",
     "s6308",
     "s6309"
-  ]
+  ],
+  "preferred": "Struktur der Geschlechtsorgane"
 }

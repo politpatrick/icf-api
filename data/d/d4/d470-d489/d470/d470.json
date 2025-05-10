@@ -1,13 +1,21 @@
 {
   "code": "d470",
   "kind": "fourdigit",
-  "preferred": "Transportmittel benutzen",
-  "definition": null,
   "children": [
     "d4700",
     "d4701",
     "d4702",
     "d4708",
     "d4709"
+  ],
+  "preferred": "Transportmittel benutzen",
+  "coding-hints": [
+    "Transportmittel zu benutzen, um sich als Fahrgast fortzubewegen, wie als Mitfahrer mit einem Auto oder Autobus, einer Rikscha, einem Ruderboot, einem von einem Tier angetriebenen Fahrzeug, mit einem privaten oder öffentlichen Taxi, Autobus, Zug, Straßenbahn, U-Bahn, Schiff oder Flugzeug"
+  ],
+  "inclusions": [
+    "Ein von Menschenkraft betriebenes Fahrzeug benutzen, private motorisierte oder öffentliche Transportmittel benutzen"
+  ],
+  "exclusions": [
+    "Sich unter Verwendung von Geräten/Ausrüstung fortbewegen"
   ]
 }

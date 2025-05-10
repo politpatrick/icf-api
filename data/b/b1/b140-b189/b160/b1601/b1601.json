@@ -1,7 +1,12 @@
 {
   "code": "b1601",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Form des Denkens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die Kohärenz und Logik des Denkprozesses gewährleisten (formales Denken)"
+  ],
+  "inclusions": [
+    "Störungen wie Perseveration, Vorbeidenken/Vorbeireden und Umständlichkeit"
+  ]
 }

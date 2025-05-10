@@ -1,7 +1,9 @@
 {
   "code": "b5452",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Elektrolythaushalt",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Aufrechterhaltung eines Gleichgewichts zwischen Aufnahme, Speicherung, Nutzung und Ausscheidung von Elektrolyten im Körper beteiligt sind"
+  ]
 }

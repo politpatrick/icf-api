@@ -1,7 +1,9 @@
 {
   "code": "b6101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sammlung des Harns",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Ableitung von Harn durch die Harnleiter und Sammlung des Harns in der Harnblase betreffen"
+  ]
 }

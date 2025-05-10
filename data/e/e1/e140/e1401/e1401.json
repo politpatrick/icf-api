@@ -1,7 +1,9 @@
 {
   "code": "e1401",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Hilfsprodukte und unterstützende Technologien für Kultur, Freizeit und Sport",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Angepasste oder speziell entworfene Ausrüstungsgegenstände, Produkte, und Technologien, die zur Durchführung und Verbesserung von Kultur-, Freizeit- und Sportaktivitäten benutzt werden, wie modifizierte Mobilitätsgeräte für den Sport, Anpassungen für musikalische und andere künstlerische Darbietungen"
+  ]
 }

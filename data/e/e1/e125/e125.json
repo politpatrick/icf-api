@@ -1,12 +1,17 @@
 {
   "code": "e125",
   "kind": "fourdigit",
-  "preferred": "Produkte und Technologien zur Kommunikation",
-  "definition": null,
   "children": [
     "e1250",
     "e1251",
     "e1258",
     "e1259"
+  ],
+  "preferred": "Produkte und Technologien zur Kommunikation",
+  "coding-hints": [
+    "Von Menschen für ihre Aktivitäten des Sendens und Empfangens von Informationen benutzte Ausrüstungsgegenstände, Produkte und Technologien, die sich im oder am Körper des Benutzers oder in seiner Nähe befinden, einschließlich solcher, die angepasst oder speziell entworfen sind"
+  ],
+  "inclusions": [
+    "Allgemeine Hilfsprodukte und unterstützende Technologien für die Kommunikation"
   ]
 }

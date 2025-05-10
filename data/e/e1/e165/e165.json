@@ -1,13 +1,18 @@
 {
   "code": "e165",
   "kind": "fourdigit",
-  "preferred": "Vermögenswerte",
-  "definition": null,
   "children": [
     "e1650",
     "e1651",
     "e1652",
     "e1658",
     "e1659"
+  ],
+  "preferred": "Vermögenswerte",
+  "coding-hints": [
+    "Produkte oder Gegenstände des wirtschaftlichen Handels wie Geld, Waren, Immobilien und andere Wertsachen, die einem Individuum gehören oder zu deren Verwendung es berechtigt ist"
+  ],
+  "inclusions": [
+    "Materielle und immaterielle Produkte und Güter, finanzielle Vermögenswerte"
   ]
 }

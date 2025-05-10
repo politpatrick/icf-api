@@ -1,7 +1,9 @@
 {
   "code": "b1102",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Qualität des Bewusstseins",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich bei Veränderungen auf die Art des Empfindens von Wachheit, Aufmerksamkeit und bewusster Wahrnehmung auswirken, wie drogeninduzierte Bewusstseinsveränderungen oder ein Delir"
+  ]
 }

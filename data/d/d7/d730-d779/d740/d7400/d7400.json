@@ -1,7 +1,9 @@
 {
   "code": "d7400",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Mit Autoritätspersonen umgehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Formelle Beziehungen mit Menschen in Machtpositionen, höheren Ranges oder Prestiges als der eigenen sozialen Position aufzunehmen und aufrecht zu erhalten, wie mit einem Arbeitgeber"
+  ]
 }

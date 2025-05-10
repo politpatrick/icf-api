@@ -1,8 +1,6 @@
 {
   "code": "b760",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Kontrolle von Willkürbewegungen",
-  "definition": null,
   "children": [
     "b7600",
     "b7601",
@@ -10,5 +8,15 @@
     "b7603",
     "b7608",
     "b7609"
+  ],
+  "preferred": "Funktionen der Kontrolle von Willkürbewegungen",
+  "coding-hints": [
+    "Funktionen, die mit der Kontrolle und Koordination von willkürlichen Bewegungen verbunden sind"
+  ],
+  "inclusions": [
+    "Funktionen der Kontrolle einfacher und komplexer Willkürbewegungen, der Koordination von Willkürbewegungen, Stützfunktionen der Arme oder Beine, motorische Rechts-Links-Koordination, Auge-Hand-Koordination, Auge-Fuß-Koordination; Funktionsstörungen wie Kontroll- und Koordinationsprobleme, z.B. Dysdiadochokinese"
+  ],
+  "exclusions": [
+    "Funktionen der Muskelkraft"
   ]
 }

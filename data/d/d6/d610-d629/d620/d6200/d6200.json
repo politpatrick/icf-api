@@ -1,7 +1,9 @@
 {
   "code": "d6200",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Einkaufen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Waren und Dienstleistungen für das tägliche Leben gegen Geld zu erwerben (einschließlich einen für die Einkäufe Beauftragten anzuweisen und zu beaufsichtigen), wie Lebensmittel, Getränke, Reinigungsmaterial, Haushaltsartikel oder Kleidung in einem Geschäft oder auf dem Markt auswählen; Qualität und Preis der benötigten Artikel vergleichen, den Preis für die ausgewählten Waren und Dienstleistungen aushandeln und bezahlen sowie die Waren transportieren"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "d730-d779",
   "kind": "block",
-  "preferred": "Besondere interpersonelle Beziehungen",
-  "definition": null,
   "children": [
     "d730",
     "d740",
@@ -10,5 +8,6 @@
     "d760",
     "d770",
     "d779"
-  ]
+  ],
+  "preferred": "Besondere interpersonelle Beziehungen"
 }

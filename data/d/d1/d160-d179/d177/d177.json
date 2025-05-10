@@ -1,7 +1,12 @@
 {
   "code": "d177",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Entscheidungen treffen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Eine Wahl zwischen Optionen zu treffen, diese umzusetzen und ihre Auswirkungen abzuschätzen, wie einen besonderen Gegenstand auswählen und kaufen, oder sich entscheiden, eine Aufgabe unter vielen, die erledigt werden müssen, übernehmen und diese ausführen"
+  ],
+  "exclusions": [
+    "Denken"
+  ]
 }

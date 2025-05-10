@@ -1,7 +1,9 @@
 {
   "code": "d8502",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Vollzeitbeschäftigung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich als Angestellter an allen Aspekten bezahlter Arbeit auf Vollzeitbasis zu beteiligen, wie Arbeit suchen und eine Tätigkeit erhalten, die geforderten Aufgaben der Tätigkeit erfüllen, rechtzeitig bei der Arbeit erscheinen, andere Arbeitnehmer überwachen oder selbst überwacht werden sowie die geforderten Aufgaben allein oder in Gruppen erledigen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b2401",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Schwindelgefühl",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gefühl von Bewegung, an der man selbst oder seine Umgebung beteiligt ist; Gefühl von Drehen, Schwanken oder Kippen"
+  ]
 }

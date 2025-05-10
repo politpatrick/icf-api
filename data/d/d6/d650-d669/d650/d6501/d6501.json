@@ -1,7 +1,9 @@
 {
   "code": "d6501",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Wohnung und Möbel instand halten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die Wohnung, deren Außenbereich und Innenbereich samt Inhalt instand zu setzen und zu halten, wie Einrichtungsgegenstände und Möbel streichen und reparieren sowie die erforderlichen Werkzeuge und Materialien für die Reparatur benutzen"
+  ]
 }

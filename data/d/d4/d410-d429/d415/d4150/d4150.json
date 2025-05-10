@@ -1,7 +1,12 @@
 {
   "code": "d4150",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "In liegender Position verbleiben",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Für eine erforderliche Zeit in einer liegenden Position zu verbleiben, wie im Bett auf dem Bauch liegen"
+  ],
+  "inclusions": [
+    "In Bauchlage (Gesicht unten), in Rückenlage (Gesicht oben) oder in Seitenlage verbleiben"
+  ]
 }

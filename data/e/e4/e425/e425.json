@@ -1,7 +1,9 @@
 {
   "code": "e425",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Individuelle Einstellungen von Bekannten, Seinesgleichen (Peers), Kollegen, Nachbarn und anderen Gemeindemitgliedern",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Allgemeine oder spezifische Meinungen und Überzeugungen von Bekannten, Seinesgleichen (Peers), Kollegen, Nachbarn und anderen Gemeindemitgliedern, die eine bestimmte Person oder andere Dinge (z.B. soziale, politische und ökonomische Themen) betreffen, und die individuelles Verhalten und Handlungen beeinflussen"
+  ]
 }

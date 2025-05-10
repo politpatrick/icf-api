@@ -1,7 +1,9 @@
 {
   "code": "d4450",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Ziehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einen Gegenstand mit Fingern, Händen und Armen zu sich hinzubringen oder ihn von einem Platz zu einem anderen zu bewegen, wie eine Tür zuziehen"
+  ]
 }

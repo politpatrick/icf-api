@@ -1,7 +1,15 @@
 {
   "code": "b260",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Die Propriozeption betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen, die die Wahrnehmung der Position der einzelnen Körperteile in Relation zum Körper betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Wahrnehmung der Körperposition (Statästhesie) und einer Körperbewegung (Kinästhesie)"
+  ],
+  "exclusions": [
+    "Vestibuläre Funktionen"
+  ]
 }

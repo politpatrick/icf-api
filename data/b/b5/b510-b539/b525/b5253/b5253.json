@@ -1,7 +1,9 @@
 {
   "code": "b5253",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Stuhlkontinenz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Kontrolle der Stuhlausscheidung beteiligt sind"
+  ]
 }

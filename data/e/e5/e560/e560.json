@@ -1,13 +1,15 @@
 {
   "code": "e560",
   "kind": "fourdigit",
-  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Medienwesens",
-  "definition": null,
   "children": [
     "e5600",
     "e5601",
     "e5602",
     "e5608",
     "e5609"
+  ],
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze des Medienwesens",
+  "coding-hints": [
+    "Dienste, Systeme und Handlungsgrundsätze für die Massenkommunikation über Radio, Fernsehen, Zeitungen und Internet"
   ]
 }

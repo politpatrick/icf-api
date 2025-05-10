@@ -1,7 +1,9 @@
 {
   "code": "d5402",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Schuhwerk anziehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die koordinierten Handlungen und Aufgaben durchzuführen, welche das Anziehen von Socken, Strümpfen und Schuhwerk betreffen"
+  ]
 }

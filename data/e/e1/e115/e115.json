@@ -1,12 +1,17 @@
 {
   "code": "e115",
   "kind": "fourdigit",
-  "preferred": "Produkte und Technologien zum persönlichen Gebrauch im täglichen Leben",
-  "definition": null,
   "children": [
     "e1150",
     "e1151",
     "e1158",
     "e1159"
+  ],
+  "preferred": "Produkte und Technologien zum persönlichen Gebrauch im täglichen Leben",
+  "coding-hints": [
+    "Von Menschen für ihre täglichen Aktivitäten benutzte Ausrüstungsgegenstände, Produkte und Technologien, in oder nahe beim Körper getragen, einschließlich solcher, die angepasst oder speziell entworfen sind"
+  ],
+  "inclusions": [
+    "Allgemeine und unterstützende Produkte und Technologien für den persönlichen Gebrauch"
   ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b51051",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Pharyngeales Schlucken",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Beförderung von Speisen und Getränken über den Rachen in geeigneter Menge und Geschwindigkeit betreffen"
+  ]
 }

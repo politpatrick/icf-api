@@ -1,7 +1,9 @@
 {
   "code": "b1565",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Räumlich-visuelle Wahrnehmung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktion, die am visuellen Erkennen von räumlichen Bezügen der Objekte in der Umgebung zueinander oder zu einem selbst beteiligt sind"
+  ]
 }

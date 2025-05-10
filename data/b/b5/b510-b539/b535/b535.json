@@ -1,13 +1,21 @@
 {
   "code": "b535",
   "kind": "fourdigit",
-  "preferred": "Mit dem Verdauungssystem verbundene Empfindungen",
-  "definition": null,
   "children": [
     "b5350",
     "b5351",
     "b5352",
     "b5358",
     "b5359"
+  ],
+  "preferred": "Mit dem Verdauungssystem verbundene Empfindungen",
+  "coding-hints": [
+    "Empfindungen, die durch Essen, Trinken und entsprechende Verdauungsfunktionen entstehen"
+  ],
+  "inclusions": [
+    "Übelkeit und Brechreiz, Blähungsgefühl, Bauchkrämpfe; Völlegefühl, Globusgefühl, Magenkrämpfe, Blähbauch, Sodbrennen"
+  ],
+  "exclusions": [
+    "Schmerz"
   ]
 }

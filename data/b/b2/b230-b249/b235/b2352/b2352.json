@@ -1,7 +1,9 @@
 {
   "code": "b2352",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Vestibulärer Bewegungssinn",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen des Innenohrs, die die Feststellung der Körperbewegung im Raum betreffen, einschließlich ihrer Richtung und Geschwindigkeit"
+  ]
 }

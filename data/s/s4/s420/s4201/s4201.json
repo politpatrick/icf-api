@@ -1,7 +1,6 @@
 {
   "code": "s4201",
   "kind": "fivedigit",
-  "preferred": "Lymphknoten",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Lymphknoten"
 }

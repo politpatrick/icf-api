@@ -1,7 +1,12 @@
 {
   "code": "b7652",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Tics und Manierismen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die sich wiederholende, scheinbar zweckgerichtete, unwillkürliche Kontraktionen von Muskelgruppen betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Stimmtics, Koprolalie, Zähneknirschen"
+  ]
 }

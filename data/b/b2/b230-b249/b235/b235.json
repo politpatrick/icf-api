@@ -1,13 +1,21 @@
 {
   "code": "b235",
   "kind": "fourdigit",
-  "preferred": "Vestibuläre Funktionen",
-  "definition": null,
   "children": [
     "b2350",
     "b2351",
     "b2352",
     "b2358",
     "b2359"
+  ],
+  "preferred": "Vestibuläre Funktionen",
+  "coding-hints": [
+    "Sinnesfunktionen des Innenohrs, die Lage, Gleichgewicht und Bewegung betreffen"
+  ],
+  "inclusions": [
+    "Funktionen, die die Position und den Lagesinn sowie das Körpergleichgewicht und die Bewegung betreffen"
+  ],
+  "exclusions": [
+    "Mit den Hör- und vestibulären Funktionen verbundene Empfindungen"
   ]
 }

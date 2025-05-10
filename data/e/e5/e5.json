@@ -1,8 +1,6 @@
 {
   "code": "e5",
   "kind": "chapter",
-  "preferred": "Dienste, Systeme und Handlungsgrundsätze",
-  "definition": null,
   "children": [
     "e510",
     "e515",
@@ -24,5 +22,6 @@
     "e595",
     "e598",
     "e599"
-  ]
+  ],
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze"
 }

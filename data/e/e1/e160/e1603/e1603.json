@@ -1,7 +1,9 @@
 {
   "code": "e1603",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Produkte und Technologien von Parks, Natur- und Wildschutzgebieten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Produkte und Technologien in Parks, Landschafts- und Naturschutzgebieten, soweit sie sich auf die äußere Umgebung eines Individuums durch Umsetzung von Flächennutzungspolitik sowie der Raumplanung und -entwicklung auswirken, wie Parkbezeichnungen und Wanderwege zur Wildtierbesichtigung"
+  ]
 }

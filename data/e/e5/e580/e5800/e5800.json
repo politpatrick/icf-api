@@ -1,7 +1,9 @@
 {
   "code": "e5800",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste des Gesundheitswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme auf lokaler, auf kommunaler, regionaler, staatlicher bzw. nationaler Ebene, die Individuen Therapiemaßnahmen für ihr körperliches, geistiges, seelisches und soziales Wohl erbringen, wie Dienste für die Gesundheitsförderung und Krankheitsvorbeugung, die medizinische Grundversorgung, die Akutversorgung, die Rehabilitation und Langzeitpflege; öffentlich oder privat finanzierte Dienste, die kurzfristige, langfristige, periodische oder einmalige Leistungen erbringen, an unterschiedlichen Orten wie z.B. in der Gemeinde, zu Hause, in der Schule, am Arbeitsplatz, in allgemeinen Krankenhäusern, Fachkrankenhäusern, Kliniken, wohnortnahen und –fernen Pflegeeinrichtungen, einschließlich derer, die diese Dienste erbringen"
+  ]
 }

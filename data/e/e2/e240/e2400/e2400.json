@@ -1,7 +1,9 @@
 {
   "code": "e2400",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Lichtintensität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Energieniveau oder -betrag, der von einer natürlichen (z.B. Sonne) oder künstlichen Lichtquelle emittiert wird"
+  ]
 }

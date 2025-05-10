@@ -1,7 +1,12 @@
 {
   "code": "b7301",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kraft der Muskeln einer einzelnen Extremität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit der Kontraktionskraft der Muskeln und Muskelgruppen eines Armes oder Beines stehen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie bei Monoparese und Monoplegie"
+  ]
 }

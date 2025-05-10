@@ -1,7 +1,9 @@
 {
   "code": "b6201",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Häufigkeit der Blasenentleerung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Häufigkeit, mit der die Blasenentleerung erfolgt, beteiligt sind"
+  ]
 }

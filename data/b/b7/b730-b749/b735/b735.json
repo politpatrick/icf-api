@@ -1,8 +1,6 @@
 {
   "code": "b735",
   "kind": "fourdigit",
-  "preferred": "Funktionen des Muskeltonus",
-  "definition": null,
   "children": [
     "b7350",
     "b7351",
@@ -13,5 +11,15 @@
     "b7356",
     "b7358",
     "b7359"
+  ],
+  "preferred": "Funktionen des Muskeltonus",
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit dem Ruhetonus der Muskeln und dem Widerstand bei passiver Bewegung stehen"
+  ],
+  "inclusions": [
+    "Funktionen, die mit dem Tonus einzelner Muskeln und Muskelgruppen, Muskeln einer einzelnen Extremität, einer Körperhälfte, der unteren Körperhälfte, aller Extremitäten, des Rumpfes und aller Muskeln des Körpers verbunden sind; Funktionsstörungen wie verminderter Muskeltonus, erhöhter Muskeltonus, Spastik"
+  ],
+  "exclusions": [
+    "Funktionen der Muskelkraft"
   ]
 }

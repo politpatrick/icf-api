@@ -1,12 +1,17 @@
 {
   "code": "e210",
   "kind": "fourdigit",
-  "preferred": "Physikalische Geographie",
-  "definition": null,
   "children": [
     "e2100",
     "e2101",
     "e2108",
     "e2109"
+  ],
+  "preferred": "Physikalische Geographie",
+  "coding-hints": [
+    "Merkmale der Landformen und Gewässer"
+  ],
+  "inclusions": [
+    "Merkmale der Geographie bezüglich Orographie (Relief, Art und Ausmaß von Land und Landformen einschließlich Höhe) und Hydrographie (Gewässer)"
   ]
 }

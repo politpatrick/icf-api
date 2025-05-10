@@ -1,7 +1,9 @@
 {
   "code": "d7200",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Beziehungen eingehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In einer kontextuell und sozial angemessenen Weise mit anderen Interaktionen für kurze oder längere Zeiträume zu beginnen und aufrecht zu erhalten, wie sich vorstellen, Freundschaften schließen und berufliche Beziehungen herstellen, eine mögliche Dauer-, Liebes- oder intime Beziehung beginnen"
+  ]
 }

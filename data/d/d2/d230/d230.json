@@ -1,13 +1,21 @@
 {
   "code": "d230",
   "kind": "fourdigit",
-  "preferred": "Die tägliche Routine durchführen",
-  "definition": null,
   "children": [
     "d2301",
     "d2302",
     "d2303",
     "d2308",
     "d2309"
+  ],
+  "preferred": "Die tägliche Routine durchführen",
+  "coding-hints": [
+    "Einfache und komplexe und koordinierte Handlungen auszuführen, um die Anforderungen der alltäglichen Prozeduren oder Pflichten zu planen, zu handhaben und zu bewältigen, wie Zeit einplanen und den Tagesplan für die verschiedenen Aktivitäten aufstellen"
+  ],
+  "inclusions": [
+    "Die tägliche Routine handhaben und zu Ende bringen; das eigene Aktivitätsniveau handhaben"
+  ],
+  "exclusions": [
+    "Mehrfachaufgaben übernehmen"
   ]
 }

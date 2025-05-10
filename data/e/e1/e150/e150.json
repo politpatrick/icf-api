@@ -1,13 +1,18 @@
 {
   "code": "e150",
   "kind": "fourdigit",
-  "preferred": "Entwurf, Konstruktion sowie Bauprodukte und Technologien von öffentlichen Gebäuden",
-  "definition": null,
   "children": [
     "e1500",
     "e1501",
     "e1502",
     "e1508",
     "e1509"
+  ],
+  "preferred": "Entwurf, Konstruktion sowie Bauprodukte und Technologien von öffentlichen Gebäuden",
+  "coding-hints": [
+    "Produkte und Technologien, für den öffentlichen Zugang geplant und konstruiert, welche die bebaute Umgebung (Innen- und Außenbereiche) eines Individuums bilden, einschließlich solcher, die angepasst oder speziell entworfen sind"
+  ],
+  "inclusions": [
+    "Entwurf, Konstruktion und Bauprodukte und Technologien von Ein- und Ausgängen, Einrichtungen und Wegeführung"
   ]
 }

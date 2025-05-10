@@ -1,7 +1,15 @@
 {
   "code": "b530",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Funktionen der Aufrechterhaltung des Körpergewichts",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die das Aufrechterhalten eines angemessenen Körpergewichts einschließlich Gewichtszunahme während der Körperentwicklung betreffen"
+  ],
+  "inclusions": [
+    "Funktionen des Aufrechterhaltens eines angemessenen Body Mass Index (BMI); Funktionsstörungen wie Untergewicht, Kachexie, Substanzverlust, Übergewicht, Abzehrung, primäre und sekundäre Adipositas"
+  ],
+  "exclusions": [
+    "Funktionen der Nahrungsmittelassimilation"
+  ]
 }

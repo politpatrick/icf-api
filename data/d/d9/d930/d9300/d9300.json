@@ -1,7 +1,9 @@
 {
   "code": "d9300",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Organisierte Religion",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich an organisierten religiösen Zeremonien, Aktivitäten und Ereignissen beteiligen"
+  ]
 }

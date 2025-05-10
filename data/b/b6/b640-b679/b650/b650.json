@@ -1,13 +1,21 @@
 {
   "code": "b650",
   "kind": "fourdigit",
-  "preferred": "Menstruationsfunktionen",
-  "definition": null,
   "children": [
     "b6500",
     "b6501",
     "b6502",
     "b6508",
     "b6509"
+  ],
+  "preferred": "Menstruationsfunktionen",
+  "coding-hints": [
+    "Funktionen, die mit dem Menstruationszyklus einschließlich der Regulation der Menstruation und der Ausscheidung der Menstruationssekrete verbunden sind"
+  ],
+  "inclusions": [
+    "Funktionen der Regelmäßigkeit des Zyklus und des Menstruationsintervalls, der Stärke der Menstruationsblutung, Menarche, Menopause; Funktionsstörungen wie prämenstruelles Syndrom, primäre und sekundäre Amenorrhoe, Menorrhagie, Polymenorrhoe, retrograde Menstruation"
+  ],
+  "exclusions": [
+    "Sexuelle Funktionen"
   ]
 }

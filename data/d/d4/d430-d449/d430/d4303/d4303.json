@@ -1,7 +1,9 @@
 {
   "code": "d4303",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Auf den Schultern, der Hüfte oder dem Rücken tragen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einen Gegenstand auf Schultern, Hüfte oder Rücken oder in deren Kombination von einem Platz an einen anderen zu tragen oder zu transportieren, wie beim Tragen eines großen Paketes"
+  ]
 }

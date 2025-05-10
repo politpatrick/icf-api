@@ -1,7 +1,6 @@
 {
   "code": "s73001",
   "kind": "sixdigit",
-  "preferred": "Ellbogengelenk",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Ellbogengelenk"
 }

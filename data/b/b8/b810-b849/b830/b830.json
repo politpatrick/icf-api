@@ -1,7 +1,15 @@
 {
   "code": "b830",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Andere Funktionen der Haut",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen der Haut außer Schutz und Wiederherstellung, wie Kühlen und Schweißabsonderung"
+  ],
+  "inclusions": [
+    "Funktionen des Schwitzens, Funktionen der Hautdrüsen und sich daraus ergebender Körpergeruch"
+  ],
+  "exclusions": [
+    "Schutzfunktionen der Haut"
+  ]
 }

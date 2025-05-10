@@ -1,13 +1,12 @@
 {
   "code": "b640-b679",
   "kind": "block",
-  "preferred": "Genital- und reproduktive Funktionen",
-  "definition": null,
   "children": [
     "b640",
     "b650",
     "b660",
     "b670",
     "b679"
-  ]
+  ],
+  "preferred": "Genital- und reproduktive Funktionen"
 }

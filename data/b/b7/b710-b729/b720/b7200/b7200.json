@@ -1,7 +1,12 @@
 {
   "code": "b7200",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Beweglichkeit des Schulterblattes",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die den Bewegungsumfang und die Leichtigkeit der Bewegung des Schulterblatts betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Protraktion, Retrotraktion, Außenrotation und Innenrotation des Schulterblattes"
+  ]
 }

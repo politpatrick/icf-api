@@ -1,7 +1,12 @@
 {
   "code": "e5700",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste der sozialen Sicherheit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme für die finanzielle Unterstützung von Menschen, welche aufgrund von Alter, Armut, Arbeitslosigkeit, Gesundheitsproblemen oder Behinderung staatliche Unterstützung benötigen, die entweder durch Steueraufkommen oder Beitragssysteme finanziert wird, wie Dienste zur Feststellung von Anspruchsberechtigungen, zur Auszahlung und Verteilung von Unterstützungsgeldern für die folgenden Programmarten: Programme der Sozialhilfe (z.B. nicht beitragspflichtige Sozialhilfe, armuts- oder andere bedürftigkeitsabhängige Ausgleichszahlungen), Programme der Sozialversicherung (z.B. beitragspflichtige Versicherung gegen Unfall oder Arbeitslosigkeit) sowie Rentensysteme für Invalidität/Erwerbsminderung und ähnliche Fährnisse (z.B. Einkommensersatzleistungen), einschließlich derer, die diese Dienste erbringen"
+  ],
+  "exclusions": [
+    "Dienste des Gesundheitswesens"
+  ]
 }

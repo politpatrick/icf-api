@@ -1,13 +1,21 @@
 {
   "code": "b445",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Atemmuskulatur",
-  "definition": null,
   "children": [
     "b4450",
     "b4451",
     "b4452",
     "b4458",
     "b4459"
+  ],
+  "preferred": "Funktionen der Atemmuskulatur",
+  "coding-hints": [
+    "Funktionen, die die an der Atmung beteiligten Muskeln betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der thorakalen Atemmuskeln; Funktionen des Zwerchfells und Funktionen der Atemhilfsmuskulatur"
+  ],
+  "exclusions": [
+    "Atmungsfunktionen"
   ]
 }

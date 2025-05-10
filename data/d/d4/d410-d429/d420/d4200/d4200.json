@@ -1,7 +1,15 @@
 {
   "code": "d4200",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sich beim Sitzen verlagern",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich aus sitzender Position auf einer Sitzgelegenheit auf eine andere gleichen oder unterschiedlichen Niveaus zu bewegen, wie sich von einem Stuhl in ein Bett bewegen"
+  ],
+  "inclusions": [
+    "Sich von einem Stuhl auf eine andere Sitzgelegenheit zu bewegen, wie auf einen Toilettensitz; sich von einem Rollstuhl auf einen Autositz bewegen"
+  ],
+  "exclusions": [
+    "Eine elementare Körperposition wechseln"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "e2501",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Laut-/Geräuschqualität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Art eines Lautes oder Geräusches, das durch Wellenlänge und -muster des Lautes/Geräusches bestimmt ist und als Tonhöhe und Klang wahrgenommen wird, wie Schrillheit oder Klangfülle, und das nützliche Informationen (z.B. die Laute eines Hundes, der eine miauende Katze verbellt) oder verwirrende Informationen (z.B. Hintergrundlärm) über die Welt liefern kann"
+  ]
 }

@@ -1,7 +1,12 @@
 {
   "code": "b7303",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kraft der Muskeln der unteren Körperhälfte",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit der Kontraktionskraft der Muskeln und Muskelgruppen der unteren Körperhälfte stehen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie bei Paraparese und Paraplegie"
+  ]
 }

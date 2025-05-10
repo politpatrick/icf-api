@@ -1,13 +1,21 @@
 {
   "code": "b455",
   "kind": "fourdigit",
-  "preferred": "Funktionen der kardiorespiratorischen Belastbarkeit",
-  "definition": null,
   "children": [
     "b4550",
     "b4551",
     "b4552",
     "b4558",
     "b4559"
+  ],
+  "preferred": "Funktionen der kardiorespiratorischen Belastbarkeit",
+  "coding-hints": [
+    "Funktionen, die die Kapazität des respiratorischen und kardiovaskulären Systems zur Erbringung von Ausdauerleistungen betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Ausdauerleistung, der aeroben Kapazität, Belastbarkeit und Ermüdbarkeit"
+  ],
+  "exclusions": [
+    "Funktionen des kardiovaskulären Systems"
   ]
 }

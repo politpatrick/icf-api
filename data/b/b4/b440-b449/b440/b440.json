@@ -1,13 +1,21 @@
 {
   "code": "b440",
   "kind": "fourdigit",
-  "preferred": "Atmungsfunktionen",
-  "definition": null,
   "children": [
     "b4400",
     "b4401",
     "b4402",
     "b4408",
     "b4409"
+  ],
+  "preferred": "Atmungsfunktionen",
+  "coding-hints": [
+    "Funktionen, die Inspiration, Gasaustausch zwischen Luft und Blut sowie Exspiration betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Atemfrequenz, des Atemrhythmus und der Atemtiefe; Funktionsstörungen wie Apnoe; Hyperventilation; unregelmäßige Atmung; paradoxe Atmung; pulmonales Emphysem; Bronchospasmus"
+  ],
+  "exclusions": [
+    "Funktionen der Atemmuskulatur"
   ]
 }

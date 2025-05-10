@@ -1,7 +1,9 @@
 {
   "code": "e5551",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme der Vereinigungen und Organisationen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- und Überwachungsmechanismen, die die Beziehungen und Aktivitäten von Menschen, die aus allgemeinen, nicht-kommerziellen Interessen zusammenkommen, sowie die Gründung und Führung von Vereinigungen und Organisationen regeln, wie Organisationen für gegenseitige Hilfe, Organisationen für Freizeit und Hobby, kulturelle und religiöse Vereinigungen und Non-Profit-Organisationen"
+  ]
 }

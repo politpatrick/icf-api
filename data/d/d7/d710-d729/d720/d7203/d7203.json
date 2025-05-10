@@ -1,7 +1,9 @@
 {
   "code": "d7203",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sozialen Regeln gemäß interagieren",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In sozialen Interaktionen unabhängig zu handeln und sich nach den sozialen Konventionen, die die eigene Rolle, Stellung oder einen anderen sozialen Status bei Interaktionen mit anderen bestimmen, zu richten"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b4202",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Aufrechterhaltung des Blutdrucks",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen bezüglich der Aufrechterhaltung eines angemessenen Blutdrucks bei Veränderungen im Körper"
+  ]
 }

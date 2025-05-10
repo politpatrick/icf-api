@@ -1,7 +1,9 @@
 {
   "code": "b5100",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Saugen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, eine Flüssigkeit durch Bewegungen der Wangen, Lippen und Zunge in den Mund zu ziehen"
+  ]
 }

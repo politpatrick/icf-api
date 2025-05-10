@@ -1,8 +1,6 @@
 {
   "code": "d450",
   "kind": "fourdigit",
-  "preferred": "Gehen",
-  "definition": null,
   "children": [
     "d4500",
     "d4501",
@@ -10,5 +8,15 @@
     "d4503",
     "d4508",
     "d4509"
+  ],
+  "preferred": "Gehen",
+  "coding-hints": [
+    "Sich zu Fuß auf einer Oberfläche Schritt für Schritt so fortzubewegen, dass stets wenigstens ein Fuß den Boden berührt, wie beim Spazieren, Schlendern, Vorwärts-, Rückwärts- oder Seitwärtsgehen"
+  ],
+  "inclusions": [
+    "Kurze oder weite Entfernungen gehen; auf unterschiedlichen Oberflächen gehen; Hindernisse umgehen"
+  ],
+  "exclusions": [
+    "Sich verlagern"
   ]
 }

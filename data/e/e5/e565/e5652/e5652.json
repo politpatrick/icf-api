@@ -1,7 +1,12 @@
 {
   "code": "e5652",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze der Wirtschaft",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die Produktion, Verteilung, Verbrauch und Verwendung von Gütern und Dienstleistungen regeln, wie von staatlicher Seite angenommene und umgesetzte wirtschaftliche Grundsätze"
+  ],
+  "exclusions": [
+    "Handlungsgrundsätze des Versorgungswesens"
+  ]
 }

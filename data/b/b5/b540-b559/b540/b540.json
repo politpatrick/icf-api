@@ -1,8 +1,6 @@
 {
   "code": "b540",
   "kind": "fourdigit",
-  "preferred": "Allgemeine Stoffwechselfunktionen",
-  "definition": null,
   "children": [
     "b5400",
     "b5401",
@@ -10,5 +8,15 @@
     "b5403",
     "b5408",
     "b5409"
+  ],
+  "preferred": "Allgemeine Stoffwechselfunktionen",
+  "coding-hints": [
+    "Funktionen, die die Regulierung der notwendigen Nahrungsbausteine wie Kohlenhydrate, Eiweiße und Fette sowie deren Umwandlung in Energie betreffen"
+  ],
+  "inclusions": [
+    "Funktionen des Stoffwechsels, Grundumsatz, Stoffwechsel von Kohlenhydraten, Eiweiß und Fett, Katabolismus, Anabolismus, Energieproduktion; Steigerung oder Absenkung des Grundumsatzes"
+  ],
+  "exclusions": [
+    "Funktionen der Nahrungsmittelassimilation"
   ]
 }

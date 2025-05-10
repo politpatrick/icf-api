@@ -1,7 +1,9 @@
 {
   "code": "d4451",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Schieben",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einen Gegenstand mit Fingern, Händen und Armen von sich wegzubringen oder ihn von einem Platz zu einem anderen zu bewegen, wie ein Tier wegschubsen"
+  ]
 }

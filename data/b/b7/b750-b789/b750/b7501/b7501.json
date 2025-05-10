@@ -1,7 +1,12 @@
 {
   "code": "b7501",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Reflexe durch schädigende Stimuli",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die durch schmerzhafte oder andere schädigende Stimuli hervorgerufene unwillkürliche Muskelkontraktionen betreffen"
+  ],
+  "inclusions": [
+    "Schutzreflex"
+  ]
 }

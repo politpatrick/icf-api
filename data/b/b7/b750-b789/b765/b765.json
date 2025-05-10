@@ -1,8 +1,6 @@
 {
   "code": "b765",
   "kind": "fourdigit",
-  "preferred": "Funktionen der unwillkürlichen Bewegungen",
-  "definition": null,
   "children": [
     "b7650",
     "b7651",
@@ -10,5 +8,15 @@
     "b7653",
     "b7658",
     "b7659"
+  ],
+  "preferred": "Funktionen der unwillkürlichen Bewegungen",
+  "coding-hints": [
+    "Funktionen, die die unbeabsichtigten, nicht- oder halbzweckgerichteten unwillkürlichen Kontraktionen von Muskeln oder Muskelgruppen betreffen"
+  ],
+  "inclusions": [
+    "Unwillkürliche Muskelkontraktionen; Funktionsstörungen wie Tremor, Tics, Manierismen, Stereotypien, Perserverationen, Chorea, Athetose, Stimmtics, Dystonische Bewegungen, Dyskinesie"
+  ],
+  "exclusions": [
+    "Funktionen der Kontrolle von Willkürbewegungen"
   ]
 }

@@ -1,7 +1,12 @@
 {
   "code": "b21023",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Visuelle Bildqualität",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sehfunktionen, die an der Qualität des Bildes beteiligt sind"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Sehen von Streulicht, beeinträchtigte intraokulare Bildqualität (Mouches volantes - durch Glaskörpertrübungen bedingte mückenartige Wahrnehmungen - und Schleier); Bildverzerrung, Sehen von Sternen und Blitzen"
+  ]
 }

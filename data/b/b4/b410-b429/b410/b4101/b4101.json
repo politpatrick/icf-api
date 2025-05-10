@@ -1,7 +1,12 @@
 {
   "code": "b4101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Herzrhythmus",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, bezüglich der Regelmäßigkeit des Herzschlags"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Arrhythmien"
+  ]
 }

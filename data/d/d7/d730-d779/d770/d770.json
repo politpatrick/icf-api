@@ -1,13 +1,18 @@
 {
   "code": "d770",
   "kind": "fourdigit",
-  "preferred": "Intime Beziehungen",
-  "definition": null,
   "children": [
     "d7700",
     "d7701",
     "d7702",
     "d7708",
     "d7709"
+  ],
+  "preferred": "Intime Beziehungen",
+  "coding-hints": [
+    "Intime oder Liebesbeziehungen zwischen Individuen aufzubauen und aufrecht zu erhalten, wie zwischen Ehemann und -frau, sich Liebenden oder Sexualpartnern"
+  ],
+  "inclusions": [
+    "Liebes-, eheliche und Sexualbeziehungen"
   ]
 }

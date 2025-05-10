@@ -1,7 +1,9 @@
 {
   "code": "d2302",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Die tägliche Routine abschließen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einfache und komplexe, koordinierte Handlungen, die eine Person durchführen muss, um die Anforderungen der alltäglichen Prozeduren oder Pflichten zu einem Abschluss zu bringen"
+  ]
 }

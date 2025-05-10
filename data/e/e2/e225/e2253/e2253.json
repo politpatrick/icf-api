@@ -1,7 +1,9 @@
 {
   "code": "e2253",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Niederschlag",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Feuchtigkeitsniederschlag, wie Regen, Tau, Schnee, Schneeregen und Hagel"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "e2",
   "kind": "chapter",
-  "preferred": "Natürliche und vom Menschen veränderte Umwelt",
-  "definition": null,
   "children": [
     "e210",
     "e215",
@@ -17,5 +15,9 @@
     "e260",
     "e298",
     "e299"
+  ],
+  "preferred": "Natürliche und vom Menschen veränderte Umwelt",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit belebten oder unbelebten Elementen der natürlichen oder materiellen Umwelt, mit vom Menschen veränderten Bestandteilen dieser Umwelt sowie mit Merkmalen menschlicher Bevölkerungen in dieser Umwelt."
   ]
 }

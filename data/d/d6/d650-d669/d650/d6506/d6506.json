@@ -1,7 +1,9 @@
 {
   "code": "d6506",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sich um Tiere kümmern",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich um Nutz- und Haustiere zu kümmern, wie Haustiere füttern, pflegen, reinigen, bürsten sowie für deren Bewegung sorgen; auf die Gesundheit von Nutz- und Haustieren achten; die Pflege von Nutz- und Haustieren für den Fall der eigenen Abwesenheit planen"
+  ]
 }

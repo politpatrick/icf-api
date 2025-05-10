@@ -1,13 +1,21 @@
 {
   "code": "b710",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Gelenkbeweglichkeit",
-  "definition": null,
   "children": [
     "b7100",
     "b7101",
     "b7102",
     "b7108",
     "b7109"
+  ],
+  "preferred": "Funktionen der Gelenkbeweglichkeit",
+  "coding-hints": [
+    "Funktionen, die den Bewegungsumfang und die Leichtigkeit des Bewegungsablaufes betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Beweglichkeit eines einzelnen oder mehrerer Gelenke, der Wirbelsäule, Schulter, des Ellenbogens, Handgelenks, der Hüfte, des Knies, Sprunggelenks, der kleinen Gelenke der Hände und Füße; allgemeine Gelenkbeweglichkeit; Funktionsstörungen wie bei Hypermobilität der Gelenke, Gelenksteife, Schultersteife, Gelenkentzündung"
+  ],
+  "exclusions": [
+    "Funktionen der Gelenkstabilität"
   ]
 }

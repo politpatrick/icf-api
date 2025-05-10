@@ -1,7 +1,9 @@
 {
   "code": "b1264",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Offenheit gegenüber neuen Erfahrungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einer Persönlichkeit äußern, die durch Neugier, Vorstellungsvermögen und Suche nach Erfahrungen gekennzeichnet ist, im Gegensatz zu Abgestumpftheit, Unaufmerksamkeit und emotionaler Ausdruckslosigkeit"
+  ]
 }

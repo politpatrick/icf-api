@@ -1,7 +1,9 @@
 {
   "code": "e235",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Vom Menschen verursachte Ereignisse",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Vom Menschen verursachte Veränderungen oder Störungen der natürlichen Umwelt, die eine erhebliche Beeinträchtigung des täglichen Lebens der Menschen der Region zur Folge haben können, einschließlich Ereignisse oder Bedingungen im Zusammenhang mit Konflikten und Kriegen, wie Vertreibung von Menschen, Zerstörung der sozialen Infrastruktur, von Häusern und Land, Umweltkatastrophen sowie Land-, Wasser- und Luftverschmutzung (z.B. Freisetzung giftiger Substanzen)"
+  ]
 }

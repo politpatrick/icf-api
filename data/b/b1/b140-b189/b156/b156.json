@@ -1,8 +1,6 @@
 {
   "code": "b156",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Wahrnehmung",
-  "definition": null,
   "children": [
     "b1560",
     "b1561",
@@ -12,5 +10,15 @@
     "b1565",
     "b1568",
     "b1569"
+  ],
+  "preferred": "Funktionen der Wahrnehmung",
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die die Erkennung und Interpretation sensorischer Reize betreffen"
+  ],
+  "inclusions": [
+    "Funktionen, die visuelle, auditive, olfaktorische, gustatorische, taktile und räumlich-visuelle Wahrnehmung betreffen, wie bei Halluzination oder Illusion"
+  ],
+  "exclusions": [
+    "Funktionen des Bewusstseins"
   ]
 }

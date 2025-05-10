@@ -1,7 +1,9 @@
 {
   "code": "e2600",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Luftqualität in Innenbereichen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Art der Luft innerhalb von Gebäuden oder umschlossenen Räumen, wie sie durch Gerüche, Rauch, Feuchtigkeit, Klimatisierung (gesteuerte Luftqualität) oder ungesteuerte Luftqualität bestimmt wird, und die nützliche Informationen (z.B. Geruch von ausströmendem Gas) oder verwirrende Informationen (z.B. überwältigender Geruch von Parfüm) über die Welt liefern kann"
+  ]
 }

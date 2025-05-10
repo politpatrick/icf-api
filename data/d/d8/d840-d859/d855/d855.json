@@ -1,7 +1,12 @@
 {
   "code": "d855",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Unbezahlte Tätigkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich an allen Aspekten der Voll- oder Teilzeitarbeit, für die eine Bezahlung nicht vorgesehen ist, zu beteiligen, einschließlich organisierter Arbeitsaktivitäten, die geforderten Aufgaben der Tätigkeit zu erfüllen, rechtzeitig bei der Arbeit zu erscheinen, andere Arbeitnehmer zu überwachen oder selbst überwacht zu werden sowie die geforderten Aufgaben allein oder in Gruppen zu erledigen, wie ehrenamtliche Tätigkeit, ohne Bezahlung für die Gemeinschaft, für religiöse Gruppen oder in der häuslichen Umgebung arbeiten"
+  ],
+  "exclusions": [
+    "Kapitel 6: Häusliches Leben"
+  ]
 }

@@ -1,13 +1,18 @@
 {
   "code": "d315",
   "kind": "fourdigit",
-  "preferred": "Kommunizieren als Empfänger non-verbaler Mitteilungen",
-  "definition": null,
   "children": [
     "d3150",
     "d3151",
     "d3152",
     "d3158",
     "d3159"
+  ],
+  "preferred": "Kommunizieren als Empfänger non-verbaler Mitteilungen",
+  "coding-hints": [
+    "Die wörtliche und übertragene Bedeutung von durch Gesten, Symbole und Zeichnungen vermittelten Mitteilungen zu erfassen, wie erkennen, dass ein Kinde müde ist, wenn es seine Augen reibt, oder dass das Läuten einer Warnglocke Feuer bedeutet"
+  ],
+  "inclusions": [
+    "Kommunizieren als Empfänger von Körpergesten, allgemeinen Zeichen und Symbolen, Zeichnungen und Fotos"
   ]
 }

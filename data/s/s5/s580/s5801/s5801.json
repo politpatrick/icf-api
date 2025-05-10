@@ -1,7 +1,6 @@
 {
   "code": "s5801",
   "kind": "fivedigit",
-  "preferred": "Schilddrüse",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Schilddrüse"
 }

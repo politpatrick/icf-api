@@ -1,7 +1,9 @@
 {
   "code": "e5151",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme des Architektur- und Bauwesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- und Überwachungsmechanismen, die Planung, Entwurf, Bau und Erhaltung von Wohn-, Geschäfts-, Industrie- und öffentlichen Gebäuden regeln, wie die Umsetzung und Überwachung von Baunormen, Konstruktionsstandards sowie Brandschutz- und Sicherheitsstandards"
+  ]
 }

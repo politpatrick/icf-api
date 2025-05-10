@@ -1,7 +1,9 @@
 {
   "code": "d3601",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Technische Schreibgeräte benutzen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Maschinen zum Schreiben wie Schreibmaschinen, Computer und Brailleschreiber als Kommunikationsmittel verwenden"
+  ]
 }

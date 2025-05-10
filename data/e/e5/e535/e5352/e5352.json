@@ -1,7 +1,9 @@
 {
   "code": "e5352",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze des Kommunikationswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die die Übermittlung von Informationen mittels verschiedener Methoden einschließlich Telefon, Telefax, Post und Luftpost, elektronische Post und anderer computergestützter Systeme regeln, wie die Zugangsberechtigung zu Kommunikationsdiensten, Bedarf an Postadressen und Standards für die Bereitstellung von Telekommunikation"
+  ]
 }

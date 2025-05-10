@@ -1,12 +1,11 @@
 {
   "code": "s4303",
   "kind": "fivedigit",
-  "preferred": "Atemmuskulatur",
-  "definition": null,
   "children": [
     "s43030",
     "s43031",
     "s43038",
     "s43039"
-  ]
+  ],
+  "preferred": "Atemmuskulatur"
 }

@@ -1,7 +1,9 @@
 {
   "code": "e2151",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Bevölkerungsdichte",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Anzahl der Individuen pro Flächeneinheit des Gebietes einschließlich Merkmale wie hohe und niedrige Dichte"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "e5950",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste der Politik",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Strukturen wie kommunale, regionale und nationale Regierungen, internationale Organisationen sowie Personen, die für Positionen innerhalb dieser Strukturen gewählt oder benannt sind, wie die Vereinten Nationen, Europäische Union, Regierungen, regionale Instanzen, kommunale Ortsbehörden, traditionelle Führer"
+  ]
 }

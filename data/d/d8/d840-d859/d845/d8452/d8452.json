@@ -1,7 +1,9 @@
 {
   "code": "d8452",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Ein Arbeitsverhältnis beenden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In geeigneter Weise ein Arbeitsverhältnis aufzulösen oder zu kündigen"
+  ]
 }

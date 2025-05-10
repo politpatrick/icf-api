@@ -1,7 +1,9 @@
 {
   "code": "d9204",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Hobbys",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich mit Lieblingsbeschäftigungen zu befassen, wie Briefmarken, Münzen oder Antiquitäten sammeln"
+  ]
 }

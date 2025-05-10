@@ -1,7 +1,9 @@
 {
   "code": "e5450",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste für zivilen Schutz und Sicherheit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Von der Gemeinde organisierte Dienste und Programme zum Schutz von Personen und Besitz wie Feuerwehr, Polizei, Not- und Rettungsdienste, einschließlich derer, die diese Dienste erbringen"
+  ]
 }

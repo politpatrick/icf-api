@@ -1,7 +1,9 @@
 {
   "code": "e2101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Gewässer",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Merkmale von Gewässern wie Seen, Dämme, Flüsse und Wasserläufe"
+  ]
 }

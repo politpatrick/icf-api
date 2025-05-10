@@ -1,7 +1,9 @@
 {
   "code": "b1300",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Ausmaß der psychischen Energie",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in Durchsetzungskraft und Durchhaltevermögen äußern"
+  ]
 }

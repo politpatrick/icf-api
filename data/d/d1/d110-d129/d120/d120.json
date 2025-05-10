@@ -1,7 +1,9 @@
 {
   "code": "d120",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Andere bewusste sinnliche Wahrnehmungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Absichtsvoll andere elementare Sinne zu benutzen, um Reize wahrzunehmen, wie die materielle Struktur tasten und fühlen, Süßes schmecken oder Blumen riechen"
+  ]
 }

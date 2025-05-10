@@ -1,7 +1,9 @@
 {
   "code": "d4151",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "In hockender Position verbleiben",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Für eine erforderliche Zeit in einer hockenden Position zu verbleiben, wie ohne Sitzgelegenheit auf dem Boden sitzen"
+  ]
 }

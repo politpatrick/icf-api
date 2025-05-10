@@ -1,7 +1,9 @@
 {
   "code": "d5302",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Die Belange der Menstruation regulieren",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die Menstruation zu koordinieren, zu planen und sich um sie zu kümmern, wie den Eintritt der Menstruation voraussehen sowie Binden und entsprechende Artikel benutzen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b5403",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Fettstoffwechsel",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an dem Prozess, bei dem Nahrungsfette gespeichert oder metabolisiert werden, beteiligt sind"
+  ]
 }

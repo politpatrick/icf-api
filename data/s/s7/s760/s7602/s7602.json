@@ -1,7 +1,6 @@
 {
   "code": "s7602",
   "kind": "fivedigit",
-  "preferred": "Bänder und Faszien des Rumpfes",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Bänder und Faszien des Rumpfes"
 }

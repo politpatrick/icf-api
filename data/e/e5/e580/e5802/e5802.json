@@ -1,7 +1,9 @@
 {
   "code": "e5802",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze des Gesundheitswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die die Gesamtheit aller Dienste für das körperliche, geistige, seelische und soziale Wohl von Menschen regeln, in den verschiedenen Bereichen einschließlich Dienste in der Gemeinde, zu Hause, in der Schule, am Arbeitsplatz, in allgemeinen Krankenhäusern, Fachkrankenhäusern, Kliniken, wohnortnahen und -fernen Pflegeeinrichtungen, wie Handlungsgrundsätze und Standards für die Feststellung der Anspruchsberechtigung auf die Dienste, Versorgung mit Geräten, Hilfstechnologie und andere angepasste Ausrüstungsgegenstände, sowie Gesetze wie Gesundheitsgesetze, die die Merkmale eines Gesundheitssystems regeln wie Zugänglichkeit, Allgemeingültigkeit, Übertragbarkeit, öffentliche Finanzierung und Umfang"
+  ]
 }

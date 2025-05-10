@@ -1,7 +1,9 @@
 {
   "code": "b1562",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Geruchswahrnehmung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die an der Erkennung unterschiedlicher Gerüche beteiligt sind"
+  ]
 }

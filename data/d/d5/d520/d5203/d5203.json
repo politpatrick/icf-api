@@ -1,7 +1,9 @@
 {
   "code": "d5203",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Die Fingernägel pflegen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die Fingernägel zu reinigen, zu schneiden oder zu polieren"
+  ]
 }

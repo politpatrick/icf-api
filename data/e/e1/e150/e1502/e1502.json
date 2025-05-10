@@ -1,7 +1,9 @@
 {
   "code": "e1502",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Entwurf, Konstruktion sowie Bauprodukte und Technologien zur Wegefindung, für Wegeführungen und zur Bezeichnung von Stellen in öffentlichen Gebäuden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Produkte und Technologien für den Innen- und Außenbereich von öffentlichen Gebäuden, die Menschen helfen, ihren Weg innerhalb und unmittelbar außerhalb von Bauten zu finden, und Orte, die sie aufsuchen möchten, lokalisieren, wie Anzeigen in Schrift oder Braille, Größe der Korridore, Bodenoberflächen, zugängliche (Informations-) Kioske und andere Arten von Hinweisen"
+  ]
 }

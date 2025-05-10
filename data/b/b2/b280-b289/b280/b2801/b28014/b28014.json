@@ -1,7 +1,9 @@
 {
   "code": "b28014",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Schmerz in den oberen Gliedmaßen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfinden eines unangenehmen Gefühls, das mögliche oder tatsächliche Schäden einer Körperstruktur anzeigt, in einem oder beiden oberen Gliedmaßen, einschließlich der Hände"
+  ]
 }

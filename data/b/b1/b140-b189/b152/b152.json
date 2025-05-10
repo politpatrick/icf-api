@@ -1,13 +1,21 @@
 {
   "code": "b152",
   "kind": "fourdigit",
-  "preferred": "Emotionale Funktionen",
-  "definition": null,
   "children": [
     "b1520",
     "b1521",
     "b1522",
     "b1528",
     "b1529"
+  ],
+  "preferred": "Emotionale Funktionen",
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die im Zusammenhang mit Gefühlen und den affektiven Komponenten von Bewusstseinsprozessen stehen"
+  ],
+  "inclusions": [
+    "Funktionen, die (Situations)Angemessenheit der Emotion, affektive Kontrolle und Schwingungsfähigkeit betreffen; Affekt; Trauer, Glück; Liebe, Furcht, Ärger, Hass, Anspannung, Angst, Freude, Sorgen; emotionale Labilität; Affektverflachung"
+  ],
+  "exclusions": [
+    "Funktionen von Temperament und Persönlichkeit"
   ]
 }

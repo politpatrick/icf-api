@@ -1,7 +1,9 @@
 {
   "code": "b4300",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Hämatopoese",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen bezüglich der Blutbildung und ihrer gesamten Bestandteile"
+  ]
 }

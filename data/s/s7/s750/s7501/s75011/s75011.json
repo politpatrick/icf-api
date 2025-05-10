@@ -1,7 +1,6 @@
 {
   "code": "s75011",
   "kind": "sixdigit",
-  "preferred": "Kniegelenk",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Kniegelenk"
 }

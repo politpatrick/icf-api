@@ -1,7 +1,12 @@
 {
   "code": "b250",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Funktionen des Schmeckens (Geschmackssinn)",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen, die die Wahrnehmung der Geschmacksqualitäten bitter, süß, sauer und salzig betreffen"
+  ],
+  "inclusions": [
+    "Funktionen des Schmeckens, des Geschmackssinns; Funktionsstörungen wie Verlust des Geschmacksvermögens (Ageusie) und Verminderung des Geschmacksvermögens (Hypogeusie)"
+  ]
 }

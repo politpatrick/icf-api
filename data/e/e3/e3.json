@@ -1,8 +1,6 @@
 {
   "code": "e3",
   "kind": "chapter",
-  "preferred": "Unterstützung und Beziehungen",
-  "definition": null,
   "children": [
     "e310",
     "e315",
@@ -17,5 +15,9 @@
     "e360",
     "e398",
     "e399"
+  ],
+  "preferred": "Unterstützung und Beziehungen",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit Personen oder Tieren, die praktische physische oder emotionale Unterstützung, Fürsorge, Schutz, Hilfe und Beziehungen zu anderen Personen geben, sowie mit Beziehungen zu anderen Personen in deren Wohnungen, am Arbeitsplatz, in der Schule, beim Spielen oder in anderen Bereichen ihrer alltäglichen Aktivitäten. Das Kapitel umfasst nicht die Einstellungen der Person oder der Menschen, die die Unterstützung leisten. Der hier beschriebene Umweltfaktor ist nicht die Person oder das Tier, sondern das Ausmaß an physischer und emotionaler Unterstützung, die die Person oder das Tier geben."
   ]
 }

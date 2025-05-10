@@ -1,7 +1,15 @@
 {
   "code": "b4351",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Hypersensibilitäts-Reaktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen der Körperreaktionen, die eine erhöhte Sensibilisierung gegen Fremdsubstanzen betreffen, wie bei Sensibilisierung gegenüber verschiedenen Antigenen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Hypersensibilitäten oder allergische Reaktionen"
+  ],
+  "exclusions": [
+    "Nahrungsmittelverträglichkeit"
+  ]
 }

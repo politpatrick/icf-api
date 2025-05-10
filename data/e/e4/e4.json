@@ -1,8 +1,6 @@
 {
   "code": "e4",
   "kind": "chapter",
-  "preferred": "Einstellungen",
-  "definition": null,
   "children": [
     "e410",
     "e415",
@@ -18,5 +16,9 @@
     "e465",
     "e498",
     "e499"
+  ],
+  "preferred": "Einstellungen",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit Einstellungen, die beobachtbare Konsequenzen von Sitten, Bräuchen, Weltanschauungen, Werten, Normen, tatsächlichen oder religiösen Überzeugungen sind. Diese Einstellungen beeinflussen individuelles Verhalten und soziales Leben auf allen Ebenen, von zwischenmenschlichen Beziehungen, Kontakten in der Gemeinde, bis zu politischen, wirtschaftlichen und rechtlichen Strukturen. So können zum Beispiel individuelle oder gesellschaftliche Einstellungen zu Vertrauenswürdigkeit und Wert einer Person zu ehrenhaftem oder negativem und diskriminierendem Umgang (z.B. Stigmatisierung, Stereotypisierung und Marginalisierung oder Vernachlässigung der Person) motivieren. Die klassifizierten Einstellungen beziehen sich auf Personen des Umfeldes der zu beschreibenden Person und nicht auf die zu beschreibende Person selbst. Die individuellen Einstellungen sind bezüglich der Arten der Beziehungen, die in Kapitel 3 der Umweltfaktoren aufgelistet sind, kategorisiert. Werte und Überzeugungen sind nicht gesondert von den Einstellungen kodiert, weil angenommen wird, dass sie die treibenden Kräfte hinter den Einstellungen sind."
   ]
 }

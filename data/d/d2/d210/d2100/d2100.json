@@ -1,7 +1,9 @@
 {
   "code": "d2100",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Eine einfache Aufgabe übernehmen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die einfache Aufgabe vorzubereiten, anzugehen und sich um die erforderliche Zeit und Räumlichkeit zu kümmern; eine einfache Aufgabe mit einem einzelnen größeren Bestandteil auszuführen, wie ein Buch lesen, einen Brief schreiben oder sein Bett machen"
+  ]
 }

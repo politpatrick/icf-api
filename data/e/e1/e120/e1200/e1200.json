@@ -1,7 +1,9 @@
 {
   "code": "e1200",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Allgemeine Produkte und Technologien zur persönlichen Mobilität und zum Transport drinnen und draußen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Von Menschen für ihre Mobilitätsaktivitäten innerhalb und außerhalb von Gebäuden benutzte Ausrüstungsgegenstände, Produkte und Technologien, wie motorisierte und nicht motorisierte Fahrzeuge für den Land-, Wasser- und Lufttransport von Menschen (z.B. Busse, Autos, Vans, andere motorisierte und von Tieren bewegte Transportmittel), weder angepasst noch speziell entworfen"
+  ]
 }

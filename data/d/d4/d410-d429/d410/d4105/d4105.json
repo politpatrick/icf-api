@@ -1,7 +1,9 @@
 {
   "code": "d4105",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sich beugen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Den Rücken nach unten oder zur Seite zu beugen, wie beim Verbeugen oder beim Langen nach einem Gegenstand"
+  ]
 }

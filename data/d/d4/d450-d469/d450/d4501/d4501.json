@@ -1,7 +1,9 @@
 {
   "code": "d4501",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Lange Entfernungen gehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mehr als einen Kilometer zu gehen, wie durch ein Dorf oder eine Stadt, von einem Dorf zu einem anderen oder über Land gehen"
+  ]
 }

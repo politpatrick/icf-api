@@ -1,13 +1,15 @@
 {
   "code": "d8",
   "kind": "chapter",
-  "preferred": "Bedeutende Lebensbereiche",
-  "definition": null,
   "children": [
     "d810-d839",
     "d840-d859",
     "d860-d879",
     "d898",
     "d899"
+  ],
+  "preferred": "Bedeutende Lebensbereiche",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit der Ausführung von Aufgaben und Handlungen, die für die Beteiligung an Erziehung/Bildung, Arbeit und Beschäftigung sowie für die Durchführung wirtschaftlicher Transaktionen erforderlich sind."
   ]
 }

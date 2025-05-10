@@ -1,7 +1,9 @@
 {
   "code": "e5152",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze des Architektur- und Bauwesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die Planung, Entwurf, Konstruktion und Erhaltung von Wohn-, Geschäfts-, Industrie- und öffentlichen Gebäuden regeln, wie Vorschriften zu Baunormen, Konstruktionsstandards sowie Sicherheitsnormen zu Brand- und Lebensschutz"
+  ]
 }

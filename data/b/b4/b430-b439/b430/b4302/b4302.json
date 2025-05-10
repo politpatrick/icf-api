@@ -1,7 +1,9 @@
 {
   "code": "b4302",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Metabolittransport des Blutes",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Metabolittransport-Kapazität betreffen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b1440",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kurzzeitgedächtnis",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einer vorübergehenden, störbaren Gedächtnisspeicherung von etwa 30 Sekunden äußern. Aus diesem Speicher gehen Informationen verloren, wenn sie nicht im Langzeitgedächtnis verankert werden"
+  ]
 }

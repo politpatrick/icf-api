@@ -1,7 +1,12 @@
 {
   "code": "b7353",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Tonus der Muskeln der unteren Körperhälfte",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit dem Ruhetonus einzelner Muskeln und Muskelgruppen der unteren Körperhälfte und dem Widerstand bei passiver Bewegung dieser Muskeln stehen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie bei Paraparese und Paraplegie"
+  ]
 }

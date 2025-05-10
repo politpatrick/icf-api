@@ -1,7 +1,9 @@
 {
   "code": "d6402",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Den Wohnbereich reinigen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Den Wohnbereich eines Haushalts zu reinigen, wie aufräumen und Staub wischen; Fußböden fegen, wischen, moppen; Fenster und Wände reinigen; Badezimmer und Toiletten reinigen; Möbel reinigen"
+  ]
 }

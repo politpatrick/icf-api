@@ -1,7 +1,9 @@
 {
   "code": "d6300",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Einfache Mahlzeiten vorbereiten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mahlzeiten, die wenig Zutaten erfordern und mit einfachen Mitteln zubereitet und serviert werden können, zu kochen und zu servieren, wie einen Snack oder eine kleine Mahlzeit zubereiten, die Zutaten durch Schneiden oder Rühren bearbeiten und Lebensmittel wie Reis oder Kartoffeln kochen oder erhitzen"
+  ]
 }

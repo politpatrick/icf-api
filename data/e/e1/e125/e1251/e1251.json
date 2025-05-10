@@ -1,7 +1,9 @@
 {
   "code": "e1251",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Hilfsprodukte und unterstützende Technologien für die Kommunikation",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Angepasste oder speziell entworfene Ausrüstungsgegenstände, Produkte und Technologien, die Menschen helfen, Informationen zu senden und zu empfangen, wie optische und optisch-elektronische Geräte, Spezialschreib-, -zeichen- oder -handschreibgeräte, Signalsysteme sowie spezielle Computersoftware und -hardware, Cochlear-Implantate, Hörgeräte, FM-Hörtrainer, Stimmprothesen, Kommunikationstafeln, Brillen und Kontaktlinsen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "e5101",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme für die Konsumgüterproduktion",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- und Überwachungsmechanismen wie regionale, nationale und internationale Organisationen, die Standards vorgeben (z.B. Internationale Organisation für Standardisierung) und Verbraucherorganisationen, die die Sammlung, Schaffung, Produktion und Herstellung von Konsumgütern und Produkten regeln"
+  ]
 }

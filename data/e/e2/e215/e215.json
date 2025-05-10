@@ -1,12 +1,17 @@
 {
   "code": "e215",
   "kind": "fourdigit",
-  "preferred": "Bevölkerung",
-  "definition": null,
   "children": [
     "e2150",
     "e2151",
     "e2158",
     "e2159"
+  ],
+  "preferred": "Bevölkerung",
+  "coding-hints": [
+    "Gruppen von Menschen, die in einer bestimmten Umwelt leben, und die gleiche Art von Umweltanpassung aufweisen"
+  ],
+  "inclusions": [
+    "Demographischer Wandel, Bevölkerungsdichte"
   ]
 }

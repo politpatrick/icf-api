@@ -1,7 +1,12 @@
 {
   "code": "e350",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Domestizierte Tiere",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Tiere, die physische, emotionale oder psychische Unterstützung geben, wie Haustiere (Hunde, Katzen, Vögel, Fische usw.) und Tiere für persönliche Mobilität und Transport"
+  ],
+  "exclusions": [
+    "Tiere"
+  ]
 }

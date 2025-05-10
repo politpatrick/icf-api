@@ -1,7 +1,9 @@
 {
   "code": "e1201",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Hilfsprodukte und unterstützende Technologien zur persönlichen Mobilität drinnen und draußen und zum Transport",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Angepasste oder speziell entworfene Ausrüstungsgegenstände, Produkte und Technologien, die Menschen helfen, sich drinnen und draußen zu bewegen, wie Gehhilfen, spezielle Autos oder Großraumlimousinen, Fahrzeuganpassungen, Rollstühle, Roller und Geräte für den Transfer"
+  ]
 }

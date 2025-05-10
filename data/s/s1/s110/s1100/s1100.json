@@ -1,8 +1,6 @@
 {
   "code": "s1100",
   "kind": "fivedigit",
-  "preferred": "Struktur der Großhirnhälften",
-  "definition": null,
   "children": [
     "s11000",
     "s11001",
@@ -10,5 +8,6 @@
     "s11003",
     "s11008",
     "s11009"
-  ]
+  ],
+  "preferred": "Struktur der Großhirnhälften"
 }

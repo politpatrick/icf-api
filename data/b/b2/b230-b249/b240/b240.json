@@ -1,8 +1,6 @@
 {
   "code": "b240",
   "kind": "fourdigit",
-  "preferred": "Mit den Hör- und vestibulären Funktionen verbundene Empfindungen",
-  "definition": null,
   "children": [
     "b2400",
     "b2401",
@@ -12,5 +10,15 @@
     "b2405",
     "b2408",
     "b2409"
+  ],
+  "preferred": "Mit den Hör- und vestibulären Funktionen verbundene Empfindungen",
+  "coding-hints": [
+    "Schwindelgefühl, Gefühl des Fallens, Ohrgeräusche (Tinnitus) und Schwindel (Vertigo)"
+  ],
+  "inclusions": [
+    "Ohrenklingeln, Reizgefühl im Ohr, Druck im Ohr, Übelkeit in Verbindung mit Schwindelgefühl oder Schwindel"
+  ],
+  "exclusions": [
+    "Vestibuläre Funktionen"
   ]
 }

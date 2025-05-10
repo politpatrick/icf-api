@@ -1,7 +1,9 @@
 {
   "code": "d4305",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Gegenstände absetzen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mit Händen, Armen oder anderen Körperteilen einen Gegenstand auf dem Boden an einem Platz absetzen, wie ein Wassergefäß auf dem Boden absetzen"
+  ]
 }

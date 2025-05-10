@@ -1,12 +1,14 @@
 {
   "code": "d7",
   "kind": "chapter",
-  "preferred": "Interpersonelle Interaktionen und Beziehungen",
-  "definition": null,
   "children": [
     "d710-d729",
     "d730-d779",
     "d798",
     "d799"
+  ],
+  "preferred": "Interpersonelle Interaktionen und Beziehungen",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit der Ausführung von Handlungen und Aufgaben, die für die elementaren und komplexen Interaktionen mit Menschen (Fremden, Freunden, Verwandten, Familienmitgliedern und Liebespartnern) in einer kontextuell und sozial angemessenen Weise erforderlich sind."
   ]
 }

@@ -1,7 +1,12 @@
 {
   "code": "b255",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Funktionen des Riechens (Geruchssinn)",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen, die die Wahrnehmung von Gerüchen und Düften betreffen"
+  ],
+  "inclusions": [
+    "Funktionen des Riechens; Funktionsstörungen wie fehlendes Geruchsvermögen (Anosmie) oder vermindertes Geruchsvermögen (Hyposmie)"
+  ]
 }

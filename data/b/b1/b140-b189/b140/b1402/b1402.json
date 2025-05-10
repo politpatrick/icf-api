@@ -1,7 +1,9 @@
 {
   "code": "b1402",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Geteilte Aufmerksamkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die die gleichzeitige Fokussierung auf zwei oder mehr Reize zulassen"
+  ]
 }

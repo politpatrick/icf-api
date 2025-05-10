@@ -1,13 +1,21 @@
 {
   "code": "b740",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Muskelausdauer",
-  "definition": null,
   "children": [
     "b7400",
     "b7401",
     "b7402",
     "b7408",
     "b7409"
+  ],
+  "preferred": "Funktionen der Muskelausdauer",
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit der Aufrechterhaltung der Muskelkontraktion über einen geforderten Zeitraum stehen"
+  ],
+  "inclusions": [
+    "Funktionen, die mit der Aufrechterhaltung der Kontraktion einzelner Muskeln, von Muskelgruppen und aller Muskeln des Körpers verbunden sind; Funktionsstörungen wie Myasthenia gravis"
+  ],
+  "exclusions": [
+    "Funktionen der kardiorespiratorische Belastbarkeit"
   ]
 }

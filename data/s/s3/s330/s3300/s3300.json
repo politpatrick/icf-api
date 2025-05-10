@@ -1,7 +1,6 @@
 {
   "code": "s3300",
   "kind": "fivedigit",
-  "preferred": "Nasopharynx",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Nasopharynx"
 }

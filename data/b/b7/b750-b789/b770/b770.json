@@ -1,7 +1,15 @@
 {
   "code": "b770",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Funktionen der Bewegungsmuster beim Gehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Bewegungsmuster beim Gehen, Rennen oder anderen Bewegungsabläufen des gesamten Körpers betreffen"
+  ],
+  "inclusions": [
+    "Bewegungsmuster beim Gehen und Rennen; Funktionsstörungen wie spastisches, hemiplegisches, paraplegisches, asymmetrisches Gangbild, Hinken und steifes Gangbild"
+  ],
+  "exclusions": [
+    "Funktionen der Muskelkraft"
+  ]
 }

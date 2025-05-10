@@ -1,7 +1,9 @@
 {
   "code": "b7151",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Stabilität mehrerer Gelenke",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Aufrechterhaltung der strukturellen Integrität von mehr als einem Gelenk betreffen"
+  ]
 }

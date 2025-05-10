@@ -1,13 +1,15 @@
 {
   "code": "b7",
   "kind": "chapter",
-  "preferred": "Neuromuskuloskeletale und bewegungsbezogene Funktionen",
-  "definition": null,
   "children": [
     "b710-b729",
     "b730-b749",
     "b750-b789",
     "b798",
     "b799"
+  ],
+  "preferred": "Neuromuskuloskeletale und bewegungsbezogene Funktionen",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit Funktionen, die Bewegung und Mobilität betreffen, einschließlich der Funktionen der Gelenke, Knochen, Reflexe und Muskeln"
   ]
 }

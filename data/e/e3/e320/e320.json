@@ -1,7 +1,9 @@
 {
   "code": "e320",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Freunde",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Personen, die sich nahe stehen und deren kontinuierliche Bekanntschaft durch Vertrauen und gegenseitige Unterstützung gekennzeichnet ist"
+  ]
 }

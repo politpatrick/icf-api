@@ -1,13 +1,18 @@
 {
   "code": "b5105",
   "kind": "fivedigit",
-  "preferred": "Schlucken",
-  "definition": null,
   "children": [
     "b51050",
     "b51051",
     "b51052",
     "b51058",
     "b51059"
+  ],
+  "preferred": "Schlucken",
+  "coding-hints": [
+    "Funktionen, die die Beförderung von Speisen und Getränken über Mundhöhle, Rachen und Speiseröhre in den Magen in angemessener Menge und Geschwindigkeit betreffen"
+  ],
+  "inclusions": [
+    "Orale, pharyngeale oder oesophageale Schluckstörung; Funktionsstörungen der Speiseröhrenpassage"
   ]
 }

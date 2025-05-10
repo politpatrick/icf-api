@@ -1,7 +1,9 @@
 {
   "code": "d3504",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Eine Unterhaltung mit mehreren Personen führen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mit mehr als einer Person einen Dialog oder einen Gedankenaustausch zu initiieren, aufrecht zu erhalten, zu gestalten und zu beenden, wie eine Gruppenunterhaltung zu beginnen und sich daran beteiligen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "e5301",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme des Versorgungswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- und Überwachungsmechanismen, die die Bereitstellung von Versorgungsleistungen regeln, wie Gesundheits- und Sicherheitskommissionen sowie Verbraucherverbände"
+  ]
 }

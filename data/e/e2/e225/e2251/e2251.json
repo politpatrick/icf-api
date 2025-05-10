@@ -1,7 +1,9 @@
 {
   "code": "e2251",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Luftfeuchtigkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Feuchtigkeitsgrad der Luft, wie hohe und niedrige Feuchtigkeit"
+  ]
 }

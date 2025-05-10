@@ -1,7 +1,9 @@
 {
   "code": "b1344",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Am Schlafzyklus beteiligte Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in Rapid Eye Movements (REM)-Schlaf (verbunden mit Träumen) und in Non-Rapid Eye Movement Sleep (NREM) äußern. (Hier wird auf das traditionelle Konzept des Schlafes als einer Zeit verminderter physiologischer und psychologischer Aktivität Bezug genommen.)"
+  ]
 }

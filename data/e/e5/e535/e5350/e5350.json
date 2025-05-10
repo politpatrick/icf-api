@@ -1,7 +1,12 @@
 {
   "code": "e5350",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste des Kommunikationswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme für die Übermittlung von Informationen mittels verschiedener Methoden wie Telefon, Telefax, Post und Luftpost, elektronische Post und anderer computergestützter Systeme (z.B. Fernmeldevermittlung, Fernschreiben, Teletext und Internetdienste, einschließlich jener, die diese Dienste und Leistungen bereitstellen"
+  ],
+  "exclusions": [
+    "Dienste des Medienwesens"
+  ]
 }

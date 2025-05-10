@@ -1,7 +1,9 @@
 {
   "code": "e5701",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme der sozialen Sicherheit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- und Überwachungsmechanismen, die die Programme und Systeme regeln, welche finanzielle Unterstützung für Menschen gewähren, die aufgrund von Alter, Armut, Arbeitslosigkeit, Gesundheitsproblemen oder Behinderung staatliche Unterstützung benötigen, wie Systeme für die Umsetzung von Regeln und Vorschriften für die Feststellung der Anspruchsberechtigung für Zahlungen der Sozialhilfe und Wohlfahrt, der Arbeitslosenversicherung sowie für Leistungen aus Rentenversicherung (Altersrente, Rente wegen verminderter Erwerbsfähigkeit) und entsprechenden Versicherungen"
+  ]
 }

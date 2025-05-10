@@ -1,7 +1,9 @@
 {
   "code": "d135",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Üben",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Wiederholen einer Folge von Dingen oder Zeichen als elementarer Bestandteil des Lernens, wie in Zehnerfolgen zählen oder das Vortragen eines Gedichtes einüben"
+  ]
 }

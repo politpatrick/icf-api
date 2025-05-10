@@ -1,13 +1,15 @@
 {
   "code": "e510",
   "kind": "fourdigit",
-  "preferred": "Dienste, Systeme und Handlungsgrundsätze für die Konsumgüterproduktion",
-  "definition": null,
   "children": [
     "e5100",
     "e5101",
     "e5102",
     "e5108",
     "e5109"
+  ],
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze für die Konsumgüterproduktion",
+  "coding-hints": [
+    "Dienste, Systeme und Handlungsgrundsätze, welche die Grundlage bilden und Vorsorge treffen für die Produktion von Objekten und Erzeugnissen, die von Menschen verbraucht oder benutzt werden"
   ]
 }

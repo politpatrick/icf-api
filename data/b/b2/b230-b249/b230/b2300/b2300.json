@@ -1,7 +1,9 @@
 {
   "code": "b2300",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Schallwahrnehmung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen, die die Wahrnehmung von Tönen oder Geräuschen betreffen"
+  ]
 }

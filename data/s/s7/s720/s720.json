@@ -1,8 +1,6 @@
 {
   "code": "s720",
   "kind": "fourdigit",
-  "preferred": "Struktur der Schulterregion",
-  "definition": null,
   "children": [
     "s7200",
     "s7201",
@@ -10,5 +8,6 @@
     "s7203",
     "s7208",
     "s7209"
-  ]
+  ],
+  "preferred": "Struktur der Schulterregion"
 }

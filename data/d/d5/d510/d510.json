@@ -1,13 +1,21 @@
 {
   "code": "d510",
   "kind": "fourdigit",
-  "preferred": "Sich waschen",
-  "definition": null,
   "children": [
     "d5100",
     "d5101",
     "d5102",
     "d5108",
     "d5109"
+  ],
+  "preferred": "Sich waschen",
+  "coding-hints": [
+    "Den ganzen Körper oder Körperteile mit Wasser und geeigneten Reinigungs- und Abtrocknungsmaterialien oder -methoden zu waschen und abzutrocknen, wie baden, duschen, Hände, Füße, Gesicht und Haare waschen und mit einem Handtuch abtrocknen"
+  ],
+  "inclusions": [
+    "Körperteile und den ganzen Körper waschen; sich abtrocknen"
+  ],
+  "exclusions": [
+    "Seine Körperteile pflegen"
   ]
 }

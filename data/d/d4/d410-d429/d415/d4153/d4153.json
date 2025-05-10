@@ -1,7 +1,12 @@
 {
   "code": "d4153",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "In sitzender Position verbleiben",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Für eine erforderliche Zeit in einer sitzenden Position auf einer Sitzgelegenheit oder dem Boden zu verbleiben, wie an einem Pult oder Tisch sitzen"
+  ],
+  "inclusions": [
+    "Mit ausgestreckten oder übergeschlagenen Beinen mit oder ohne Unterstützung der Füße in einer sitzenden Position verbleiben"
+  ]
 }

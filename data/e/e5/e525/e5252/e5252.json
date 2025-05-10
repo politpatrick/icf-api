@@ -1,7 +1,9 @@
 {
   "code": "e5252",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze des Wohnungswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Normen, die das Wohnungswesen regeln, wie Gesetze und Handlungsgrundsätze, die die Berechtigung zur Inanspruchnahme von Wohnungen oder Unterkünften festlegen, Handlungsgrundsätze, die die Beteiligung des Staates an Bau und Erhaltung von Wohnungen betreffen, und Handlungsgrundsätze zu Art und Ort des Wohnungsbaus"
+  ]
 }

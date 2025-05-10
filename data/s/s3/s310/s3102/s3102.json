@@ -1,7 +1,6 @@
 {
   "code": "s3102",
   "kind": "fivedigit",
-  "preferred": "Nasenhöhle",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Nasenhöhle"
 }

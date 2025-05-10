@@ -1,7 +1,9 @@
 {
   "code": "b5106",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Regurgitation und Erbrechen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Rückbeförderung von Speisen oder Flüssigkeit nach Aufnahme aus dem Magen in die Speiseröhre, in den und aus dem Mund betreffen"
+  ]
 }

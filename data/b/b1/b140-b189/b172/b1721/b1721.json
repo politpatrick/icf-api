@@ -1,7 +1,9 @@
 {
   "code": "b1721",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Das komplexe Rechnen betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die Umsetzen von Textaufgaben in arithmetische Verfahren, Umsetzen von mathematischer Formeln in arithmetische Verfahren sowie andere komplexe Operationen im Zusammenhang mit Zahlen betreffen"
+  ]
 }

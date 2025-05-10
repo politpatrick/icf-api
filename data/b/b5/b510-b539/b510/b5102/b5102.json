@@ -1,7 +1,9 @@
 {
   "code": "b5102",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kauen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die das Zerkleinern und Bearbeiten von Speisen mit den Zähnen (z.B. Backenzähnen)betreffen"
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "code": "s3400",
   "kind": "fivedigit",
-  "preferred": "Stimmbänder",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Stimmbänder"
 }

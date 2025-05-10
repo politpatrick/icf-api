@@ -1,7 +1,6 @@
 {
   "code": "s8102",
   "kind": "fivedigit",
-  "preferred": "Haut der oberen Extremitäten",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Haut der oberen Extremitäten"
 }

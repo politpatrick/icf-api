@@ -1,7 +1,6 @@
 {
   "code": "s2603",
   "kind": "fivedigit",
-  "preferred": "Innerer Gehörgang (Meatus acusticus internus)",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Innerer Gehörgang (Meatus acusticus internus)"
 }

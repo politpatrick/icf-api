@@ -1,7 +1,9 @@
 {
   "code": "e5402",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze des Transportwesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die die Beförderung von Personen oder Gütern auf Straßen, Wegen, Schienen, in der Luft oder auf dem Wasser regeln, wie Beförderungsplanungsgesetze und -Handlungsgrundsätze, Handlungsgrundsätze für die Bereitstellung und den Zugang zu öffentlichen Verkehrsmitteln"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b2700",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Temperaturempfinden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen, die die Wahrnehmung von kalt und heiß betreffen"
+  ]
 }

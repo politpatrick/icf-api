@@ -1,8 +1,6 @@
 {
   "code": "b515",
   "kind": "fourdigit",
-  "preferred": "Verdauungsfunktionen",
-  "definition": null,
   "children": [
     "b5150",
     "b5151",
@@ -10,5 +8,15 @@
     "b5153",
     "b5158",
     "b5159"
+  ],
+  "preferred": "Verdauungsfunktionen",
+  "coding-hints": [
+    "Funktionen, die den Transport von Speisen durch den Verdauungskanal, die Aufschlüsselung und Absorption von Nährstoffen betreffen"
+  ],
+  "inclusions": [
+    "Funktionen, die den Transport von Nahrung durch den Magen betreffen, Peristaltik; Aufschlüsselung von Nahrung, Enzymproduktion und Bewegungen in Magen und Darm; Absorption von Nährstoffen und Nahrungsmittelverträglichkeit; Funktionsstörungen wie Hyperazidität des Magens, Malabsorption, Nahrungsmittelunverträglichkeit, Hypermotilität, Darmlähmung, Darmobstruktion, eingeschränkte Galleproduktion"
+  ],
+  "exclusions": [
+    "Funktionen der Nahrungsaufnahme"
   ]
 }

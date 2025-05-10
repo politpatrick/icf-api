@@ -1,7 +1,9 @@
 {
   "code": "d5400",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kleidung anziehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die koordinierten Handlungen und Aufgaben durchzuführen, welche das Anlegen von Kleidung an verschiedene Körperteile betreffen, wie Kleidung über den Kopf, über Arme und Schultern sowie an die untere und obere Körperhälfte anlegen; Handschuhe anziehen oder eine Kopfbedeckung aufsetzen"
+  ]
 }

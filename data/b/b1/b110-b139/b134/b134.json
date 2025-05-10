@@ -1,8 +1,6 @@
 {
   "code": "b134",
   "kind": "fourdigit",
-  "preferred": "Funktionen des Schlafes",
-  "definition": null,
   "children": [
     "b1340",
     "b1341",
@@ -11,5 +9,15 @@
     "b1344",
     "b1348",
     "b1349"
+  ],
+  "preferred": "Funktionen des Schlafes",
+  "coding-hints": [
+    "Allgemeine mentale Funktionen, die sich in einer periodischen, reversiblen und selektiven physischen und mentalen Loslösung von der unmittelbaren Umgebung äußern, und die von charakteristischen physiologischen Veränderungen begleitet sind"
+  ],
+  "inclusions": [
+    "Funktionen, die Schlafdauer, Schlafbeginn, Aufrechterhaltung des Schlafs, Schlafqualität, Schlafzyklus betreffen, wie bei Insomnie, Hypersomnie, Narkolepsie"
+  ],
+  "exclusions": [
+    "Funktionen des Bewusstseins"
   ]
 }

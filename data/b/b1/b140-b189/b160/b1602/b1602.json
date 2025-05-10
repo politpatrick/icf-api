@@ -1,7 +1,12 @@
 {
   "code": "b1602",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Inhalt des Denkens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die Ideen und Inhalte im Denkprozess und das, was konzeptualisiert wird, betreffen (inhaltliches Denken)"
+  ],
+  "inclusions": [
+    "Störungen wie Wahn, überwertige Ideen und Somatisierung"
+  ]
 }

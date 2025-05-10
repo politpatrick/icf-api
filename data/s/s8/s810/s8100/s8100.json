@@ -1,7 +1,6 @@
 {
   "code": "s8100",
   "kind": "fivedigit",
-  "preferred": "Haut des Kopfes und der Halsregion",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Haut des Kopfes und der Halsregion"
 }

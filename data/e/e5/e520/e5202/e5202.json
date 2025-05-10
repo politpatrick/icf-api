@@ -1,7 +1,9 @@
 {
   "code": "e5202",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze der Stadt- und Landschaftsplanung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die Planung, Entwurf, Entwicklung und Erhaltung von Freiflächen einschließlich ländlicher, vorstädtischer und städtischer Räume, Parks, Landschafts- und Tierschutzgebiete regeln, wie lokale, regionale oder nationale Raumplanungsgesetze, Entwurfsnormen, Handlungsgrundsätze des Kultur- und Naturerbes und der Umweltplanung"
+  ]
 }

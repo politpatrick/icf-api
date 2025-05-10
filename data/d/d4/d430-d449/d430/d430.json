@@ -1,8 +1,6 @@
 {
   "code": "d430",
   "kind": "fourdigit",
-  "preferred": "Gegenstände anheben und tragen",
-  "definition": null,
   "children": [
     "d4300",
     "d4301",
@@ -12,5 +10,12 @@
     "d4305",
     "d4308",
     "d4309"
+  ],
+  "preferred": "Gegenstände anheben und tragen",
+  "coding-hints": [
+    "Einen Gegenstand anzuheben oder etwas von einem Platz zu einem anderen zu tragen, wie eine Tasse anheben oder ein Kind von einem Zimmer in ein anderes tragen"
+  ],
+  "inclusions": [
+    "Mit den Händen, Armen, auf den Schultern, dem Kopf, dem Rücken oder der Hüfte anheben und absetzen"
   ]
 }

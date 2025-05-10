@@ -1,8 +1,6 @@
 {
   "code": "s7302",
   "kind": "fivedigit",
-  "preferred": "Struktur der Hand",
-  "definition": null,
   "children": [
     "s73020",
     "s73021",
@@ -10,5 +8,6 @@
     "s73023",
     "s73028",
     "s73029"
-  ]
+  ],
+  "preferred": "Struktur der Hand"
 }

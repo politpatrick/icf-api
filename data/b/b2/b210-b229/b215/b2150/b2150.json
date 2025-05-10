@@ -1,7 +1,12 @@
 {
   "code": "b2150",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen der Augeninnenmuskeln",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Muskeln im Auge (wie bei der Iris) betreffen, welche Form und Größe der Pupille und der Linse regulieren"
+  ],
+  "inclusions": [
+    "Funktionen, die die Scharfeinstellung (Akkomodation) betreffen; Pupillenreaktion"
+  ]
 }

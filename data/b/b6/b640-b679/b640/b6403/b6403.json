@@ -1,7 +1,12 @@
 {
   "code": "b6403",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen der sexuellen Entspannungsphase",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Befriedigung nach einem Orgasmus und damit einhergehende Entspannung betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörung wie unbefriedigender Orgasmus"
+  ]
 }

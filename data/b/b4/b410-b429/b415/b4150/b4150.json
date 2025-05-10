@@ -1,7 +1,12 @@
 {
   "code": "b4150",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen der Arterien",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen bezüglich des Blutflusses in den Arterien"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Arteriendilatation; Arterienstenose wie bei Claudicatio intermittens"
+  ]
 }

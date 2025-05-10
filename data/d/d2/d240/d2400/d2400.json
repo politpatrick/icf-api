@@ -1,7 +1,9 @@
 {
   "code": "d2400",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Mit Verantwortung umgehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einfache oder komplexe, koordinierte Handlungen durchzuführen, um die Pflichten der Aufgabenerfüllung zu handhaben und die Anforderungen dieser Pflichten zu beurteilen"
+  ]
 }

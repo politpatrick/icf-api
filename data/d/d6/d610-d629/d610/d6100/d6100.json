@@ -1,7 +1,9 @@
 {
   "code": "d6100",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Wohnraum kaufen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Das Eigentum eines Hauses, Appartements oder einer Wohnung zu erwerben"
+  ]
 }

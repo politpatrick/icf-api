@@ -1,7 +1,9 @@
 {
   "code": "e345",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Fremde",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Personen, die sich weder kennen noch verwandt sind oder die bisher weder eine Beziehung eingegangen sind noch Kontakt zueinander haben, einschließlich Personen, die einer bestimmten Person zwar unbekannt sind, die jedoch eine Lebenssituation mit ihr teilen, wie Vertretungslehrer, Mitarbeiter oder Pflegekräfte"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "s",
   "kind": "component",
-  "preferred": "Körperstrukturen",
-  "definition": "Körperstrukturen sind anatomische Teile des Körpers, wie Organe, Gliedmaßen und ihre Bestandteile.",
   "children": [
     "s1",
     "s2",
@@ -12,5 +10,10 @@
     "s6",
     "s7",
     "s8"
+  ],
+  "preferred": "Körperstrukturen",
+  "definitions": [
+    "Körperstrukturen sind anatomische Teile des Körpers, wie Organe, Gliedmaßen und ihre Bestandteile.",
+    "Schädigungen sind Beeinträchtigungen einer Körperfunktion oder -struktur, wie z.B. eine wesentliche Abweichung oder ein Verlust."
   ]
 }

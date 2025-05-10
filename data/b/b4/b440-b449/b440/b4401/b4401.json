@@ -1,7 +1,12 @@
 {
   "code": "b4401",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Atemrhythmus",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Periodizität und Regelmäßigkeit der Atmung betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie unregelmäßige Atmung"
+  ]
 }

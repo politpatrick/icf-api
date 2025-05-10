@@ -1,7 +1,9 @@
 {
   "code": "b1520",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "(Situations)Angemessenheit der Emotion",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in der Übereinstimmung des Gefühls oder des Affektes mit der Situation äußern, wie Glücksgefühl, wenn man gute Nachrichten erhält"
+  ]
 }

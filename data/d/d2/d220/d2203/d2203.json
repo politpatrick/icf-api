@@ -1,7 +1,9 @@
 {
   "code": "d2203",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Mehrfachaufgaben in einer Gruppe übernehmen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mehrfachaufgaben vorzubereiten, anzugehen und sich um die erforderliche Zeit und Räumlichkeit zu kümmern; mehrere Aufgaben mit anderen Personen, die in einigen oder allen Schritten der Mehrfachaufgaben einbezogen sind, in aufeinander folgenden Schritten oder gleichzeitig zu handhaben und zu bearbeiten"
+  ]
 }

@@ -1,7 +1,12 @@
 {
   "code": "b2703",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Wahrnehmung schädlicher Reize",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen, die die Wahrnehmung schmerzhafter oder unangenehmer Reize betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie herabgesetztes oder gesteigertes Schmerzempfinden (Hypalgesie, Hyperpathie), verändertes Schmerzempfinden (Allodynie), aufgehobenes Schmerzempfinden (Analgesie), schmerzhafte Empfindungslosigkeit (Anästhesia dolorosa)"
+  ]
 }

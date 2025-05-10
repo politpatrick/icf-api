@@ -1,7 +1,12 @@
 {
   "code": "b860",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Funktionen der Nägel",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Nägel betreffen, wie Schutz, Kratzen und Aussehen"
+  ],
+  "inclusions": [
+    "Wachstum und Pigmentierung der Nägel, Qualität der Nägel"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b7603",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Stützbewegungen der Arme oder Beine",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die mit der Kontrolle und Koordination von Willkürbewegungen durch Abstützung entweder durch die Arme (Ellenbogen oder Hände) oder die Beine (Knie oder Füße) verbunden sind"
+  ]
 }

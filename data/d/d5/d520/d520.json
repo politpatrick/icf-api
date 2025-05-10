@@ -1,8 +1,6 @@
 {
   "code": "d520",
   "kind": "fourdigit",
-  "preferred": "Seine Körperteile pflegen",
-  "definition": null,
   "children": [
     "d5200",
     "d5201",
@@ -11,5 +9,15 @@
     "d5204",
     "d5208",
     "d5209"
+  ],
+  "preferred": "Seine Körperteile pflegen",
+  "coding-hints": [
+    "Sich um seine Körperteile wie Haut, Gesicht, Zähne, Kopfhaut, Nägel und Genitalien über das Waschen und Abtrocknen hinaus zu kümmern"
+  ],
+  "inclusions": [
+    "Haut, Zähne, Haar, Finger, Zehennägel pflegen"
+  ],
+  "exclusions": [
+    "Sich waschen"
   ]
 }

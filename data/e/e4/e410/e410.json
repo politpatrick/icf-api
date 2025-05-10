@@ -1,7 +1,9 @@
 {
   "code": "e410",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Individuelle Einstellungen der Mitglieder des engsten Familienkreises",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Allgemeine oder spezifische Meinungen und Überzeugungen der Mitglieder des engsten Familienkreises, die eine bestimmte Person oder andere Dinge (z.B. soziale, politische und ökonomische Themen) betreffen, und die individuelles Verhalten und Handlungen beeinflussen"
+  ]
 }

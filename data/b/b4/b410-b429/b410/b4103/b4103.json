@@ -1,7 +1,12 @@
 {
   "code": "b4103",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Blutzufuhr zum Herzen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die das Blutvolumen, das dem Herzmuskel zu Verfügung steht, betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie koronare Ischämie"
+  ]
 }

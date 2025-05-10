@@ -1,7 +1,12 @@
 {
   "code": "b5500",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Körpertemperatur",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Regulation der Körperkerntemperatur beteiligt sind"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie bei Hyperthermie oder Hypothermie"
+  ]
 }

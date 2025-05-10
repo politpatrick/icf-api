@@ -1,7 +1,6 @@
 {
   "code": "s6300",
   "kind": "fivedigit",
-  "preferred": "Eierstöcke",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Eierstöcke"
 }

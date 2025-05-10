@@ -1,7 +1,9 @@
 {
   "code": "d5401",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kleidung ausziehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die koordinierten Handlungen und Aufgaben durchzuführen, welche das Ablegen von Kleidung von verschiedenen Körperteilen betreffen, wie Kleidung vom oder über den Kopf, von Armen und Schultern sowie von der unteren und oberen Körperhälfte ablegen; Handschuhe ausziehen oder eine Kopfbedeckung ablegen"
+  ]
 }

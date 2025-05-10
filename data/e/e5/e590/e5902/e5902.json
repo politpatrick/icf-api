@@ -1,7 +1,9 @@
 {
   "code": "e5902",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze des Arbeits- und Beschäftigungswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die die Vergabe von Beschäftigungsverhältnissen und anderen Arten entlohnter Arbeit in der Wirtschaft regeln, wie Systeme für die Umsetzung von Handlungsgrundsätzen und Standards für die Schaffung von Arbeitsplätzen, Arbeitsschutz, geschützte und freie Beschäftigung, Arbeitsstandards und -recht sowie Gewerkschaften"
+  ]
 }

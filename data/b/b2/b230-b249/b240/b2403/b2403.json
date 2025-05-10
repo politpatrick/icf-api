@@ -1,7 +1,9 @@
 {
   "code": "b2403",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Übelkeit in Verbindung mit Schwindelgefühl oder Schwindel (Vertigo)",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gefühl, sich übergeben zu müssen, ausgelöst durch Schwindelgefühl oder Schwindel (Vertigo)"
+  ]
 }

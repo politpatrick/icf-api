@@ -1,7 +1,6 @@
 {
   "code": "s7203",
   "kind": "fivedigit",
-  "preferred": "Bänder und Faszien der Schulterregion",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Bänder und Faszien der Schulterregion"
 }

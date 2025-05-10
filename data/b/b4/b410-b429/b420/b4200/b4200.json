@@ -1,7 +1,9 @@
 {
   "code": "b4200",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Erhöhter Blutdruck",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die den systolischen oder diastolischen Blutdruckanstieg über die Altersnorm betreffen (Anm. d. Übers.: vgl. WHO-Empfehlungen)"
+  ]
 }

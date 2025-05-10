@@ -1,7 +1,9 @@
 {
   "code": "d6605",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Anderen bei der Erhaltung ihrer Gesundheit helfen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Haushaltsmitgliedern und anderen bei ihrer medizinischen Versorgung durch Professionelle und Laien zu helfen, wie darauf achten, dass ein Kind regelmäßige medizinische Check-Ups erhält oder dass ein älterer Verwandter die erforderlichen Medikamente einnimmt"
+  ]
 }

@@ -1,7 +1,12 @@
 {
   "code": "b1802",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Zeitwahrnehmung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die die subjektive Wahrnehmung in Bezug auf Länge und Verlauf von Zeit betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Jamais-vu- und Déjà-vu-Erlebnisse"
+  ]
 }

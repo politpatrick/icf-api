@@ -1,7 +1,9 @@
 {
   "code": "d820",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Schulbildung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die Zulassung zu Schule und Bildung zu erlangen, an allen schulbezogenen Pflichten und Rechten teilzuhaben und die Lehrgangsstoffe, -inhalte und andere curriculare Anforderungen der Programme der Primar- und Sekundarstufenbildung zu erlernen einschließlich regelmäßig am Unterricht teilzunehmen, mit anderen Schülern zusammenzuarbeiten, Anweisungen der Lehrer zu befolgen, die zugewiesenen Aufgaben und Projekte zu organisieren, zu lernen und abzuschließen und zu anderen Stufen der Bildung fortzuschreiten"
+  ]
 }

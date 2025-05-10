@@ -1,7 +1,9 @@
 {
   "code": "b1403",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Mit anderen geteilte Aufmerksamkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die die Fokussierung auf denselben Reiz durch zwei oder mehr Personen zulassen, wenn z.B. ein Kind und ein Betreuer sich gemeinsam auf ein Spielzeug konzentrieren"
+  ]
 }

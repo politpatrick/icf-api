@@ -1,8 +1,6 @@
 {
   "code": "d650",
   "kind": "fourdigit",
-  "preferred": "Haushaltsgegenstände pflegen",
-  "definition": null,
   "children": [
     "d6500",
     "d6501",
@@ -13,5 +11,15 @@
     "d6506",
     "d6508",
     "d6509"
+  ],
+  "preferred": "Haushaltsgegenstände pflegen",
+  "coding-hints": [
+    "Haushalts- und andere persönliche Gegenstände, einschließlich Haus und dessen Inhalt, Kleidung, Fahrzeuge und Hilfsmittel, instand halten und instand setzen sowie sich um Pflanzen und Tiere kümmern, wie Räume anstreichen und tapezieren, Einrichtungsgegenstände befestigen, Wasserleitungen instand setzen, die Funktionsfähigkeit von Fahrzeugen sicherstellen, Pflanzen gießen, Haus- und Nutztiere pflegen und füttern"
+  ],
+  "inclusions": [
+    "Kleidung herstellen und reparieren; Wohnung, Möbel und häusliche Geräte instand halten; Fahrzeuge instand halten; Hilfsmittel instand halten; Pflanzen (drinnen und draußen) und Tiere pflegen"
+  ],
+  "exclusions": [
+    "Wohnraum beschaffen"
   ]
 }

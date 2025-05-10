@@ -1,7 +1,9 @@
 {
   "code": "b1470",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Psychomotorische Kontrolle",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die Tempo des Verhaltens oder Reaktionszeiten regulieren und an denen sowohl motorische als auch psychologische Komponenten beteiligt sind. Störungen der Kontrolle führen zu einer psychomotorischen Retardierung (langsames Sprechen und Bewegen, Verminderung von Gestik und spontanen Bewegungen). Störungen der Kontrolle können auch zu psychomotorischer Erregung führen (überschießendes Verhalten oder überschießende kognitive Aktivitäten, die im allgemeinen unproduktiv sind und auf einer inneren Anspannung beruhen. Beispiele sind Klopfen mit den Füßen, ständiges Händereiben, agitiertes Verhalten und Ruhelosigkeit)."
+  ]
 }

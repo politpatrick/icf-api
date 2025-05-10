@@ -1,13 +1,18 @@
 {
   "code": "d335",
   "kind": "fourdigit",
-  "preferred": "Non-verbale Mitteilungen produzieren",
-  "definition": null,
   "children": [
     "d3350",
     "d3351",
     "d3352",
     "d3358",
     "d3359"
+  ],
+  "preferred": "Non-verbale Mitteilungen produzieren",
+  "coding-hints": [
+    "Gesten, Symbole und Zeichnungen zur Vermittlung von Bedeutungen einzusetzen, wie seinen Kopf schütteln, um Uneinigkeit anzuzeigen, oder ein Bild oder Diagramm zeichnen, um eine Tatsache oder eine komplexe Vorstellung zu vermitteln"
+  ],
+  "inclusions": [
+    "Körpergesten, Zeichen, Symbole, Zeichnungen und Fotos produzieren"
   ]
 }

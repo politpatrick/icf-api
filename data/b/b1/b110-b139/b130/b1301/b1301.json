@@ -1,7 +1,9 @@
 {
   "code": "b1301",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Motivation",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die sich in einem Anreiz zu handeln und in einer bewussten oder unbewussten Antriebskraft zu Handlungen äußern"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "d1750",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Einfache Probleme lösen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Lösungen für ein einfaches Problem, das ein einzelnes Thema oder eine einzelne Frage betrifft, zu finden, indem das Problem identifiziert und analysiert wird, Lösungen entwickelt und die möglichen Auswirkungen der Lösungen abgeschätzt werden und die gewählte Lösung umgesetzt wird"
+  ]
 }

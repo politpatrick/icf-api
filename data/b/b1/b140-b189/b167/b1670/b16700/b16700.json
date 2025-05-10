@@ -1,7 +1,9 @@
 {
   "code": "b16700",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Das Verständnis gesprochener Sprache betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die Verstehen und Erfassen der Bedeutung von gesprochenen Mitteilungen betreffen"
+  ]
 }

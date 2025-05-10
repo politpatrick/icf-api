@@ -1,7 +1,9 @@
 {
   "code": "d5102",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sich abtrocknen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Zum Abtrocknen eines Körperteils, von Körperteilen oder des ganzen Körpers ein Handtuch oder entsprechendes zu verwenden, wie nach dem Waschen"
+  ]
 }

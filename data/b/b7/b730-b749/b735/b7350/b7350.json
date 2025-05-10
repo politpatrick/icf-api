@@ -1,7 +1,12 @@
 {
   "code": "b7350",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Tonus einzelner Muskeln und Muskelgruppen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die im Zusammenhang mit dem Ruhetonus einzelner Muskeln und Muskelgruppen und dem Widerstand bei passiver Bewegung dieser Muskeln stehen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie bei fokaler Dystonie (Torticollis)"
+  ]
 }

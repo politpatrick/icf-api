@@ -1,7 +1,9 @@
 {
   "code": "d7504",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Informelle Beziehungen zu Seinesgleichen (Peers)",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Informelle Beziehungen für jeden Zweck zu Menschen im gleichen Alter, mit gleichen Interessen oder anderen gemeinsamen Merkmalen aufzunehmen und aufrecht zu erhalten"
+  ]
 }

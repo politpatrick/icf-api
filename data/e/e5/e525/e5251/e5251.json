@@ -1,7 +1,9 @@
 {
   "code": "e5251",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme des Wohnungswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- oder Überwachungsmechanismen, die Wohnungen oder Unterkünfte für Menschen regeln, wie Einrichtungen für die Umsetzung und Überwachung der Wohnungsregelungen"
+  ]
 }

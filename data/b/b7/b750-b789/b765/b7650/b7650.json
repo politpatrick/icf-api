@@ -1,7 +1,12 @@
 {
   "code": "b7650",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Unwillkürliche Muskelkontraktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die unbeabsichtigten, nicht- oder halbzweckgerichteten unwillkürlichen Kontraktionen eines Muskels oder von Muskelgruppen, wie teilweise bei psychischen Fehlleistungen, betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie choreatische und athetotische Bewegungen, schlafabhängige Bewegungsstörungen"
+  ]
 }

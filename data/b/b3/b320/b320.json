@@ -1,7 +1,15 @@
 {
   "code": "b320",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Artikulationsfunktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Bildung der Sprechlaute betreffen"
+  ],
+  "inclusions": [
+    "Funktionen, die Aussprache und Lautartikulation betreffen; Funktionsstörungen wie spastische, ataktische, schlaffe Dysarthrie; Anarthrie"
+  ],
+  "exclusions": [
+    "Kognitiv-sprachliche Funktionen"
+  ]
 }

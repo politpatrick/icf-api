@@ -1,13 +1,21 @@
 {
   "code": "b110",
   "kind": "fourdigit",
-  "preferred": "Funktionen des Bewusstseins",
-  "definition": null,
   "children": [
     "b1100",
     "b1101",
     "b1102",
     "b1108",
     "b1109"
+  ],
+  "preferred": "Funktionen des Bewusstseins",
+  "coding-hints": [
+    "Allgemeine mentale Funktionen, die die bewusste Wahrnehmung und Wachheit einschließlich Klarheit und Kontinuität des Wachheitszustandes betreffen"
+  ],
+  "inclusions": [
+    "Funktionen, die Zustand, Kontinuität und Qualität des Bewusstseins betreffen; Bewusstseinsverlust, Koma, vegetativer Status (Apallisches Syndrom), Dämmerzustand (Fugue), Trance, Besessenheit, drogeninduzierte Bewusstseinsveränderungen, Delir, Stupor"
+  ],
+  "exclusions": [
+    "Funktionen der Orientierung"
   ]
 }

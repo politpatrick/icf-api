@@ -1,7 +1,9 @@
 {
   "code": "e1501",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Entwurf, Konstruktion sowie Bauprodukte und Technologien für den Zugang zu Einrichtungen innerhalb öffentlicher Gebäude",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Produkte und Technologien für Inneneinrichtungen in Entwurf, Konstruktion und Bau für den öffentlichen Zugang, wie Waschräume/Toiletten, Telefone, Audioschleifen, Lifts oder Aufzüge, Rolltreppen, Thermostaten (zur Regulierung der Temperatur) und zugänglich verteilte Sitzplätze in Auditorien oder Stadien"
+  ]
 }

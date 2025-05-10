@@ -1,7 +1,9 @@
 {
   "code": "b16710",
   "kind": "sixdigit",
+  "children": [],
   "preferred": "Das lautsprachliche Ausdrucksvermögen betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die notwendig sind, in der gesprochenen Sprache sinnvolle Mitteilungen auszudrücken"
+  ]
 }

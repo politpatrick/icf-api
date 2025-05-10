@@ -1,7 +1,6 @@
 {
   "code": "s7105",
   "kind": "fivedigit",
-  "preferred": "Bänder und Faszien des Kopfes und der Halsregion",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Bänder und Faszien des Kopfes und der Halsregion"
 }

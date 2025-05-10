@@ -1,7 +1,9 @@
 {
   "code": "d815",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Vorschulerziehung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Auf einem Eingangsniveau organisierten Unterrichts zu lernen, der vornehmlich dazu dient, ein Kind auf die Schule und die obligatorische Bildung vorzubereiten, wie bei der Aneignung von Fertigkeiten in einer Tagesbetreuung oder in einem ähnlichen Rahmen als Vorbereitung für den Übergang zur Schule"
+  ]
 }

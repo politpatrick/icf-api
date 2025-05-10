@@ -1,7 +1,15 @@
 {
   "code": "b117",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Funktionen der Intelligenz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Allgemeine mentale Funktionen, die erforderlich sind, die verschiedenen mentalen Funktionen einschließlich aller kognitiven Funktionen zu verstehen und konstruktiv zu integrieren sowie diese über die gesamte Lebensdauer hinweg fortzuentwickeln"
+  ],
+  "inclusions": [
+    "Die Intelligenzentwicklung betreffende Funktionen; intellektuelle und mentale Retardierung, Demenz"
+  ],
+  "exclusions": [
+    "Funktionen des Gedächtnisses"
+  ]
 }

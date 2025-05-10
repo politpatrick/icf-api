@@ -1,7 +1,9 @@
 {
   "code": "e460",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Gesellschaftliche Einstellungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Allgemeine oder spezifische Meinungen und Überzeugungen, die im allgemeinen von Mitgliedern einer Kultur, Gesellschaft oder subkulturellen oder anderen gesellschaftlichen Gruppen zu anderen Menschen oder zu sozialen, politischen und ökonomischen Themen vertreten werden, und die Verhaltensweisen oder Handlungen einer Einzelperson oder Personengruppe beeinflussen"
+  ]
 }

@@ -1,13 +1,15 @@
 {
   "code": "e595",
   "kind": "fourdigit",
-  "preferred": "Dienste, Systeme und Handlungsgrundsätze der Politik",
-  "definition": null,
   "children": [
     "e5950",
     "e5951",
     "e5952",
     "e5958",
     "e5959"
+  ],
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze der Politik",
+  "coding-hints": [
+    "Dienste, Systeme und Handlungsgrundsätze, die Abstimmungen, Wahlen und Regieren von Ländern, Regionen, Kommunen sowie internationalen Organisationen betreffen"
   ]
 }

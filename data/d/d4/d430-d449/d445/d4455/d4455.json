@@ -1,7 +1,9 @@
 {
   "code": "d4455",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Fangen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einen bewegten Gegenstand mit Fingern, Händen und Armen zu ergreifen, um ihn zu stoppen und zu halten, wie einen Ball fangen"
+  ]
 }

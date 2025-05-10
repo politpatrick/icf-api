@@ -1,8 +1,6 @@
 {
   "code": "e225",
   "kind": "fourdigit",
-  "preferred": "Klima",
-  "definition": null,
   "children": [
     "e2250",
     "e2251",
@@ -12,5 +10,12 @@
     "e2255",
     "e2258",
     "e2259"
+  ],
+  "preferred": "Klima",
+  "coding-hints": [
+    "Meteorologische Merkmale und Ereignisse wie das Wetter"
+  ],
+  "inclusions": [
+    "Temperatur, Luftfeuchtigkeit, Luftdruck, Niederschlag, Wind und jahreszeitabhängige Veränderungen"
   ]
 }

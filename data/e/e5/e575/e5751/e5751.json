@@ -1,7 +1,9 @@
 {
   "code": "e5751",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Systeme der allgemeinen sozialen Unterstützung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Administrative Steuerungs- und Überwachungsmechanismen, die die Programme und Systeme für die soziale Unterstützung von Menschen, die wegen Alters, Armut, Arbeitslosigkeit, Gesundheitsproblemen oder Behinderung öffentliche Hilfe benötigen, einschließlich der Systeme für die Umsetzung von Regeln und Vorschriften für die Feststellung der Anspruchsberechtigung auf die Dienste der sozialen Unterstützung und die Erbringung dieser Dienste"
+  ]
 }

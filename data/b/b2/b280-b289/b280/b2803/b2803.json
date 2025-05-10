@@ -1,7 +1,9 @@
 {
   "code": "b2803",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "In ein Dermatom ausstrahlender Schmerz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfinden eines unangenehmen Gefühls, das mögliche oder tatsächliche Schäden einer Körperstruktur anzeigt, in einem von derselben Nervenwurzel versorgten Hautareal"
+  ]
 }

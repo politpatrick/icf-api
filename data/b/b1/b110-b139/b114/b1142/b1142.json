@@ -1,12 +1,14 @@
 {
   "code": "b1142",
   "kind": "fivedigit",
-  "preferred": "Orientierung zur Person",
-  "definition": null,
   "children": [
     "b11420",
     "b11421",
     "b11428",
     "b11429"
+  ],
+  "preferred": "Orientierung zur Person",
+  "coding-hints": [
+    "Mentale Funktionen, die sich im bewussten Gewahrsein der eigenen Identität und von Personen in der unmittelbaren Umgebung äußern"
   ]
 }

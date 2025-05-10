@@ -1,13 +1,21 @@
 {
   "code": "b210",
   "kind": "fourdigit",
-  "preferred": "Funktionen des Sehens (Sehsinn)",
-  "definition": null,
   "children": [
     "b2100",
     "b2101",
     "b2102",
     "b2108",
     "b2109"
+  ],
+  "preferred": "Funktionen des Sehens (Sehsinn)",
+  "coding-hints": [
+    "Sinnesfunktionen bezüglich der Wahrnehmung von Licht sowie von Form, Größe, Gestalt und Farbe des visuellen Reizes"
+  ],
+  "inclusions": [
+    "Die Sehschärfe betreffende Funktionen; das Gesichtsfeld betreffende Funktionen; Qualität des Sehvermögens; Licht- und Farbwahrnehmung, Sehschärfe bei Weit- und Nahsicht, einäugiges (monokulares) und beidäugiges (binokulares) Sehen; Bildqualität; Funktionsstörungen wie Kurzsichtigkeit (Myopie), Weitsichtigkeit (Hypermetropie), Hornhautverkrümmung (Astigmatismus), Halbseitenblindheit (Hemianopsie), Farbenblindheit, Tunnelsehen, zentrale oder periphere Gesichtsfeldausfälle (Skotome), Doppelbilder (Diplopie), Nachtblindheit, Hell- Dunkeladaptation"
+  ],
+  "exclusions": [
+    "Funktionen der Wahrnehmung"
   ]
 }

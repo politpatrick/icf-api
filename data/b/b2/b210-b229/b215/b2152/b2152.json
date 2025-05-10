@@ -1,7 +1,12 @@
 {
   "code": "b2152",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen der externen Augenmuskeln",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Muskeln betreffen, welche benutzt werden, um die Blickrichtung zu ändern, um ein sich durch das Gesichtsfeld bewegendes Objekt mit den Augen zu verfolgen, um ruckartige Augenbewegungen zur Verfolgung bewegter Ziele (Sakkaden) durchzuführen und um das Auge zu fixieren"
+  ],
+  "inclusions": [
+    "unwillkürliche ruckartige Augenbewegungen (Nystagmus); Koordination beider Augen"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "code": "b2304",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sprachdifferenzierung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen, die das Erkennen gesprochener Sprache und die Unterscheidung dieser von anderen Tönen oder Geräuschen betreffen"
+  ]
 }

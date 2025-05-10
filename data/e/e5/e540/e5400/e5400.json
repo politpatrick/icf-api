@@ -1,7 +1,12 @@
 {
   "code": "e5400",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste des Transportwesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme zur Beförderung von Personen oder Gütern auf Straßen, Wegen, Schienen, in der Luft oder auf dem Wasser mittels privater oder öffentlicher Transportmittel, einschließlich derer, die diese Dienste erbringen"
+  ],
+  "exclusions": [
+    "Produkte und Technologien zur persönlichen Mobilität drinnen und draußen und Transport"
+  ]
 }

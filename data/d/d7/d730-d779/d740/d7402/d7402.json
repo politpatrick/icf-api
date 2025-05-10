@@ -1,7 +1,9 @@
 {
   "code": "d7402",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Mit Gleichrangigen umgehen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Formelle Beziehungen mit Menschen gleichen Ranges, Prestiges oder gleicher Autorität wie der eigenen sozialen Position aufzunehmen und aufrecht zu erhalten"
+  ]
 }

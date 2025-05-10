@@ -1,7 +1,12 @@
 {
   "code": "b5400",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Grundumsatz",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die an der Sauerstoffaufnahme unter definierten Bedingungen der Ruhe und Temperatur beteiligt sind"
+  ],
+  "inclusions": [
+    "Steigerung oder Absenkung des Grundumsatzes; Funktionsstörungen wie bei Schilddrüsenüber- oder -unterfunktion"
+  ]
 }

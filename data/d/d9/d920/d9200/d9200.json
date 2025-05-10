@@ -1,7 +1,9 @@
 {
   "code": "d9200",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Spiel",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich an Spielen mit Regeln, unstrukturierten oder ungeregelten Spielen und Freizeitbeschäftigung zu beteiligen, wie Schach oder Karten spielen oder das Spiel von Kindern"
+  ]
 }

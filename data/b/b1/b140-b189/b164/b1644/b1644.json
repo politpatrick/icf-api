@@ -1,7 +1,9 @@
 {
   "code": "b1644",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Das Einsichtsvermögen betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die Bewusstsein und Verstehen der eigenen Person und des eigenen Verhaltens betreffen"
+  ]
 }

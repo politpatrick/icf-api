@@ -1,8 +1,6 @@
 {
   "code": "b330",
   "kind": "fourdigit",
-  "preferred": "Funktionen des Redeflusses und Sprechrhythmus",
-  "definition": null,
   "children": [
     "b3300",
     "b3301",
@@ -10,5 +8,15 @@
     "b3303",
     "b3308",
     "b3309"
+  ],
+  "preferred": "Funktionen des Redeflusses und Sprechrhythmus",
+  "coding-hints": [
+    "Funktionen, die die Ausprägung des Sprechflusses und -tempos betreffen"
+  ],
+  "inclusions": [
+    "Funktionen des Flusses, des Rhythmus, der Geschwindigkeit und Melodie des Sprechens; Prosodie und Intonation; Funktionsstörungen wie Stottern, Stammeln, Poltern, Bradylalie und Tachylalie"
+  ],
+  "exclusions": [
+    "Kognitiv-sprachliche Funktionen"
   ]
 }

@@ -1,7 +1,6 @@
 {
   "code": "s12000",
   "kind": "sixdigit",
-  "preferred": "Halsmark (Zervicalmark)",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Halsmark (Zervicalmark)"
 }

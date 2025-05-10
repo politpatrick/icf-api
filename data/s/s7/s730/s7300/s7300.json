@@ -1,8 +1,6 @@
 {
   "code": "s7300",
   "kind": "fivedigit",
-  "preferred": "Struktur des Oberarms",
-  "definition": null,
   "children": [
     "s73000",
     "s73001",
@@ -10,5 +8,6 @@
     "s73003",
     "s73008",
     "s73009"
-  ]
+  ],
+  "preferred": "Struktur des Oberarms"
 }

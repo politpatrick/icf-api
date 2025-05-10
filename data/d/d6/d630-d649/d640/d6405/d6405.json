@@ -1,7 +1,9 @@
 {
   "code": "d6405",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Müll entsorgen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Den Haushaltsmüll zu entsorgen, wie Abfall und Unrat um das Haus herum aufsammeln, Müll mit geeigneten Mitteln zur Entsorgung vorbereiten, Müll verbrennen"
+  ]
 }

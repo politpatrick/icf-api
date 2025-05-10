@@ -1,7 +1,9 @@
 {
   "code": "d825",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Theoretische Berufsausbildung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sich an allen Aktivitäten von Programmen der beruflichen Ausbildung zu beteiligen und die curricularen Stoffe für die Vorbereitung der Beschäftigung in einem Gewerbe, auf einem Arbeitsplatz oder in einem Fachberuf zu lernen"
+  ]
 }

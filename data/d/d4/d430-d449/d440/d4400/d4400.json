@@ -1,7 +1,9 @@
 {
   "code": "d4400",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Einen Gegenstand aufnehmen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einen kleinen Gegenstand mit den Händen und Fingern aufnehmen oder aufheben, wie einen Bleistift aufnehmen"
+  ]
 }

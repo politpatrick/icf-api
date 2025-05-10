@@ -1,7 +1,9 @@
 {
   "code": "d7103",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kritik in Beziehungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In einer kontextuell und sozial angemessenen Weise implizite und explizite Meinungsverschiedenheiten oder Uneinigkeit auszudrücken und darauf zu reagieren"
+  ]
 }

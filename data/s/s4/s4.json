@@ -1,13 +1,12 @@
 {
   "code": "s4",
   "kind": "chapter",
-  "preferred": "Strukturen des kardiovaskulären, des Immun- und des Atmungssystems",
-  "definition": null,
   "children": [
     "s410",
     "s420",
     "s430",
     "s498",
     "s499"
-  ]
+  ],
+  "preferred": "Strukturen des kardiovaskulären, des Immun- und des Atmungssystems"
 }

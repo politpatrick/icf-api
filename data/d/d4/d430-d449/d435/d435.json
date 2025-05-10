@@ -1,12 +1,17 @@
 {
   "code": "d435",
   "kind": "fourdigit",
-  "preferred": "Gegenstände mit den unteren Extremitäten bewegen",
-  "definition": null,
   "children": [
     "d4350",
     "d4351",
     "d4358",
     "d4359"
+  ],
+  "preferred": "Gegenstände mit den unteren Extremitäten bewegen",
+  "coding-hints": [
+    "Koordinierte Handlungen mit dem Ziel auszuführen, einen Gegenstand mit Beinen und Füßen in Bewegung zu versetzen, wie einem Ball einen Tritt versetzen oder die Pedale eines Fahrrades treten"
+  ],
+  "inclusions": [
+    "Mit den unteren Extremitäten stoßen; treten"
   ]
 }

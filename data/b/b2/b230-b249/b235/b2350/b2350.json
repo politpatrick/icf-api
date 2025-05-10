@@ -1,7 +1,9 @@
 {
   "code": "b2350",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Vestibulärer Lagesinn",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen des Innenohrs, die die Feststellung der Körperausrichtung im Raum betreffen"
+  ]
 }

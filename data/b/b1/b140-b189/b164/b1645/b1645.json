@@ -1,7 +1,9 @@
 {
   "code": "b1645",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Das Urteilsvermögen betreffende Funktionen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mentale Funktionen, die daran beteiligt sind, zwischen verschiedenen Möglichkeiten zu unterscheiden und diese zu bewerten, wie solche, die an der Meinungsbildung beteiligt sind"
+  ]
 }

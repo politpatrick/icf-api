@@ -1,7 +1,12 @@
 {
   "code": "d550",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Essen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die koordinierten Handlungen und Aufgaben durchzuführen, die das Essen servierter Speisen betreffen, sie zum Mund zu führen und auf kulturell akzeptierte Weise zu verzehren, Nahrungsmittel in Stücke zu schneiden oder zu brechen, Flaschen und Dosen zu öffnen, Essbesteck zu benutzen, Mahlzeiten einnehmen, zu schlemmen oder zu speisen"
+  ],
+  "exclusions": [
+    "Trinken"
+  ]
 }

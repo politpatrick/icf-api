@@ -1,13 +1,15 @@
 {
   "code": "b1671",
   "kind": "fivedigit",
-  "preferred": "Das sprachliche Ausdrucksvermögen betreffende Funktionen",
-  "definition": null,
   "children": [
     "b16710",
     "b16711",
     "b16712",
     "b16718",
     "b16719"
+  ],
+  "preferred": "Das sprachliche Ausdrucksvermögen betreffende Funktionen",
+  "coding-hints": [
+    "Spezifische mentale Funktionen, die notwendig sind, um sinnvolle Mitteilungen in gesprochener, geschriebener, symbolischer oder anderer Form zu produzieren"
   ]
 }

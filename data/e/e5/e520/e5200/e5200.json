@@ -1,7 +1,12 @@
 {
   "code": "e5200",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste der Stadt- und Landschaftsplanung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme zur Planung, Schaffung und Erhaltung von städtischen, vorstädtischen und ländlichen Räumen, Erholungs- und Naturschutzgebieten, Freiflächen für Versammlungen und Märkte (Plätze, Freilichtmärkte) und Verkehrsnetze für Fußgänger und Fahrzeuge für bestimmte Zwecke, einschließlich derer, die diese Dienste und Leistungen anbieten"
+  ],
+  "exclusions": [
+    "Entwurf, Konstruktion sowie Bauprodukte und Technologien von öffentlichen"
+  ]
 }

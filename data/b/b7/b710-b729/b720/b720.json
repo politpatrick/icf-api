@@ -1,8 +1,6 @@
 {
   "code": "b720",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Beweglichkeit der Knochen",
-  "definition": null,
   "children": [
     "b7200",
     "b7201",
@@ -10,5 +8,15 @@
     "b7203",
     "b7208",
     "b7209"
+  ],
+  "preferred": "Funktionen der Beweglichkeit der Knochen",
+  "coding-hints": [
+    "Funktionen, die den Bewegungsumfang und die Leichtigkeit der Bewegung des Schulterblatts, Beckens sowie der Handwurzel- und Fußwurzelknochen betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Einschränkung der Beweglichkeit des Schulterblattes, Beckensteife"
+  ],
+  "exclusions": [
+    "Funktionen der Gelenkbeweglichkeit"
   ]
 }

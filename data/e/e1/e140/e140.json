@@ -1,12 +1,17 @@
 {
   "code": "e140",
   "kind": "fourdigit",
-  "preferred": "Produkte und Technologien für Kultur, Freizeit und Sport",
-  "definition": null,
   "children": [
     "e1400",
     "e1401",
     "e1408",
     "e1409"
+  ],
+  "preferred": "Produkte und Technologien für Kultur, Freizeit und Sport",
+  "coding-hints": [
+    "Für die Durchführung und Verbesserung der Kultur-, Freizeit- und Sportaktivitäten benutzte Ausrüstungsgegenstände, Produkte und Technologien, einschließlich solcher, die angepasst oder speziell entworfen sind"
+  ],
+  "inclusions": [
+    "Allgemeine und Hilfsprodukte und unterstützende Technologien für Kultur, Freizeit und Sport"
   ]
 }

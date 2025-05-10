@@ -1,11 +1,10 @@
 {
   "code": "s340",
   "kind": "fourdigit",
-  "preferred": "Struktur des Kehlkopfes",
-  "definition": null,
   "children": [
     "s3400",
     "s3408",
     "s3409"
-  ]
+  ],
+  "preferred": "Struktur des Kehlkopfes"
 }

@@ -1,12 +1,20 @@
 {
   "code": "d620",
   "kind": "fourdigit",
-  "preferred": "Waren und Dienstleistungen des täglichen Bedarfs beschaffen",
-  "definition": null,
   "children": [
     "d6200",
     "d6201",
     "d6208",
     "d6209"
+  ],
+  "preferred": "Waren und Dienstleistungen des täglichen Bedarfs beschaffen",
+  "coding-hints": [
+    "Alle Waren und Dienstleistungen des täglichen Bedarfs auszuwählen, zu beschaffen und zu transportieren, wie Lebensmittel, Getränke, Kleidung, Reinigungsmaterial, Brennstoff, Haushaltsartikel, Utensilien, Kochgeschirr, häusliche Hilfsmittel und Werkzeuge auswählen, beschaffen, transportieren und lagern; Versorgungs- und andere Dienstleistungen für den Haushalt beschaffen"
+  ],
+  "inclusions": [
+    "Die täglichen Notwendigkeiten einkaufen und zusammentragen"
+  ],
+  "exclusions": [
+    "Wohnraum beschaffen"
   ]
 }

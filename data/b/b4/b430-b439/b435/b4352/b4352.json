@@ -1,7 +1,9 @@
 {
   "code": "b4352",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen der Lymphgefäße",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen, die die Gefäßkanäle für den Lymphtransport betreffen"
+  ]
 }

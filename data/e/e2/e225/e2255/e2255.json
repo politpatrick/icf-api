@@ -1,7 +1,9 @@
 {
   "code": "e2255",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Jahreszeitliche Veränderungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Natürliche, regelmäßige und voraussagbare Änderungen von einer Jahreszeit zur nächsten, wie Sommer, Herbst, Winter und Frühling"
+  ]
 }

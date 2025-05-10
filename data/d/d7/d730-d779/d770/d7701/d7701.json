@@ -1,7 +1,9 @@
 {
   "code": "d7701",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Eheliche Beziehungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Eine intime Beziehung mit einer anderen Person auf rechtlicher Grundlage aufzubauen und aufrecht zu erhalten, wie in einer Ehe, einschließlich eine Ehefrau oder ein Ehemann oder eine rechtlich anerkannte Lebensgefährtin bzw. -gefährte zu werden und zu sein"
+  ]
 }

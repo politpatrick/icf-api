@@ -1,7 +1,9 @@
 {
   "code": "e5750",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste der allgemeinen sozialen Unterstützung",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme für die soziale Unterstützung von Menschen, die wegen Alters, Armut, Arbeitslosigkeit, Gesundheitsproblemen oder Behinderung öffentliche Hilfe in Bereichen wie Einkaufen, Hausarbeit, Beförderung, Selbstversorgung und Versorgung von Anderen benötigen, um eine vollständigere Partizipation [Teilhabe] am Leben in der Gesellschaft zu erlangen"
+  ]
 }

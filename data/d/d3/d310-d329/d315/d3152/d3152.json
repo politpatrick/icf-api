@@ -1,7 +1,9 @@
 {
   "code": "d3152",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Kommunizieren als Empfänger von Zeichnungen und Fotos",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die in Zeichnungen und Fotos (z. B. Strichzeichnungen, grafische Entwürfe, Gemälde, dreidimensionale Darstellungen) sowie in grafischen Darstellungen, Diagrammen und Fotos vermittelte Bedeutung zu erfassen, wie z.B. verstehen, dass eine Aufwärtslinie in einem Größendiagramm anzeigt, dass ein Kind wächst"
+  ]
 }

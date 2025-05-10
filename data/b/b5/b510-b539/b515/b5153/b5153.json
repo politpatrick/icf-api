@@ -1,7 +1,12 @@
 {
   "code": "b5153",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Nahrungsmittelverträglichkeit",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen des Körpers, die die Akzeptanz verträglicher Speisen und Getränke zur Verdauung sowie die Verweigerung von Unverträglichem betreffen"
+  ],
+  "inclusions": [
+    "Funktionsstörungen wie Überempfindlichkeiten, Glutenintoleranz"
+  ]
 }

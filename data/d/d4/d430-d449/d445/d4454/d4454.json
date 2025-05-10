@@ -1,7 +1,9 @@
 {
   "code": "d4454",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Werfen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Etwas mit Fingern, Händen und Armen aufzunehmen und es mit einiger Kraft durch die Luft zu schleudern, wie einen Ball hochwerfen"
+  ]
 }

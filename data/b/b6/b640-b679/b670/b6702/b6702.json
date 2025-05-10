@@ -1,7 +1,12 @@
 {
   "code": "b6702",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Mit der Menopause verbundene Beschwerden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfindungen, die mit dem Sistieren des Menstruationszyklus verbunden sind"
+  ],
+  "inclusions": [
+    "Hitzewallungen und nächtliche Schweißausbrüche während der Menopause"
+  ]
 }

@@ -1,13 +1,21 @@
 {
   "code": "d910",
   "kind": "fourdigit",
-  "preferred": "Gemeinschaftsleben",
-  "definition": null,
   "children": [
     "d9100",
     "d9101",
     "d9102",
     "d9108",
     "d9109"
+  ],
+  "preferred": "Gemeinschaftsleben",
+  "coding-hints": [
+    "Sich an allen Aspekten des gemeinschaftlichen sozialen Lebens zu beteiligen, wie in Wohlfahrtsorganisationen, Dienstleistungsvereinigungen oder professionellen Sozialorganisationen mitzuwirken"
+  ],
+  "inclusions": [
+    "Informelle und formelle Vereinigungen; Feierlichkeiten"
+  ],
+  "exclusions": [
+    "Unbezahlte Tätigkeit"
   ]
 }

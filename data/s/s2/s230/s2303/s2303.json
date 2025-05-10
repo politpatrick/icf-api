@@ -1,7 +1,6 @@
 {
   "code": "s2303",
   "kind": "fivedigit",
-  "preferred": "Externe Augenmuskeln",
-  "definition": null,
-  "children": []
+  "children": [],
+  "preferred": "Externe Augenmuskeln"
 }

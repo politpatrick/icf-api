@@ -1,7 +1,9 @@
 {
   "code": "d4751",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Ein motorisiertes Fahrzeug fahren",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Ein Fahrzeug mit einem Motor zu fahren, wie ein Auto, Motorrad, Motorboot oder Flugzeug"
+  ]
 }

@@ -1,13 +1,21 @@
 {
   "code": "b715",
   "kind": "fourdigit",
-  "preferred": "Funktionen der Gelenkstabilität",
-  "definition": null,
   "children": [
     "b7150",
     "b7151",
     "b7152",
     "b7158",
     "b7159"
+  ],
+  "preferred": "Funktionen der Gelenkstabilität",
+  "coding-hints": [
+    "Funktionen, die die Aufrechterhaltung der strukturellen Integrität der Gelenke betreffen"
+  ],
+  "inclusions": [
+    "Funktionen der Stabilität eines einzelnen Gelenks, mehrerer Gelenke und aller Gelenke; Funktionsstörungen wie Schulterinstabilität, Gelenkdislokation, Dislokation der Schulter und Hüfte"
+  ],
+  "exclusions": [
+    "Funktionen der Gelenkbeweglichkeit"
   ]
 }

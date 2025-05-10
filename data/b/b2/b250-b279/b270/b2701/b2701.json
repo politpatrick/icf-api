@@ -1,7 +1,9 @@
 {
   "code": "b2701",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Vibrationsempfinden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Sinnesfunktionen, die die Wahrnehmung von Erschütterungen oder Schwingungen betreffen"
+  ]
 }

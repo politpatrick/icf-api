@@ -1,7 +1,12 @@
 {
   "code": "d6301",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Komplexe Mahlzeiten vorbereiten",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Mahlzeiten, die viele Zutaten erfordern und mit komplexen Mitteln zubereitet und serviert werden müssen, zu planen, zu organisieren, zu kochen und zu servieren, wie mehrgängige Mahlzeiten planen, die Zutaten durch kombinierte Handlungen wie schälen, in Scheiben oder Stücke schneiden, mixen, kneten und rühren bearbeiten und die Mahlzeit dem Anlass und der Kultur entsprechend zu servieren"
+  ],
+  "exclusions": [
+    "Haushaltsgeräte benutzen"
+  ]
 }

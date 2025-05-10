@@ -1,7 +1,9 @@
 {
   "code": "d7202",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Verhalten in Beziehungen regulieren",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In einer kontextuell und sozial angemessenen Weise Gefühle und Impulse, verbale und physische Aggressionen zu regulieren"
+  ]
 }

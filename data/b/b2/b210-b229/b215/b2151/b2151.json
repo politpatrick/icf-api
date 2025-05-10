@@ -1,7 +1,9 @@
 {
   "code": "b2151",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Funktionen des Augenlids",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Funktionen des Augenlids, wie zum Beispiel der Schutzreflex"
+  ]
 }

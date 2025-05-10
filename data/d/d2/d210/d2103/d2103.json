@@ -1,7 +1,9 @@
 {
   "code": "d2103",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Eine Einzelaufgabe in einer Gruppe bewältigen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Die einfache oder komplexe Aufgabe vorzubereiten, anzugehen und sich um die erforderliche Zeit und Räumlichkeit zu kümmern; eine Aufgabe mit anderen Personen, die in einigen oder allen Schritten der Aufgabe einbezogen sind, zu handhaben und zu bearbeiten"
+  ]
 }

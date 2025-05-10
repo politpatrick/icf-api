@@ -1,7 +1,9 @@
 {
   "code": "d3500",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Eine Unterhaltung beginnen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Einen Dialog oder einen Gedankenaustausch zu eröffnen, wie sich selbst vorzustellen, die üblichen Grußformeln auszudrücken und in ein Thema einzuführen oder eine Frage zu stellen"
+  ]
 }

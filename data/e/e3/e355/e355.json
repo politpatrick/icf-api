@@ -1,7 +1,12 @@
 {
   "code": "e355",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Fachleute der Gesundheitsberufe",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Alle Dienstleistungserbringer, die im Gesundheitssystem arbeiten, wie Ärzte, Pflegekräfte, Physiotherapeuten, Ergotherapeuten, Sprachtherapeuten, Audiologen, Hersteller von Orthesen und Prothesen, Sozialarbeiter im Gesundheitswesen"
+  ],
+  "exclusions": [
+    "Andere Fachleute"
+  ]
 }

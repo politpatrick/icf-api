@@ -1,7 +1,9 @@
 {
   "code": "d7603",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Beziehungen zum erweiterten Familienkreis",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Eine Familienbeziehung zu Mitgliedern des eigenen erweiterten Familienkreises aufzubauen und aufrecht zu erhalten, wie mit Cousinen und Cousins, Tanten, Onkeln und Großeltern"
+  ]
 }

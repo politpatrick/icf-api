@@ -1,7 +1,9 @@
 {
   "code": "e5952",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze der Politik",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze und Handlungsgrundsätze für das politische System, die die Arbeitsfähigkeit des politischen Systems regeln, wie Handlungsgrundsätze für Wahlkampagnen, Registrierung politischer Parteien, Wahlen sowie die Benennung von Mitgliedern in internationalen politischen Organisationen einschließlich Verträge, Verfassungs- und anderes Recht, das Gesetze und Vorschriften regelt"
+  ]
 }

@@ -1,8 +1,6 @@
 {
   "code": "b750-b789",
   "kind": "block",
-  "preferred": "Funktionen der Bewegung",
-  "definition": null,
   "children": [
     "b750",
     "b755",
@@ -11,5 +9,6 @@
     "b770",
     "b780",
     "b789"
-  ]
+  ],
+  "preferred": "Funktionen der Bewegung"
 }

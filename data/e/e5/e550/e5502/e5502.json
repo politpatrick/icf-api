@@ -1,7 +1,9 @@
 {
   "code": "e5502",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze der Rechtspflege",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, wie Rechte, Vorschriften, Gewohnheitsrecht, religiöses Recht, internationales Recht und Konventionen, die die Rechtsprechung regeln"
+  ]
 }

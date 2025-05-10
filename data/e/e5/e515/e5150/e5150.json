@@ -1,7 +1,9 @@
 {
   "code": "e5150",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Dienste des Architektur- und Bauwesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Dienste und Programme für Entwurf, Bau und Erhaltung von Wohn-, Geschäfts-, Industrie- und öffentlichen Gebäuden, wie Hausbau, Operationalisierung und Umsetzung von Entwurfsgrundsätzen, Baunormen, -vorschriften und -standards, einschließlich derer, die diese Dienste erbringen"
+  ]
 }

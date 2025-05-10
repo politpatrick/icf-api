@@ -1,7 +1,9 @@
 {
   "code": "d5700",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Für seinen physischen Komfort sorgen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Auf sich selbst zu achten, indem man für eine bequeme Körperposition, eine angenehme Körpertemperatur und geeignete Beleuchtung sorgt und man sich über diese Notwendigkeit im Klaren ist"
+  ]
 }

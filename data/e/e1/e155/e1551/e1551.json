@@ -1,7 +1,9 @@
 {
   "code": "e1551",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Entwurf, Konstruktion sowie Bauprodukte und Technologien für den Zugang zu Einrichtungen innerhalb von privaten Gebäuden",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Produkte und Technologien für Inneneinrichtungen mit Bezug auf Entwurf, Konstruktion und Bau für die private Nutzung, wie Waschräume/Toiletten, Telefone, Audioschleifen, Küchenschränke und elektronische Regelungs- und Steuerungsgeräten in privaten Häusern/Wohnungen"
+  ]
 }

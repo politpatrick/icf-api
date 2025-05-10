@@ -1,13 +1,15 @@
 {
   "code": "e555",
   "kind": "fourdigit",
-  "preferred": "Dienste, Systeme und Handlungsgrundsätze von Vereinigungen und Organisationen",
-  "definition": null,
   "children": [
     "e5550",
     "e5551",
     "e5552",
     "e5558",
     "e5559"
+  ],
+  "preferred": "Dienste, Systeme und Handlungsgrundsätze von Vereinigungen und Organisationen",
+  "coding-hints": [
+    "Dienste und Programme von Personen, die sich zwecks Verfolgung allgemeiner, nicht-kommerzieller Interessen mit anderen Personen mit gleichen Interessen zusammengeschlossen haben, wobei die Erbringung solcher Dienste an eine Mitgliedschaft gebunden sein kann"
   ]
 }

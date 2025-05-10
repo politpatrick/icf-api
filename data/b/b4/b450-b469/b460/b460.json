@@ -1,7 +1,15 @@
 {
   "code": "b460",
   "kind": "fourdigit",
+  "children": [],
   "preferred": "Mit dem kardiovaskulären und Atmungssystem verbundene Empfindungen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Empfindungen wie bei Aussetzen des Herzschlages, Herzklopfen, Kurzatmigkeit"
+  ],
+  "inclusions": [
+    "Empfindung von Brustenge, Gefühl von unregelmäßigem Herzschlag, Dyspnoe, Luftnot; Erstickungsgefühle, Würgegefühl, Keuchen"
+  ],
+  "exclusions": [
+    "Schmerz"
+  ]
 }

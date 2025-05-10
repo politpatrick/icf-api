@@ -1,7 +1,9 @@
 {
   "code": "e5302",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Handlungsgrundsätze des Versorgungswesens",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "Gesetze, Vorschriften und Standards, die die Bereitstellung von Versorgungsdiensten regeln, wie Gesundheits- und Sicherheitsstandards für Lieferung und Versorgung mit Wasser und Brennstoff, Entsorgungsverfahren in den Kommunen und Handlungsgrundsätze für andere notwendige Dienste sowie die Versorgung in Notzeiten und bei Naturkatastrophen"
+  ]
 }

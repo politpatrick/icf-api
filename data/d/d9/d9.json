@@ -1,8 +1,6 @@
 {
   "code": "d9",
   "kind": "chapter",
-  "preferred": "Gemeinschafts-, soziales und staatsbürgerliches Leben",
-  "definition": null,
   "children": [
     "d910",
     "d920",
@@ -11,5 +9,9 @@
     "d950",
     "d998",
     "d999"
+  ],
+  "preferred": "Gemeinschafts-, soziales und staatsbürgerliches Leben",
+  "coding-hints": [
+    "Dieses Kapitel befasst sich mit Handlungen und Aufgaben, die für die Beteiligung am organisierten sozialen Leben außerhalb der Familie, in der Gemeinschaft sowie in verschiedenen sozialen und staatsbürgerlichen Lebensbereichen erforderlich sind."
   ]
 }

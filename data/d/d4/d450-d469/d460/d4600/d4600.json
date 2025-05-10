@@ -1,7 +1,12 @@
 {
   "code": "d4600",
   "kind": "fivedigit",
+  "children": [],
   "preferred": "Sich in seiner Wohnung umherbewegen",
-  "definition": null,
-  "children": []
+  "coding-hints": [
+    "In seiner Wohnung umherzugehen und sich umherzubewegen, innerhalb eines Raumes und zwischen Räumen sowie innerhalb der ganzen Wohnung oder des Lebensbereichs"
+  ],
+  "inclusions": [
+    "Sich von Stockwerk zu Stockwerk, auf einem Balkon, auf dem Hof, auf der Veranda oder im Garten bewegen"
+  ]
 }
