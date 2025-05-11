@@ -1,0 +1,440 @@
+openapi: 3.1.0
+info:
+  title: BetreuerGPT ICF API
+  version: "1.0.0"
+  description: |
+    API für ICF-Funktionen im BetreuerGPT.
+    Nutzt die JSON-Rohdaten direkt aus Ihrem GitHub-Repository.
+
+servers:
+  - url: https://raw.githubusercontent.com/politpatrick/icf-api/main/icf_json
+    description: GitHub RAW-Endpoint für ICF-JSON-Dateien
+
+paths:
+  /chapters.json:
+    get:
+      summary: Listet alle ICF-Kapitel mit Code und Titel
+      operationId: getICFChapters
+      responses:
+        '200':
+          description: Kapitelliste
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Chapter'
+
+  /{chapterCode}.json:
+    get:
+      summary: Gibt alle Unterkategorien eines ICF-Kapitels zurück
+      operationId: getICFCategories
+      parameters:
+        - name: chapterCode
+          in: path
+          description: ICF-Kapitel-Code, z.B. "b1"
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Kategorienliste
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  categories:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Category'
+
+  /{code}.json:
+    get:
+      summary: Ruft vollständige Metadaten zu einem ICF-Code ab
+      operationId: getICFCodeInfo
+      parameters:
+        - name: code
+          in: path
+          description: ICF-Code, z.B. "d450"
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Code-Details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CodeInfo'
+
+  /search:
+    post:
+      summary: Durchsucht Titel und Beschreibungen nach einem Keyword
+      operationId: searchICF
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/SearchICFRequest'
+      responses:
+        '200':
+          description: Trefferliste
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/SearchResult'
+
+  /mapAssessmentToICF:
+    post:
+      summary: Mappt freien Assessment-Text auf ICF-Codes mittels NLP
+      operationId: mapAssessmentToICF
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MapAssessmentRequest'
+      responses:
+        '200':
+          description: Mappings mit Confidence-Scores
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/AssessmentMapping'
+
+  /generateCarePlan:
+    post:
+      summary: Erstellt ein Grobkonzept mit Zielen und Interventionen
+      operationId: generateCarePlan
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/GenerateCarePlanRequest'
+      responses:
+        '200':
+          description: Generierter Pflegeplan
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/CarePlanItem'
+
+  /trackProgress:
+    post:
+      summary: Vergleicht Qualifier-Werte über die Zeit und liefert Trends
+      operationId: trackProgress
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/TrackProgressRequest'
+      responses:
+        '200':
+          description: Trenddaten
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ProgressResponse'
+
+  /getRelatedCodes:
+    post:
+      summary: Findet verwandte ICF-Codes
+      operationId: getRelatedCodes
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/GetRelatedCodesRequest'
+      responses:
+        '200':
+          description: Verwandte Codes
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/RelatedCode'
+
+  /suggestInterventions:
+    post:
+      summary: Empfiehlt Interventionen zu einem ICF-Code
+      operationId: suggestInterventions
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/SuggestInterventionsRequest'
+      responses:
+        '200':
+          description: Interventionsempfehlungen
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Intervention'
+
+  /listEnvironmentalFactors:
+    get:
+      summary: Gibt alle Umweltfaktoren zurück
+      operationId: listEnvironmentalFactors
+      responses:
+        '200':
+          description: Umweltfaktoren
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/EnvironmentalFactor'
+
+  /getICFQualifiers:
+    post:
+      summary: Liefert alle Qualifier zu einem ICF-Code
+      operationId: getICFQualifiers
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/GetQualifiersRequest'
+      responses:
+        '200':
+          description: Liste der Qualifier
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Qualifier'
+
+components:
+  schemas:
+    Chapter:
+      type: object
+      properties:
+        code:
+          type: string
+        title:
+          type: string
+      required:
+        - code
+        - title
+
+    Category:
+      type: object
+      properties:
+        code:
+          type: string
+        title:
+          type: string
+        description:
+          type: string
+      required:
+        - code
+        - title
+
+    CodeInfo:
+      type: object
+      properties:
+        code:
+          type: string
+        title:
+          type: string
+        description:
+          type: string
+        qualifiers:
+          type: array
+          items:
+            type: object
+      required:
+        - code
+        - title
+
+    SearchICFRequest:
+      type: object
+      properties:
+        keyword:
+          type: string
+        limit:
+          type: integer
+      required:
+        - keyword
+
+    SearchResult:
+      type: object
+      properties:
+        code:
+          type: string
+        title:
+          type: string
+        snippet:
+          type: string
+
+    MapAssessmentRequest:
+      type: object
+      properties:
+        freeText:
+          type: string
+      required:
+        - freeText
+
+    AssessmentMapping:
+      type: object
+      properties:
+        code:
+          type: string
+        confidenceScore:
+          type: number
+
+    GenerateCarePlanRequest:
+      type: object
+      properties:
+        icfProfile:
+          type: array
+          items:
+            type: object
+            properties:
+              code:
+                type: string
+              qualifier:
+                type: number
+        goals:
+          type: array
+          items:
+            type: string
+      required:
+        - icfProfile
+        - goals
+
+    CarePlanItem:
+      type: object
+      properties:
+        goal:
+          type: string
+        icfCode:
+          type: string
+        suggestedInterventions:
+          type: array
+          items:
+            type: string
+
+    TrackProgressRequest:
+      type: object
+      properties:
+        clientId:
+          type: string
+        timeRange:
+          type: object
+          properties:
+            from:
+              type: string
+              format: date
+            to:
+              type: string
+              format: date
+          required:
+            - from
+            - to
+      required:
+        - clientId
+        - timeRange
+
+    ProgressResponse:
+      type: object
+      properties:
+        clientId:
+          type: string
+        trends:
+          type: array
+          items:
+            type: object
+            properties:
+              code:
+                type: string
+              from:
+                type: string
+                format: date
+              to:
+                type: string
+                format: date
+              change:
+                type: number
+
+    GetRelatedCodesRequest:
+      type: object
+      properties:
+        code:
+          type: string
+      required:
+        - code
+
+    RelatedCode:
+      type: object
+      properties:
+        code:
+          type: string
+        relation:
+          type: string
+
+    SuggestInterventionsRequest:
+      type: object
+      properties:
+        code:
+          type: string
+      required:
+        - code
+
+    Intervention:
+      type: object
+      properties:
+        intervention:
+          type: string
+        description:
+          type: string
+
+    EnvironmentalFactor:
+      type: object
+      properties:
+        code:
+          type: string
+        title:
+          type: string
+        description:
+          type: string
+      required:
+        - code
+        - title
+
+    GetQualifiersRequest:
+      type: object
+      properties:
+        code:
+          type: string
+      required:
+        - code
+
+    Qualifier:
+      type: object
+      properties:
+        code:
+          type: string
+        title:
+          type: string
+        description:
+          type: string
+      required:
+        - code
+        - title
