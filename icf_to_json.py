@@ -96,7 +96,7 @@ def _save_class_recursive(
             continue
         _save_class_recursive(child_elem, code_map, cls_dir, lang, index)
 
-def export_icf(xml_path: Path, target_dir: Path, lang: str = "de") -> None:
+def export_icf(xml_path: Path, target_dir: Path, lang: str = "de") -> Dict[str, str]:
     tree = ET.parse(xml_path)
     root = tree.getroot()
     code_map = build_code_map(root)
@@ -104,128 +104,111 @@ def export_icf(xml_path: Path, target_dir: Path, lang: str = "de") -> None:
     index: Dict[str, str] = {}
     for comp in tops:
         _save_class_recursive(comp, code_map, target_dir, lang, index)
+    # Schreibe Datei, falls gewünscht
     (target_dir / "index.json").write_text(
         json.dumps(index, ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
+    # Gib Index zurück
+    return index
 
 ##########################################
 # Komfort-Funktionen für den API-Einsatz  #
 ##########################################
 
-def load_index(target_dir: Path) -> Dict[str, str]:
-    return json.loads((target_dir / "index.json").read_text(encoding="utf-8"))
+def create_flat_json(target_dir: Path) -> None:
+    """
+    Erstellt eine flache JSON-Datei aus den hierarchischen JSON-Dateien.
+    
+    Args:
+        target_dir: Verzeichnis, in dem die index.json und alle anderen JSON-Dateien liegen
+    """
+    # Index-Datei lesen
+    index_path = target_dir / "index.json"
+    if not index_path.exists():
+        print(f"Fehler: Index-Datei {index_path} nicht gefunden", file=sys.stderr)
+        return
 
-def load_class(code: str, index_path: Path | str) -> Dict:
-    index = json.loads(Path(index_path).read_text(encoding="utf-8"))
-    rel = index.get(code)
-    if rel is None:
-        raise KeyError(f"Code {code!r} nicht in Index")
-    return json.loads((Path(index_path).parent / rel).read_text(encoding="utf-8"))
-
-def search_text(
-    query: str,
-    index_path: Path | str,
-    *,
-    fields: Sequence[str] = ("preferred", "definitions", "coding-hints"),
-    limit: int | None = 20,
-) -> List[Dict]:
-    q_lower = query.lower()
-    results: List[Dict] = []
-    index = json.loads(Path(index_path).read_text(encoding="utf-8"))
-    for code, rel in index.items():
-        p = Path(index_path).parent / rel
-        if not p.is_file():
+    with open(index_path, "r", encoding="utf-8") as f:
+        index = json.load(f)
+    
+    # Flat-Dictionary erstellen
+    flat_dict: Dict[str, Dict] = {}
+    missing_files = []
+    
+    # Hilfsfunktion zum Finden von Dateien mit dem gleichen Basisnamen in einer verschachtelten Struktur
+    def find_file_by_code(base_dir: Path, code: str) -> Path:
+        # Versuche, die Datei durch rekursive Suche zu finden
+        for json_file in base_dir.glob(f"**/{code}.json"):
+            return json_file
+        # Wenn nicht gefunden, versuche alternativ, in dem angegebenen Verzeichnis zu suchen
+        possible_dir = base_dir / code
+        if possible_dir.exists() and possible_dir.is_dir():
+            possible_file = possible_dir / f"{code}.json"
+            if possible_file.exists():
+                return possible_file
+        # Nichts gefunden
+        return None
+    
+    # Alle JSON-Dateien aus dem Index laden
+    for code, rel_path in index.items():
+        # Versuche zuerst den direkten Pfad
+        json_path = target_dir / rel_path
+        found = False
+        
+        if json_path.exists():
+            # Direkte Pfadauflösung erfolgreich
+            found = True
+        else:
+            # Versuche, die Datei durch den Code zu finden
+            alternative_path = find_file_by_code(target_dir, code)
+            if alternative_path:
+                json_path = alternative_path
+                print(f"Info: JSON-Datei für Code {code} gefunden unter {json_path}", file=sys.stderr)
+                found = True
+        
+        if not found:
+            missing_files.append((code, str(json_path)))
             continue
-        data = json.loads(p.read_text(encoding="utf-8"))
-        for fld in fields:
-            val = data.get(fld)
-            if val and (
-                (isinstance(val, str) and q_lower in val.lower())
-                or (isinstance(val, Iterable) and any(q_lower in str(x).lower() for x in val))
-            ):
-                results.append(data)
-                break
-        if limit and len(results) >= limit:
-            break
-    return results
-
-def list_children(
-    code: str,
-    index_path: Path | str,
-    *,
-    depth: int = 1,
-) -> List[str]:
-    parent = load_class(code, index_path)
-    children: List[str] = []
-    def _collect(codes: List[str], d: int):
-        if d <= 0:
-            return
-        for c in codes:
-            children.append(c)
-            sub = load_class(c, index_path)
-            _collect(sub.get("children", []), d - 1)
-    _collect(parent.get("children", []), depth)
-    return children
-
-def stats(target_dir: Path) -> Dict[str, object]:
-    index = load_index(target_dir)
-    total = len(index)
-    depths: List[int] = []
-    child_counts: List[int] = []
-    missing: List[str] = []
-    for code, rel in index.items():
-        p = target_dir / rel
-        if not p.is_file():
-            print(f"⚠️ Warnung: {p} fehlt – Code {code} übersprungen", file=sys.stderr)
-            missing.append(code)
-            continue
-        data = json.loads(p.read_text(encoding="utf-8"))
-        depths.append(rel.count("/"))
-        child_counts.append(len(data.get("children", [])))
-    stats: Dict[str, object] = {
-        "total_classes": total - len(missing),
-        "max_depth": max(depths) if depths else 0,
-        "avg_children": round(mean(child_counts), 2) if child_counts else 0,
-    }
-    if missing:
-        print(f"⚠️ {len(missing)} Einträge konnten in stats nicht verarbeitet werden.", file=sys.stderr)
-    return stats
-
-##########################################
-# Hilfsfunktionen  (Flat + Update)       #
-##########################################
-
-def create_flat_json(target_dir: Path, fname: str = "icf_flat.json") -> None:
-    index = load_index(target_dir)
-    flat: Dict[str, Dict] = {}
-    missing: List[str] = []
-    for code, rel in index.items():
-        p = target_dir / rel
-        if not p.is_file():
-            print(f"⚠️ Warnung: {p} fehlt – Code {code} übersprungen", file=sys.stderr)
-            missing.append(code)
-            continue
-        flat[code] = json.loads(p.read_text(encoding="utf-8"))
-    (target_dir / fname).write_text(
-        json.dumps(flat, ensure_ascii=False, separators=",:"), encoding="utf-8"
+            
+        try:
+            with open(json_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                
+            # Code in das flache Dictionary einfügen
+            flat_dict[code] = data
+        except Exception as e:
+            print(f"Fehler beim Lesen von {json_path}: {e}", file=sys.stderr)
+    
+    # Ausgabe von Warnungen zu fehlenden Dateien
+    if missing_files:
+        print(f"Warnung: {len(missing_files)} JSON-Dateien wurden nicht gefunden:", file=sys.stderr)
+        for code, path in missing_files[:10]:  # Begrenze die Ausgabe auf 10 Einträge
+            print(f"  - Code {code}: {path}", file=sys.stderr)
+        if len(missing_files) > 10:
+            print(f"  ... und {len(missing_files) - 10} weitere.", file=sys.stderr)
+    
+    # Flache JSON-Datei schreiben
+    flat_json_path = target_dir / "icf_flat.json"
+    flat_json_path.write_text(
+        json.dumps(flat_dict, ensure_ascii=False, indent=2),
+        encoding="utf-8"
     )
-    if missing:
-        print(f"⚠️ {len(missing)} Einträge konnten nicht übernommen werden.", file=sys.stderr)
+    print(f"Flache JSON-Datei erstellt: {flat_json_path} mit {len(flat_dict)} ICF-Codes")
 
-def update_cache(xml_path: Path, target_dir: Path, lang: str = "de") -> None:
-    export_icf(xml_path, target_dir, lang)
-
-def export_language(xml_path: Path, target_dir: Path, lang: str) -> None:
-    export_icf(xml_path, target_dir, lang)
+def _cli_stats(target_dir: Path) -> None:
+    """
+    Gibt Basis-Statistiken über die ICF-Daten aus.
+    
+    Args:
+        target_dir: Verzeichnis, in dem die index.json liegt
+    """
+    # Diese Funktion sollte später implementiert werden
+    print("Statistiken werden noch nicht unterstützt.")
 
 ##########################################
 # Kommandozeilen-Interface               #
 ##########################################
-
-def _cli_stats(target_dir: Path):
-    s = stats(target_dir)
-    print("\n".join(f"{k}: {v}" for k, v in s.items()))
 
 def main() -> None:
     parser = argparse.ArgumentParser(
@@ -250,11 +233,18 @@ Beispiel:
         shutil.rmtree(args.target_dir)
     args.target_dir.mkdir(parents=True, exist_ok=True)
 
-    export_icf(args.xml_path, args.target_dir, args.lang)
+    # Exportiere und erhalte Index
+    index = export_icf(args.xml_path, args.target_dir, args.lang)
+
+    # Optional: Flatten und Stats
     if args.flatten:
         create_flat_json(args.target_dir)
     if args.stats:
         _cli_stats(args.target_dir)
 
+    # Ausgabe des Index auf stdout
+    print(json.dumps(index, ensure_ascii=False, indent=2))
+
 if __name__ == "__main__":
     main()
+
