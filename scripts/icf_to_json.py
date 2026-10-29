@@ -131,7 +131,7 @@ def export_qualifiers(root: ET.Element, target_dir: Path, lang: str = "de") -> N
             continue
         preferred = rubrics(mc, "preferred")
         mod["values"].append({
-            # Codes liegen teils als "xxx:0", teils als "xxx:xxx.0" vor
+            # Codes liegen als "xxx.0", "0" oder – bei Förderfaktoren, weil ClaML kein "+" erlaubt – als "xxx:0" (= xxx+0) vor
             "value": mc.attrib["code"].split(":", 1)[-1].removeprefix("xxx."),
             "preferred": preferred[0] if preferred else "",
         })
