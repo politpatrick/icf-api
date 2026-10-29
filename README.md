@@ -1,4 +1,4 @@
-# ICF-MCP
+# ICF-ICD-MCP
 
 MCP-Server für zwei amtliche Klassifikationen in deutscher Fassung des BfArM:
 
@@ -39,7 +39,7 @@ Damit können Claude und andere MCP-Clients Diagnosen und ICF-Kategorien suchen,
 Repository klonen:
 
 ```bash
-git clone https://github.com/politpatrick/icf-api.git ~/GitHub/icf-api
+git clone https://github.com/politpatrick/icf-icd-mcp.git ~/GitHub/icf-icd-mcp
 ```
 
 ### Claude Desktop
@@ -51,7 +51,7 @@ In `~/Library/Application Support/Claude/claude_desktop_config.json` (oder über
   "mcpServers": {
     "icf": {
       "command": "node",
-      "args": ["/Users/<name>/GitHub/icf-api/src/server.mjs"]
+      "args": ["/Users/<name>/GitHub/icf-icd-mcp/src/server.mjs"]
     }
   }
 }
@@ -62,13 +62,13 @@ Danach Claude Desktop komplett beenden und neu starten. Falls `node` nicht gefun
 ### Claude Code
 
 ```bash
-claude mcp add --scope user icf -- node ~/GitHub/icf-api/src/server.mjs
+claude mcp add --scope user icf -- node ~/GitHub/icf-icd-mcp/src/server.mjs
 ```
 
 ### Ohne Klon (direkt von GitHub)
 
 ```bash
-claude mcp add --scope user icf -- npx -y github:politpatrick/icf-api
+claude mcp add --scope user icf -- npx -y github:politpatrick/icf-icd-mcp
 ```
 
 ## Projektstruktur
