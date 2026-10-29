@@ -65,12 +65,8 @@ src/                 MCP-Server
 icf_json/            Generierte ICF-Daten (hierarchisch, icf_flat.json, qualifiers.json)
 source/              ClaML-Quelldatei der ICF
 scripts/             Konvertierung ClaML → JSON
-functions/           OpenAPI-Beschreibung für die BetreuerGPT-Action (liest icf_json über GitHub Raw)
 test/                Tests
 ```
-
-`icf_json/` bleibt bewusst an dieser Stelle, weil die GPT-Action die Dateien unter
-`https://raw.githubusercontent.com/politpatrick/icf-api/main/icf_json/…` abruft.
 
 ## Entwicklung
 
