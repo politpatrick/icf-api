@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ICF & ICD-10-GM MCP</title>
+  <meta name="description" content="MCP-Server zum Nachschlagen und Prüfen von ICF- und ICD-10-GM-Kodes">
+  <style>
+    :root { --bg: #fbfaf7; --fg: #1f1d1a; --muted: #6b665e; --line: #e4e0d8; --code: #f0ede6; --accent: #2f5d50; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #171614; --fg: #ece8e1; --muted: #a39d93; --line: #2e2b27; --code: #23211e; --accent: #8cc2b0; }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+    main { max-width: 680px; margin: 0 auto; padding: 48px 16px 64px; }
+    h1 { font-size: 1.6rem; margin: 0 0 4px; }
+    h2 { font-size: 1.05rem; margin: 32px 0 8px; }
+    p, li { color: var(--fg); }
+    .lead { color: var(--muted); margin-top: 0; }
+    code, .url { font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: .9em; background: var(--code); border-radius: 4px; padding: 1px 5px; }
+    .url { display: block; padding: 10px 12px; margin: 8px 0; overflow-wrap: anywhere; border: 1px solid var(--line); }
+    ul { padding-left: 20px; }
+    a { color: var(--accent); }
+    footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: .85rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>ICF &amp; ICD-10-GM MCP</h1>
+    <p class="lead">MCP-Server zum Nachschlagen und Prüfen von ICF-Kategorien und ICD-10-GM-Diagnosen, deutsche Fassungen des BfArM.</p>
+
+    <h2>Endpunkt</h2>
+    <span class="url" id="endpoint">/mcp</span>
+    <p>Streamable HTTP, ohne Anmeldung, nur lesend. Die Seite selbst speichert nichts.</p>
+
+    <h2>In Claude einbinden</h2>
+    <ul>
+      <li><strong>claude.ai / Claude Desktop:</strong> Einstellungen → Konnektoren → Benutzerdefinierten Konnektor hinzufügen, obige URL eintragen.</li>
+      <li><strong>Claude Code:</strong> <code id="cc">claude mcp add --transport http icf-icd /mcp</code></li>
+    </ul>
+
+    <h2>Tools</h2>
+    <ul>
+      <li>ICF: <code>icf_search</code>, <code>icf_get_code</code>, <code>icf_list_chapters</code>, <code>icf_get_related</code>, <code>icf_get_qualifiers</code>, <code>icf_interpret_coding</code></li>
+      <li>ICD-10-GM 2026: <code>icd_search</code>, <code>icd_get_code</code>, <code>icd_list_chapters</code>, <code>icd_check_code</code></li>
+    </ul>
+
+    <footer>
+      ICF © WHO 2001, ICD-10 © WHO 1992, ICD-10-AM © Commonwealth of Australia 1998; deutsche Fassungen herausgegeben vom
+      Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM). Erstellt unter Verwendung der maschinenlesbaren Fassung des BfArM.
+      Vollständige Quellenangaben: <a href="https://github.com/politpatrick/icf-icd-mcp/blob/main/QUELLEN.md">QUELLEN.md</a> ·
+      Quellcode: <a href="https://github.com/politpatrick/icf-icd-mcp">github.com/politpatrick/icf-icd-mcp</a><br>
+      Die Inhalte ersetzen keine fachliche Bewertung im Einzelfall. Verbindlich sind die PDF-Fassungen des BfArM.
+    </footer>
+  </main>
+  <script>
+    const url = location.origin + "/mcp";
+    document.getElementById("endpoint").textContent = url;
+    document.getElementById("cc").textContent = "claude mcp add --transport http icf-icd " + url;
+  </script>
+</body>
+</html>

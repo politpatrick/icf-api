@@ -1,15 +1,10 @@
 // ICD-10-GM-Datenzugriff für den MCP-Server: lädt icd10gm.json aus ../data
 // und stellt Abfrage-Funktionen für die Tools bereit.
 
-import { readFileSync } from "node:fs";
-import { fileURLToPath } from "node:url";
-import path from "node:path";
+import { readData } from "./data.mjs";
 import { fold, LookupError } from "./text.mjs";
 
-const DATA_DIR = process.env.ICF_DATA_DIR
-  ?? path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "data");
-
-const { meta: VERSION, codes } = JSON.parse(readFileSync(path.join(DATA_DIR, "icd10gm.json"), "utf-8"));
+const { meta: VERSION, codes } = readData("icd10gm.json");
 
 export const ICD_VERSION = `ICD-10-GM ${VERSION.version}`;
 

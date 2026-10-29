@@ -21,6 +21,7 @@ icd_check_code prüft einen Kode mit Zusatzkennzeichen (G/V/Z/A, R/L/B), icd_lis
 Nur endständige Kodes sind (stationär) kodierbar; Stern-Kodes (*) nur zusammen mit einem Kreuz-Kode (†).
 
 Codes immer mit icf_get_code bzw. icd_get_code verifizieren, bevor sie in Berichten verwendet werden.
+Quellen: ICF und ICD-10-GM © WHO, deutsche Fassung herausgegeben vom BfArM; Quellenangaben unter https://github.com/politpatrick/icf-icd-mcp/blob/main/QUELLEN.md
 Eine ICD-Diagnose sagt nichts über die Funktionsfähigkeit aus – ICF-Kategorien müssen im Einzelfall begründet werden.`;
 
 const codeParam = {
