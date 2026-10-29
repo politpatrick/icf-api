@@ -104,6 +104,7 @@ def export_icf(xml_path: Path, target_dir: Path, lang: str = "de") -> Dict[str, 
     index: Dict[str, str] = {}
     for comp in tops:
         _save_class_recursive(comp, code_map, target_dir, lang, index)
+    export_qualifiers(root, target_dir, lang)
     # Schreibe Datei, falls gewünscht
     (target_dir / "index.json").write_text(
         json.dumps(index, ensure_ascii=False, indent=2),
@@ -111,6 +112,53 @@ def export_icf(xml_path: Path, target_dir: Path, lang: str = "de") -> Dict[str, 
     )
     # Gib Index zurück
     return index
+
+def _label_text(label: ET.Element) -> str:
+    # Modifier-Rubriken enthalten verschachtelte <Para>-Elemente
+    return " ".join(" ".join(label.itertext()).split())
+
+def export_qualifiers(root: ET.Element, target_dir: Path, lang: str = "de") -> None:
+    """
+    Exportiert die ICF-Beurteilungsmerkmale (ClaML-Modifier) nach qualifiers.json.
+
+    Struktur: {"modifiers": {code: {...}}, "components": {"b": [modifier-codes], ...}}
+    """
+    def rubrics(elem: ET.Element, kind: str) -> List[str]:
+        return [
+            _label_text(label)
+            for rubric in elem.findall("Rubric") if rubric.attrib.get("kind") == kind
+            for label in rubric.findall("Label")
+            if label.attrib.get(XML_LANG, lang) == lang and _label_text(label)
+        ]
+
+    modifiers: Dict[str, Dict] = {}
+    for mod in root.findall("Modifier"):
+        preferred = rubrics(mod, "preferred")
+        modifiers[mod.attrib["code"]] = {
+            "code": mod.attrib["code"],
+            "preferred": preferred[0] if preferred else mod.attrib["code"],
+            "definitions": rubrics(mod, "definition"),
+            "values": [],
+        }
+    for mc in root.findall("ModifierClass"):
+        mod = modifiers.get(mc.attrib["modifier"])
+        if mod is None:
+            continue
+        preferred = rubrics(mc, "preferred")
+        mod["values"].append({
+            # Codes liegen teils als "xxx:0", teils als "xxx:xxx.0" vor
+            "value": mc.attrib["code"].split(":", 1)[-1].removeprefix("xxx."),
+            "preferred": preferred[0] if preferred else "",
+        })
+
+    components = {
+        cls.attrib["code"]: [mb.attrib["code"] for mb in cls.findall("ModifiedBy")]
+        for cls in root.findall("Class") if cls.findall("ModifiedBy")
+    }
+    (target_dir / "qualifiers.json").write_text(
+        json.dumps({"modifiers": modifiers, "components": components}, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
 
 ##########################################
 # Komfort-Funktionen für den API-Einsatz  #

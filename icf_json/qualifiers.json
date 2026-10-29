@@ -1,0 +1,300 @@
+{
+  "modifiers": {
+    "Q_Förderfaktoren": {
+      "code": "Q_Förderfaktoren",
+      "preferred": "Förderfaktoren",
+      "definitions": [
+        "Für die Fälle, in denen kalibrierte Assessmentinstrumente oder andere Standards zur Quantifizierung des Ausmaßes von Barrieren oder Fazilitatoren zur Verfügung stehen, werden breite Prozentbereiche angegeben. Wenn zum Beispiel für eine Barriere \"nicht vorhanden\" oder \"voll ausgeprägt\" kodiert wird, hat diese Skalierung eine Fehlertoleranzgrenze von bis zu 5%. \"Mäßig ausgeprägt\" ist definiert als höchstens der halbe Skalenwert jenes von \"voll ausgeprägt\". Die Prozentwerte müssen für die unterschiedlichen Domänen als Perzentile mit Bezug auf Bevölkerungsstandards kalibriert werden. Um diese Quantifizierung einheitlich benutzen zu können, müssen Assessmentverfahren durch Forschung entwickelt werden. Das zweite Beurteilungsmerkmal ist noch zu entwickeln."
+      ],
+      "values": [
+        {
+          "value": "0",
+          "preferred": "Förderfaktor nicht vorhanden (ohne, kein, unerheblich ...) 0-4%"
+        },
+        {
+          "value": "1",
+          "preferred": "Förderfaktor leicht ausgeprägt (schwach, gering ...) 5-24%"
+        },
+        {
+          "value": "2",
+          "preferred": "Förderfaktor mäßig ausgeprägt (mittel, ziemlich ...) 25-49%"
+        },
+        {
+          "value": "3",
+          "preferred": "Förderfaktor erheblich ausgeprägt (hoch, äußerst ...) 50-95%"
+        },
+        {
+          "value": "4",
+          "preferred": "Förderfaktor voll ausgeprägt (komplett, total ...) 96-100%"
+        },
+        {
+          "value": "8",
+          "preferred": "Förderfaktor nicht spezifiziert"
+        },
+        {
+          "value": "9",
+          "preferred": "nicht anwendbar"
+        }
+      ]
+    },
+    "Q_Ausmaß_der_Schädigung-s": {
+      "code": "Q_Ausmaß_der_Schädigung-s",
+      "preferred": "Ausmaß oder Größe der Schädigung",
+      "definitions": [
+        "Für die Fälle, in denen kalibrierte Assessmentinstrumente oder andere Standards zur Quantifizierung der Schädigung zur Verfügung stehen, werden breite Prozentbereiche angegeben. Wenn zum Beispiel \"nicht vorhanden\" oder \"voll ausgeprägt\" kodiert wird, hat diese Skalierung eine Fehlerrate von bis zu 5%. \"Mäßig ausgeprägt\" ist definiert als höchstens der halbe Skalenwert jenes von \"voll ausgeprägt\". Die Prozentwerte müssen für die unterschiedlichen Domänen als Perzentile bezüglich der Bevölkerungsstandards kalibriert werden. Für diese Quantifizierungen, die einheitlich verwendet werden sollen, müssen Assessmentverfahren durch Forschung entwickelt werden."
+      ],
+      "values": [
+        {
+          "value": "0",
+          "preferred": "Schädigung nicht vorhanden (ohne, kein, unerheblich ...) 0-4 %"
+        },
+        {
+          "value": "1",
+          "preferred": "Schädigung leicht ausgeprägt (schwach, gering ...) 5-24 %"
+        },
+        {
+          "value": "2",
+          "preferred": "Schädigung mäßig ausgeprägt (mittel, ziemlich ...) 25-49 %"
+        },
+        {
+          "value": "3",
+          "preferred": "Schädigung erheblich ausgeprägt (hoch, äußerst ...) 50-95 %"
+        },
+        {
+          "value": "4",
+          "preferred": "Schädigung voll ausgeprägt (komplett, total ...) 96-100 %"
+        },
+        {
+          "value": "8",
+          "preferred": "nicht spezifiziert"
+        },
+        {
+          "value": "9",
+          "preferred": "nicht anwendbar"
+        }
+      ]
+    },
+    "Q_Ausmaß_der_Schädigung": {
+      "code": "Q_Ausmaß_der_Schädigung",
+      "preferred": "Ausmaß oder Größe der Schädigung",
+      "definitions": [
+        "Für die Fälle, in denen kalibrierte Assessmentinstrumente oder andere Standards zur Quantifizierung der Funktionsstörungen zur Verfügung stehen, werden breite Prozentbereiche angegeben. Wenn zum Beispiel \"nicht vorhanden\" oder \"voll ausgeprägt\" kodiert wird, hat diese Skalierung eine Fehlertoleranzgrenze von bis zu 5%. \"Mäßig ausgeprägt\" ist definiert als höchstens der halbe Skalenwert jenes von \"voll ausgeprägt\". Die Prozentwerte müssen für die unterschiedlichen Domänen als Perzentile mit Bezug auf Bevölkerungsstandards kalibriert werden. Um diese Quantifizierung einheitlich benutzen zu können, müssen Assessmentverfahren durch Forschung entwickelt werden. Für weitere Erläuterungen zu den Kodierungskonventionen der ICF siehe Anhang 2 unter \"Ergänzende Informationen\"."
+      ],
+      "values": [
+        {
+          "value": "0",
+          "preferred": "Schädigung nicht vorhanden (ohne, kein, unerheblich ...) 0-4 %"
+        },
+        {
+          "value": "1",
+          "preferred": "Schädigung leicht ausgeprägt (schwach, gering ...) 5-24 %"
+        },
+        {
+          "value": "2",
+          "preferred": "Schädigung mäßig ausgeprägt (mittel, ziemlich ...) 25-49 %"
+        },
+        {
+          "value": "3",
+          "preferred": "Schädigung erheblich ausgeprägt (hoch, äußerst ...) 50-95 %"
+        },
+        {
+          "value": "4",
+          "preferred": "Schädigung voll ausgeprägt (komplett, total ...) 96-100 %"
+        },
+        {
+          "value": "8",
+          "preferred": "nicht spezifiziert"
+        },
+        {
+          "value": "9",
+          "preferred": "nicht anwendbar"
+        }
+      ]
+    },
+    "Q_Art_oder_Veränderung_in_der_entsprechenden_Körperstruktur": {
+      "code": "Q_Art_oder_Veränderung_in_der_entsprechenden_Körperstruktur",
+      "preferred": "Art oder Veränderung in der entsprechenden Körperstruktur",
+      "definitions": [],
+      "values": [
+        {
+          "value": "0",
+          "preferred": "keine Veränderung"
+        },
+        {
+          "value": "1",
+          "preferred": "nicht vorhanden"
+        },
+        {
+          "value": "2",
+          "preferred": "teilweise nicht vorhanden"
+        },
+        {
+          "value": "3",
+          "preferred": "zusätzlicher Teil"
+        },
+        {
+          "value": "4",
+          "preferred": "von der üblichen Form abweichend (aberrant)"
+        },
+        {
+          "value": "5",
+          "preferred": "Diskontinuität"
+        },
+        {
+          "value": "6",
+          "preferred": "abweichende Lage"
+        },
+        {
+          "value": "7",
+          "preferred": "qualitative Strukturveränderung, einschließlich Ansammlung von Flüssigkeit"
+        },
+        {
+          "value": "8",
+          "preferred": "nicht spezifiziert"
+        },
+        {
+          "value": "9",
+          "preferred": "nicht anwendbar"
+        }
+      ]
+    },
+    "Q_Anatomische_Lokalisation": {
+      "code": "Q_Anatomische_Lokalisation",
+      "preferred": "Anatomische Lokalisation",
+      "definitions": [
+        "Für weitere Erläuterungen zu den Kodierungskonventionen der ICF siehe Anhang 2 unter \"Ergänzende Informationen\"."
+      ],
+      "values": [
+        {
+          "value": "0",
+          "preferred": "mehr als eine Region"
+        },
+        {
+          "value": "1",
+          "preferred": "rechts"
+        },
+        {
+          "value": "2",
+          "preferred": "links"
+        },
+        {
+          "value": "3",
+          "preferred": "beidseitig"
+        },
+        {
+          "value": "4",
+          "preferred": "frontal"
+        },
+        {
+          "value": "5",
+          "preferred": "dorsal"
+        },
+        {
+          "value": "6",
+          "preferred": "proximal"
+        },
+        {
+          "value": "7",
+          "preferred": "distal"
+        },
+        {
+          "value": "8",
+          "preferred": "nicht spezifiziert"
+        },
+        {
+          "value": "9",
+          "preferred": "nicht anwendbar"
+        }
+      ]
+    },
+    "Q_Leistungsfähigkeit_und_Leistung": {
+      "code": "Q_Leistungsfähigkeit_und_Leistung",
+      "preferred": "Leistungsfähigkeit und Leistung",
+      "definitions": [
+        "Für die Fälle, in denen kalibrierte Assessmentinstrumente oder andere Standards zur Quantifizierung der Probleme der Leistung oder der Einschränkung der Leistungsfähigkeit zur Verfügung stehen, werden breite Prozentbereiche angegeben. Wenn zum Beispiel für ein Leistungsproblem \"nicht vorhanden\" oder \"voll ausgeprägt\" kodiert wird, hat diese Skalierung eine Fehlertoleranzgrenze von bis zu 5%. \"Mäßig ausgeprägt\" ist definiert als höchstens der halbe Skalenwert jenes von \"voll ausgeprägt\". Die Prozentwerte müssen für die unterschiedlichen Domänen als Perzentile mit Bezug auf Bevölkerungsstandards kalibriert werden. Um diese Quantifizierung einheitlich benutzen zu können, müssen Assessmentverfahren durch Forschung entwickelt werden. Für weitere Erläuterungen zu den Kodierungskonventionen der ICF siehe Anhang 2 unter \"Ergänzende Informationen\"."
+      ],
+      "values": [
+        {
+          "value": "0",
+          "preferred": "Problem nicht vorhanden (ohne, kein, unerheblich ...) 0-4 %"
+        },
+        {
+          "value": "1",
+          "preferred": "Problem leicht ausgeprägt (schwach, gering ...) 5-24 %"
+        },
+        {
+          "value": "2",
+          "preferred": "Problem mäßig ausgeprägt (mittel, ziemlich ...) 25-49 %"
+        },
+        {
+          "value": "3",
+          "preferred": "Problem erheblich ausgeprägt (hoch, äußerst ...) 50-95 %"
+        },
+        {
+          "value": "4",
+          "preferred": "Problem voll ausgeprägt (komplett, total ...) 96-100 %"
+        },
+        {
+          "value": "8",
+          "preferred": "nicht spezifiziert"
+        },
+        {
+          "value": "9",
+          "preferred": "nicht anwendbar"
+        }
+      ]
+    },
+    "Q_Barrieren": {
+      "code": "Q_Barrieren",
+      "preferred": "Barrieren",
+      "definitions": [],
+      "values": [
+        {
+          "value": "0",
+          "preferred": "Barriere nicht vorhanden (ohne, kein, unerheblich ...) 0-4%"
+        },
+        {
+          "value": "1",
+          "preferred": "Barriere leicht ausgeprägt (schwach, gering ...) 5-24%"
+        },
+        {
+          "value": "2",
+          "preferred": "Barriere mäßig ausgeprägt (mittel, ziemlich ...) 25-49%"
+        },
+        {
+          "value": "3",
+          "preferred": "Barriere erheblich ausgeprägt (hoch, äußerst ...) 50-95%"
+        },
+        {
+          "value": "4",
+          "preferred": "Barriere voll ausgeprägt (komplett, total ...) 96-100%"
+        },
+        {
+          "value": "8",
+          "preferred": "Barriere nicht spezifiziert"
+        },
+        {
+          "value": "9",
+          "preferred": "nicht anwendbar"
+        }
+      ]
+    }
+  },
+  "components": {
+    "b": [
+      "Q_Ausmaß_der_Schädigung"
+    ],
+    "s": [
+      "Q_Ausmaß_der_Schädigung-s",
+      "Q_Art_oder_Veränderung_in_der_entsprechenden_Körperstruktur",
+      "Q_Anatomische_Lokalisation"
+    ],
+    "d": [
+      "Q_Leistungsfähigkeit_und_Leistung"
+    ],
+    "e": [
+      "Q_Barrieren",
+      "Q_Förderfaktoren"
+    ]
+  }
+}
