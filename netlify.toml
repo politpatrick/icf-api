@@ -1,0 +1,6 @@
+[build]
+  publish = "public"
+
+[functions]
+  # Die JSON-Daten werden zur Laufzeit per fs gelesen und müssen daher explizit mitkommen
+  included_files = ["data/*.json"]
