@@ -62,7 +62,7 @@ src/                 MCP-Server
   server.mjs         Einstieg (stdio)
   protocol.mjs       JSON-RPC/MCP-Protokoll und Tool-Definitionen
   icf.mjs            Datenzugriff und Abfragelogik
-icf_json/            Generierte ICF-Daten (hierarchisch, icf_flat.json, qualifiers.json)
+data/                Generierte ICF-Daten (icf_flat.json, qualifiers.json)
 source/              ClaML-Quelldatei der ICF
 scripts/             Konvertierung ClaML → JSON
 test/                Tests
@@ -73,7 +73,7 @@ test/                Tests
 ```bash
 npm test             # Tests (node:test)
 npm start            # Server auf stdio starten
-npm run build:data   # icf_json/ aus source/ neu erzeugen (Python 3.9+)
+npm run build:data   # data/ aus source/ neu erzeugen (Python 3.9+)
 ```
 
 Manuell testen lässt sich der Server, indem man JSON-RPC-Zeilen auf stdin schickt:

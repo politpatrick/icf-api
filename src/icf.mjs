@@ -1,12 +1,12 @@
 // ICF-Datenzugriff für den MCP-Server: lädt icf_flat.json und qualifiers.json
-// aus ../icf_json und stellt Abfrage-Funktionen für die Tools bereit.
+// aus ../data und stellt Abfrage-Funktionen für die Tools bereit.
 
 import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
 const DATA_DIR = process.env.ICF_DATA_DIR
-  ?? path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "icf_json");
+  ?? path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "data");
 
 const codes = JSON.parse(readFileSync(path.join(DATA_DIR, "icf_flat.json"), "utf-8"));
 const qualifiers = JSON.parse(readFileSync(path.join(DATA_DIR, "qualifiers.json"), "utf-8"));

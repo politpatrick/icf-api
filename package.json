@@ -9,8 +9,8 @@
   },
   "files": [
     "src",
-    "icf_json/icf_flat.json",
-    "icf_json/qualifiers.json"
+    "data/icf_flat.json",
+    "data/qualifiers.json"
   ],
   "scripts": {
     "start": "node src/server.mjs",

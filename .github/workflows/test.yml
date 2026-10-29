@@ -18,15 +18,15 @@ jobs:
       - run: npm test
 
   data:
-    # Prüft, dass icf_json/ zur ClaML-Quelle passt
+    # Prüft, dass data/ zur ClaML-Quelle passt
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: scripts/run_icf_workflow.sh "" /tmp/icf_json
+      - run: scripts/run_icf_workflow.sh "" /tmp/icf_data
       - run: |
           for f in icf_flat.json qualifiers.json; do
-            diff -q "icf_json/$f" "/tmp/icf_json/$f"
+            diff -q "data/$f" "/tmp/icf_data/$f"
           done
