@@ -2,16 +2,26 @@
 // Unabhängig vom Transport: handleMessage() wird von stdio- und HTTP-Einstieg genutzt.
 
 import * as icf from "./icf.mjs";
+import * as icd from "./icd.mjs";
+import { LookupError } from "./text.mjs";
 
 const PROTOCOL_VERSIONS = ["2025-06-18", "2025-03-26", "2024-11-05"];
 
-const SERVER_INFO = { name: "icf", title: "ICF (Deutsch)", version: "1.0.0" };
+const SERVER_INFO = { name: "icf", title: "ICF und ICD-10-GM (Deutsch)", version: "1.1.0" };
 
-const INSTRUCTIONS = `Zugriff auf die deutsche ICF (Internationale Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit, WHO/BfArM 2005).
-Komponenten: b = Körperfunktionen, s = Körperstrukturen, d = Aktivitäten und Partizipation, e = Umweltfaktoren.
+const INSTRUCTIONS = `Zugriff auf die deutsche ICF (Internationale Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit, WHO/BfArM 2005)
+und die ${icd.ICD_VERSION} (Diagnosen, Systematisches Verzeichnis des BfArM).
+
+ICF – Komponenten: b = Körperfunktionen, s = Körperstrukturen, d = Aktivitäten und Partizipation, e = Umweltfaktoren.
 Typischer Ablauf: icf_search findet passende Kategorien zu einer Beschreibung, icf_get_code liefert Definition, Ein-/Ausschlüsse und Unterkategorien,
 icf_get_qualifiers erklärt die Beurteilungsmerkmale, icf_interpret_coding prüft und übersetzt eine vollständige Kodierung wie d450.23 oder e310+3.
-Codes immer mit icf_get_code verifizieren, bevor sie in Berichten verwendet werden.`;
+
+ICD-10-GM – icd_search findet Diagnosen, icd_get_code liefert Titel, Ein-/Ausschlüsse, Hinweise und Kodierregeln (§295/§301, Alter, Geschlecht),
+icd_check_code prüft einen Kode mit Zusatzkennzeichen (G/V/Z/A, R/L/B), icd_list_chapters zeigt Kapitel und Gruppen.
+Nur endständige Kodes sind (stationär) kodierbar; Stern-Kodes (*) nur zusammen mit einem Kreuz-Kode (†).
+
+Codes immer mit icf_get_code bzw. icd_get_code verifizieren, bevor sie in Berichten verwendet werden.
+Eine ICD-Diagnose sagt nichts über die Funktionsfähigkeit aus – ICF-Kategorien müssen im Einzelfall begründet werden.`;
 
 const codeParam = {
   type: "object",
@@ -89,6 +99,61 @@ const TOOLS = [
     annotations: readOnly,
     run: icf.interpretCoding,
   },
+  {
+    name: "icd_search",
+    title: "ICD-10-GM durchsuchen",
+    description:
+      "Sucht Diagnosen in der ICD-10-GM nach Titel und Einschlussbegriffen. Mehrere Wörter werden UND-verknüpft; Umlaute und Groß-/Kleinschreibung sind egal. Auch Kode-Präfixe (z. B. \"F32\") funktionieren. Liefert Kode, vollständigen Titel und ob der Kode endständig (kodierbar) ist.",
+    inputSchema: {
+      type: "object",
+      properties: {
+        query: { type: "string", description: 'Suchbegriff(e), z. B. "depressive Episode" oder "Diabetes Typ 2 Fuß"' },
+        chapter: { type: "string", description: 'Optional: auf ein Kapitel einschränken, römisch, z. B. "V" für psychische Störungen' },
+        codable_only: { type: "boolean", default: false, description: "Nur endständige (kodierbare) Kodes" },
+        limit: { type: "integer", minimum: 1, maximum: 100, default: 20 },
+      },
+      required: ["query"],
+    },
+    annotations: readOnly,
+    run: icd.search,
+  },
+  {
+    name: "icd_get_code",
+    title: "ICD-10-GM-Kode abrufen",
+    description:
+      "Vollständige Angaben zu einem ICD-10-GM-Kode, einer Gruppe (z. B. \"F30-F39\") oder einem Kapitel (z. B. \"V\"): Titel, Hierarchiepfad, Ein- und Ausschlüsse mit verwiesenen Kodes, Hinweise, Definitionen, Unterkodes sowie Kodierregeln (§295 ambulant, §301 stationär, Kreuz/Stern/Ausrufezeichen, Alters- und Geschlechtsbezug).",
+    inputSchema: {
+      type: "object",
+      properties: { code: { type: "string", description: 'ICD-10-GM-Kode, z. B. "F32.1", "E11.90", "F30-F39" oder "V"' } },
+      required: ["code"],
+    },
+    annotations: readOnly,
+    run: icd.getCode,
+  },
+  {
+    name: "icd_list_chapters",
+    title: "ICD-10-GM-Kapitel auflisten",
+    description: "Listet die 22 Kapitel der ICD-10-GM mit Kodebereichen, oder die Gruppen eines Kapitels.",
+    inputSchema: {
+      type: "object",
+      properties: { chapter: { type: "string", description: 'Optional: Kapitel römisch, z. B. "V"' } },
+    },
+    annotations: readOnly,
+    run: icd.listChapters,
+  },
+  {
+    name: "icd_check_code",
+    title: "ICD-10-GM-Kode prüfen",
+    description:
+      "Prüft einen ICD-10-GM-Kode auf Kodierbarkeit: existiert er, ist er endständig, ist er ambulant (§295) bzw. stationär (§301) zugelassen, gelten Kreuz-/Stern-/Ausrufezeichen-Regeln oder Alters-/Geschlechtsgrenzen. Versteht Zusatzkennzeichen für Diagnosesicherheit (G, V, Z, A) und Seite (R, L, B), z. B. \"F32.1 G\" oder \"M17.1 R G\".",
+    inputSchema: {
+      type: "object",
+      properties: { code: { type: "string", description: 'Kode mit optionalen Zusatzkennzeichen, z. B. "F32.1 G"' } },
+      required: ["code"],
+    },
+    annotations: readOnly,
+    run: icd.checkCode,
+  },
 ];
 
 const toolsByName = Object.fromEntries(TOOLS.map((t) => [t.name, t]));
@@ -105,7 +170,7 @@ function callTool({ name, arguments: args = {} }) {
       },
     };
   } catch (err) {
-    if (!(err instanceof icf.IcfError)) throw err;
+    if (!(err instanceof LookupError)) throw err;
     return { result: { content: [{ type: "text", text: err.message }], isError: true } };
   }
 }

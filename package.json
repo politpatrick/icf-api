@@ -1,7 +1,7 @@
 {
   "name": "icf-mcp",
-  "version": "1.0.0",
-  "description": "MCP-Server für die deutsche ICF (Internationale Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit)",
+  "version": "1.1.0",
+  "description": "MCP-Server für die deutsche ICF und die ICD-10-GM",
   "private": true,
   "type": "module",
   "bin": {
@@ -10,12 +10,13 @@
   "files": [
     "src",
     "data/icf_flat.json",
-    "data/qualifiers.json"
+    "data/qualifiers.json",
+    "data/icd10gm.json"
   ],
   "scripts": {
     "start": "node src/server.mjs",
     "test": "node --test test/*.test.mjs",
-    "build:data": "scripts/run_icf_workflow.sh"
+    "build:data": "scripts/build_data.sh"
   },
   "engines": {
     "node": ">=18"
@@ -24,5 +25,5 @@
     "type": "git",
     "url": "https://github.com/politpatrick/icf-api.git"
   },
-  "keywords": ["icf", "mcp", "model-context-protocol", "claude", "teilhabe", "sgb-ix"]
+  "keywords": ["icf", "icd-10-gm", "mcp", "model-context-protocol", "claude", "teilhabe", "sgb-ix"]
 }

@@ -4,6 +4,7 @@
 import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
+import { fold, LookupError } from "./text.mjs";
 
 const DATA_DIR = process.env.ICF_DATA_DIR
   ?? path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "data");
@@ -22,15 +23,6 @@ for (const entry of Object.values(codes)) {
 const byTitle = {};
 for (const entry of Object.values(codes)) {
   (byTitle[fold(entry.preferred)] ??= []).push(entry.code);
-}
-
-function fold(text) {
-  return text
-    .toLowerCase()
-    .replace(/ß/g, "ss")
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
-    .replace(/ae/g, "a").replace(/oe/g, "o").replace(/ue/g, "u");
 }
 
 function normalizeCode(code) {
@@ -52,13 +44,11 @@ function componentOf(code) {
   return COMPONENTS.find((c) => code.startsWith(c));
 }
 
-export class IcfError extends Error {}
-
 function requireCode(raw) {
   const code = normalizeCode(raw);
   if (!codes[code]) {
     const suggestions = Object.keys(codes).filter((c) => c.startsWith(code.slice(0, 4))).slice(0, 10);
-    throw new IcfError(
+    throw new LookupError(
       `ICF-Code "${raw}" nicht gefunden.` +
         (suggestions.length ? ` Ähnliche Codes: ${suggestions.join(", ")}` : "")
     );
@@ -113,7 +103,7 @@ export function getRelated({ code: raw }) {
 
 export function search({ query, component, limit = 20 }) {
   const terms = fold(String(query ?? "")).split(/\s+/).filter(Boolean);
-  if (!terms.length) throw new IcfError("Suchbegriff fehlt.");
+  if (!terms.length) throw new LookupError("Suchbegriff fehlt.");
   const comp = component ? normalizeCode(component) : null;
   const results = [];
   for (const entry of Object.values(codes)) {
@@ -194,7 +184,7 @@ export function getQualifiers({ code: raw }) {
 export function interpretCoding({ coding }) {
   const match = String(coding ?? "").trim().toLowerCase().match(/^([bsde][\d]*)(?:([.+])([\d]*))?$/);
   if (!match) {
-    throw new IcfError(`"${coding}" ist keine gültige ICF-Kodierung (Beispiele: d450.23, b1440.2, e310+3, s7500.213).`);
+    throw new LookupError(`"${coding}" ist keine gültige ICF-Kodierung (Beispiele: d450.23, b1440.2, e310+3, s7500.213).`);
   }
   const [, rawCode, sep, digits = ""] = match;
   const code = requireCode(rawCode);
