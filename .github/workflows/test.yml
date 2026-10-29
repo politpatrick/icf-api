@@ -18,15 +18,15 @@ jobs:
       - run: npm test
 
   data:
-    # Prüft, dass data/ zur ClaML-Quelle passt
+    # Prüft, dass data/ zu den ClaML-Quellen in source/ passt
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: scripts/run_icf_workflow.sh "" /tmp/icf_data
+      - run: scripts/build_data.sh /tmp/data
       - run: |
-          for f in icf_flat.json qualifiers.json; do
-            diff -q "data/$f" "/tmp/icf_data/$f"
+          for f in icf_flat.json qualifiers.json icd10gm.json; do
+            cmp "data/$f" "/tmp/data/$f"
           done

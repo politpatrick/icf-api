@@ -26,6 +26,7 @@ test("Notifications bekommen keine Antwort, unbekannte Methoden einen Fehler", (
 test("tools/list liefert alle Tools ohne interne Felder", () => {
   const { tools } = handleMessage({ jsonrpc: "2.0", id: 4, method: "tools/list" }).result;
   assert.deepEqual(tools.map((t) => t.name).sort(), [
+    "icd_check_code", "icd_get_code", "icd_list_chapters", "icd_search",
     "icf_get_code", "icf_get_qualifiers", "icf_get_related", "icf_interpret_coding", "icf_list_chapters", "icf_search",
   ]);
   assert.ok(tools.every((t) => !("run" in t) && t.inputSchema));
