@@ -1,9 +1,0 @@
-{
-  "code": "e2250",
-  "kind": "fivedigit",
-  "children": [],
-  "preferred": "Temperatur",
-  "coding-hints": [
-    "Wärme- oder Kältegrade, wie hohe und niedrige Temperatur, normale oder extreme Temperaturen"
-  ]
-}
